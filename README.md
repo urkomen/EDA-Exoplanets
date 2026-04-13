@@ -16,12 +16,12 @@ La clave de este análisis es centrarse en los factores que afectan a la probabi
 
 El proyecto se estructura alrededor de 6 hipótesis principales:
 
->**H1**: Los exoplanetas con temperaturas compatibles con agua líquida tienen radios similares a los de la Tierra (¿y las masas?).
->**H2**: Los métodos actuales detectan preferentemente planetas grandes y calientes, no los más habitables.
->**H3**: Las estrellas más estables (actividad baja) tienen más planetas potencialmente habitables.
->**H4**: El porcentaje de planetas *Tipo Tierra* es extremadamente bajo dentro del catálogo conocido.
->**H5**: La mayoría de las estrellas cercanas no cumplen simultáneamente condiciones para la vida inteligente (edad, estabilidad, metalicidad, zona habitable...).
->**H6**: La distancia media entre planetas potencialmente habitables es tan grande que la comunicación entre sí o viajes interestelares es muy improbable.
+>**H1**: Los exoplanetas con temperaturas compatibles con agua líquida tienen radios similares a los de la Tierra (¿y las masas?).  
+>**H2**: Los métodos actuales detectan preferentemente planetas grandes y calientes, no los más habitables.  
+>**H3**: Las estrellas más estables (actividad baja) tienen más planetas potencialmente habitables.  
+>**H4**: El porcentaje de planetas *Tipo Tierra* es extremadamente bajo dentro del catálogo conocido.  
+>**H5**: La mayoría de las estrellas cercanas no cumplen simultáneamente condiciones para la vida inteligente (edad, estabilidad, metalicidad, zona habitable...).  
+>**H6**: La distancia media entre planetas potencialmente habitables es tan grande que la comunicación entre sí o viajes interestelares es muy improbable.  
 
 ---
 
