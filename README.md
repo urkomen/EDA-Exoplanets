@@ -1,7 +1,7 @@
 # Exoplanetas, Habitabilidad y la Paradoja de Fermi - EDA
 
 <div align="center">
-<img src="./img/p_fermi.jpeg" width="800" height="400">
+<img src="./src/img/p_fermi.jpeg" width="800" height="400">
 </div>
 
 ## Descripción
