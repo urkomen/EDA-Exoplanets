@@ -1,0 +1,6054 @@
+rowid,sy_dist,sy_pnum,discoverymethod,disc_year
+1,93.1846,1,Radial Velocity,2007
+2,125.321,1,Radial Velocity,2009
+3,75.4392,1,Radial Velocity,2008
+4,17.9323,2,Radial Velocity,2002
+5,21.1397,1,Radial Velocity,1996
+6,124.953,1,Radial Velocity,2020
+7,76.222,1,Radial Velocity,2008
+8,139.135,1,Imaging,2008
+9,95.9863,1,Radial Velocity,2018
+10,72.0691,2,Radial Velocity,2010
+11,72.0691,2,Radial Velocity,2010
+12,128.484,1,Imaging,2021
+13,47.2,1,Imaging,2013
+14,33.8281,1,Imaging,2013
+15,40.08964117,1,Imaging,2015
+16,66.0613,1,Imaging,2018
+17,117.435,1,Imaging,2024
+18,120.42398696,1,Imaging,2010
+20,100.862,1,Imaging,2024
+21,64.308,1,Imaging,2004
+22,396.332,3,Eclipse Timing Variations,2015
+23,34.1154,1,Imaging,2024
+24,69.5737,1,Imaging,2016
+25,57.2309,1,Imaging,2018
+26,73.4603,1,Radial Velocity,2006
+27,13.7967,3,Radial Velocity,1996
+28,13.7967,3,Radial Velocity,2001
+29,13.7967,3,Radial Velocity,2009
+31,15.4614,1,Radial Velocity,1995
+32,12.4773,7,Radial Velocity,2025
+33,12.4773,7,Radial Velocity,2025
+34,12.5855,7,Radial Velocity,1996
+35,12.5855,7,Radial Velocity,2004
+36,12.5855,7,Radial Velocity,2002
+37,12.5855,7,Radial Velocity,2004
+38,12.5855,7,Radial Velocity,2007
+39,54.6599,1,Radial Velocity,2008
+40,8.50332,3,Radial Velocity,2009
+41,8.50332,3,Radial Velocity,2009
+42,8.50332,3,Radial Velocity,2009
+43,19.8101,2,Radial Velocity,2011
+44,19.8101,2,Radial Velocity,2019
+45,17.9011,1,Radial Velocity,1996
+46,82.9613,2,Radial Velocity,2012
+47,82.9613,2,Radial Velocity,2023
+48,162.552,1,Radial Velocity,2015
+49,101.26,1,Radial Velocity,2008
+50,44.0304,1,Radial Velocity,2013
+51,162.127,1,Imaging,2022
+52,50.0475,1,Imaging,2005
+53,26.8564,1,Imaging,2023
+54,1040.0,1,Microlensing,2025
+55,9.7221,4,Transit,2020
+56,9.7221,4,Transit,2021
+57,9.7221,4,Transit Timing Variations,2023
+58,9.7221,4,Radial Velocity,2025
+59,1070.63,1,Radial Velocity,2017
+61,49.352,1,Radial Velocity,2009
+62,768.045,1,Radial Velocity,2016
+63,426.42,1,Radial Velocity,2013
+64,1539.71,2,Radial Velocity,2009
+65,1539.71,2,Radial Velocity,2009
+66,1322.51,1,Radial Velocity,2012
+67,179.461,1,Transit,2016
+68,454.251,1,Radial Velocity,2023
+69,610.715,1,Radial Velocity,2023
+70,53.622,1,Radial Velocity,2021
+71,871.493,1,Radial Velocity,2011
+72,666.589,1,Radial Velocity,2018
+73,442.042,1,Radial Velocity,2015
+74,52.5697,1,Radial Velocity,2021
+75,44.9543,1,Imaging,2021
+76,38.0473,1,Radial Velocity,2021
+78,20.2695,2,Radial Velocity,2013
+80,41.3342,2,Radial Velocity,2009
+81,84.4069,1,Radial Velocity,2000
+82,27.1665,2,Radial Velocity,2014
+83,27.1665,2,Radial Velocity,2020
+84,925.214,1,Radial Velocity,2007
+85,589.423,1,Transit,2024
+86,34.4603,1,Radial Velocity,2008
+87,23.7324,2,Radial Velocity,2023
+88,23.7324,2,Radial Velocity,2023
+89,119.052,1,Radial Velocity,2025
+91,1.82655,4,Radial Velocity,2024
+92,1.82655,4,Radial Velocity,2025
+93,1.82655,4,Radial Velocity,2025
+94,1.82655,4,Radial Velocity,2025
+95,8.60715,1,Radial Velocity,2020
+96,22.3896,1,Imaging,2011
+97,23.1,1,Imaging,2011
+99,190.374,1,Imaging,2006
+100,157.998,1,Radial Velocity,2024
+101,10.8864,1,Imaging,2021
+102,190.72,1,Imaging,2007
+103,787.909,1,Transit,2008
+104,338.386,1,Transit,2010
+105,655.037,1,Transit,2010
+106,1126.37,1,Transit,2010
+107,1148.93,1,Transit,2010
+108,1744.6,1,Transit,2010
+109,732.409,1,Transit,2011
+110,1176.12,1,Transit,2011
+111,764.889,1,Transit,2011
+112,790.663,1,Transit,2011
+113,213.283,1,Transit,2008
+114,844.061,2,Transit,2011
+115,844.061,2,Radial Velocity,2018
+116,1398.83419686,1,Transit,2012
+117,627.158,1,Transit,2014
+118,1060.97,1,Transit,2011
+119,591.555,2,Transit,2014
+120,591.555,2,Transit,2014
+121,1103.48,1,Transit,2013
+122,1045.18,1,Transit,2013
+123,1010.28,1,Transit,2014
+124,766.183,1,Transit,2015
+125,806.507,1,Transit,2015
+126,768.771,1,Transit,2008
+127,1032.23,1,Transit,2020
+128,2005.76,1,Transit,2020
+129,576.683,1,Transit,2018
+130,1123.21,1,Transit,2022
+131,925.958,1,Transit,2022
+132,726.412,1,Transit,2008
+133,882.472,1,Transit,2009
+134,645.294,1,Transit,2009
+135,159.906,3,Transit,2009
+136,159.906,3,Radial Velocity,2009
+137,159.906,3,Radial Velocity,2022
+138,322.037,1,Transit,2010
+139,412.98,1,Transit,2009
+140,30.5225,1,Eclipse Timing Variations,2018
+141,20.77,1,Astrometry,2013
+142,134.846,1,Imaging,2004
+143,62.5388,4,Radial Velocity,2019
+144,62.5388,4,Radial Velocity,2019
+145,62.5388,4,Radial Velocity,2019
+146,62.5388,4,Radial Velocity,2019
+147,137.94,3,Radial Velocity,2019
+148,137.94,3,Radial Velocity,2026
+149,137.94,3,Radial Velocity,2026
+150,46.8917,1,Radial Velocity,2019
+151,25.3284,1,Radial Velocity,2023
+152,54.6303,2,Radial Velocity,2026
+153,54.6303,2,Radial Velocity,2026
+154,101.386,1,Radial Velocity,2026
+155,76.1335,1,Radial Velocity,2026
+156,109.539,1,Radial Velocity,2026
+157,305.684,1,Eclipse Timing Variations,2009
+158,44.0622,1,Transit,2019
+159,134.0,1,Transit,2020
+160,159.259,1,Transit,2019
+161,706.391,1,Transit,2021
+162,253.026,1,Transit,2019
+163,232.1,2,Transit,2021
+164,476.882,2,Transit,2019
+165,334.967,3,Transit,2019
+166,577.6,1,Transit,2020
+167,257.443,2,Transit,2019
+168,436.488,1,Transit,2019
+169,243.935,2,Transit,2019
+170,369.888,3,Transit,2019
+171,369.888,3,Transit,2021
+172,369.888,3,Transit,2021
+173,161.365,1,Transit,2019
+174,451.769,2,Transit,2019
+175,451.769,2,Transit,2021
+176,109.888,1,Transit,2019
+177,314.35,2,Transit,2019
+178,314.35,2,Transit,2022
+179,186.197,1,Transit,2016
+180,181.69,1,Transit,2018
+181,418.395,2,Transit,2019
+182,418.395,2,Transit,2021
+183,611.804,1,Transit,2019
+184,283.29,1,Transit,2019
+185,320.07,2,Transit,2019
+186,320.07,2,Transit,2021
+187,561.929,2,Transit,2021
+188,561.929,2,Transit,2021
+189,336.25,2,Transit,2019
+190,336.25,2,Transit,2019
+191,624.512,1,Transit,2021
+192,496.289,2,Transit,2019
+193,244.59,2,Transit,2016
+194,244.59,2,Transit,2016
+195,150.124,1,Transit,2021
+196,121.971,1,Transit,2023
+197,372.632,1,Transit,2018
+198,551.886,1,Transit,2018
+199,321.296,3,Transit,2020
+200,321.296,3,Transit,2020
+201,321.296,3,Transit,2020
+202,133.4950466,1,Imaging,2008
+203,9.53114,2,Radial Velocity,2025
+204,9.53114,2,Radial Velocity,2025
+205,21.7912,1,Imaging,2024
+206,10.6267,1,Radial Velocity,2025
+207,16.009,2,Radial Velocity,2021
+208,16.009,2,Radial Velocity,2021
+210,27.9276,1,Transit,2019
+211,4.84867,2,Radial Velocity,2022
+212,4.84867,2,Radial Velocity,2022
+213,3.67278,3,Radial Velocity,2020
+214,3.67278,3,Radial Velocity,2020
+215,3.67278,3,Radial Velocity,2020
+216,12.613,2,Transit,2015
+217,12.613,2,Radial Velocity,2018
+218,11.0143,2,Radial Velocity,2010
+219,11.0143,2,Radial Velocity,2017
+220,8.03625,1,Radial Velocity,2023
+221,14.6427,1,Transit,2009
+222,20.373,1,Transit,2020
+223,10.2525,1,Radial Velocity,2018
+224,8.35147,1,Radial Velocity,2024
+225,16.32,2,Transit,2019
+226,3.56228,2,Radial Velocity,2014
+227,3.56228,2,Radial Velocity,2018
+228,25.8557,1,Radial Velocity,2014
+229,15.1285,3,Radial Velocity,2013
+230,15.1285,3,Radial Velocity,2013
+231,15.1285,3,Radial Velocity,2013
+232,12.356,1,Radial Velocity,2009
+233,11.9407,3,Radial Velocity,2014
+234,11.9407,3,Radial Velocity,2014
+235,11.9407,3,Radial Velocity,2020
+236,37.0788,2,Radial Velocity,2022
+237,37.0788,2,Radial Velocity,2022
+238,28.4434,1,Radial Velocity,2020
+239,38.129,1,Radial Velocity,2025
+240,5.75624,2,Radial Velocity,2020
+241,5.75624,2,Radial Velocity,2014
+242,15.2142,1,Transit,2024
+243,5.58057,2,Radial Velocity,2020
+244,5.58057,2,Radial Velocity,2025
+245,23.6062,1,Radial Velocity,2014
+246,5.921535,2,Radial Velocity,2017
+247,5.921535,2,Radial Velocity,2017
+248,17.5559,1,Radial Velocity,2000
+249,16.6186,1,Radial Velocity,2020
+250,22.4751,2,Transit,2022
+251,22.4751,2,Radial Velocity,2026
+252,28.4712,3,Radial Velocity,2017
+253,28.4712,3,Radial Velocity,2017
+254,28.4712,3,Radial Velocity,2017
+255,15.1968,2,Radial Velocity,2007
+256,15.1968,2,Radial Velocity,2018
+257,18.23817,1,Radial Velocity,2022
+258,20.5266,2,Radial Velocity,2013
+259,20.5266,2,Radial Velocity,2023
+260,20.1903,4,Radial Velocity,2015
+261,20.1903,4,Radial Velocity,2015
+262,20.1903,4,Radial Velocity,2017
+263,20.1903,4,Radial Velocity,2017
+264,5.37484,2,Radial Velocity,2017
+265,5.37484,2,Radial Velocity,2017
+266,23.619,1,Radial Velocity,2015
+267,6.33256,1,Radial Velocity,2020
+268,10.454,1,Transit,2025
+269,29.4214,1,Radial Velocity,2012
+270,27.3644,2,Transit,2020
+271,27.3644,2,Radial Velocity,2020
+272,9.48637,2,Radial Velocity,2019
+273,9.48637,2,Radial Velocity,2020
+274,9.44181,3,Transit,2019
+275,9.44181,3,Radial Velocity,2019
+276,9.44181,3,Radial Velocity,2019
+277,20.3779,1,Radial Velocity,2010
+278,9.41263,3,Transit,2021
+279,9.41263,3,Radial Velocity,2023
+280,9.41263,3,Radial Velocity,2023
+281,13.743,1,Radial Velocity,2018
+282,15.8095,2,Transit,2022
+283,15.8095,2,Radial Velocity,2022
+284,7.03149,1,Radial Velocity,2021
+285,16.9287,1,Radial Velocity,2017
+286,9.9105,1,Radial Velocity,2023
+287,18.1459,3,Radial Velocity,2016
+288,18.1459,3,Radial Velocity,2016
+289,18.1459,3,Radial Velocity,2025
+290,5.675773,2,Radial Velocity,2019
+291,11.8893,2,Radial Velocity,2021
+292,11.8893,2,Radial Velocity,2021
+293,12.6631,1,Radial Velocity,2014
+294,7.23556,2,Radial Velocity,2026
+295,7.23556,2,Radial Velocity,2026
+296,21.3362,1,Radial Velocity,2019
+297,9.06456,3,Radial Velocity,2011
+298,9.06456,3,Radial Velocity,2014
+299,9.06456,3,Radial Velocity,2020
+300,9.75321,1,Radial Velocity,2004
+301,18.3554,1,Radial Velocity,2022
+302,14.2358,1,Radial Velocity,2020
+303,8.07426,1,Radial Velocity,2021
+304,17.5299,1,Imaging,2013
+306,7.61778,1,Radial Velocity,2022
+307,10.4092,2,Radial Velocity,2016
+308,10.4092,2,Radial Velocity,2025
+309,6.2981,3,Radial Velocity,2005
+310,6.2981,3,Radial Velocity,2007
+311,6.2981,3,Radial Velocity,2009
+312,6.47249,1,Radial Velocity,2017
+313,10.3796,1,Radial Velocity,2009
+314,7.24396,5,Radial Velocity,2012
+315,7.24396,5,Radial Velocity,2013
+316,7.24396,5,Radial Velocity,2013
+317,7.24396,5,Radial Velocity,2013
+318,7.24396,5,Radial Velocity,2013
+319,4.54896,1,Radial Velocity,2007
+320,16.0272,4,Radial Velocity,2010
+321,16.0272,4,Radial Velocity,2016
+322,16.0272,4,Radial Velocity,2012
+323,16.0272,4,Radial Velocity,2012
+324,9.67315,1,Radial Velocity,2022
+325,5.00671,2,Radial Velocity,2014
+326,5.00671,2,Radial Velocity,2014
+327,14.3155,1,Radial Velocity,2019
+328,4.54939,2,Radial Velocity,2014
+329,4.54939,2,Radial Velocity,2020
+330,15.5575,1,Radial Velocity,2021
+331,16.9658,1,Radial Velocity,2023
+332,11.1017,1,Radial Velocity,2021
+333,12.0445,2,Transit,2023
+334,12.0445,2,Radial Velocity,2023
+335,4.96435,1,Radial Velocity,2008
+336,8.80058,2,Radial Velocity,2006
+337,8.80058,2,Radial Velocity,2014
+338,10.7836,1,Radial Velocity,1999
+339,4.67517,4,Radial Velocity,1998
+340,4.67517,4,Radial Velocity,2000
+341,4.67517,4,Radial Velocity,2005
+342,4.67517,4,Radial Velocity,2010
+343,3.28679,4,Radial Velocity,2020
+344,3.28679,4,Radial Velocity,2020
+345,3.28679,4,Radial Velocity,2026
+346,3.28679,4,Radial Velocity,2026
+347,6.26022,1,Astrometry,2022
+348,20.8065,1,Imaging,2024
+349,4.471,1,Radial Velocity,2020
+350,23.8839,1,Radial Velocity,2023
+351,11.9315,1,Radial Velocity,2018
+352,30.6203,1,Radial Velocity,2020
+353,20.5121,1,Radial Velocity,2022
+354,15.9211,1,Radial Velocity,2025
+355,29.661,3,Transit,2017
+356,29.661,3,Transit,2017
+357,29.661,3,Transit,2017
+358,655.013,1,Transit,2021
+359,151.169,1,Imaging,2004
+360,108.5,1,Imaging,2010
+361,47.5501,1,Imaging,2014
+362,363.66,1,Transit,2022
+363,209.229,1,Transit,2022
+364,73.4829,1,Astrometry,2025
+365,41.1813,1,Astrometry,2025
+366,1270.0,1,Microlensing,2024
+367,14.9545,1,Radial Velocity,2019
+368,11.9324,1,Radial Velocity,2025
+369,9.8528,1,Radial Velocity,2019
+370,8.15728,1,Radial Velocity,2018
+371,3.5214,1,Radial Velocity,2025
+372,12.21,1,Transit,2024
+373,158.979,1,Transit,2006
+374,37.7647,2,Transit,2008
+375,37.7647,2,Radial Velocity,2018
+376,142.751,1,Transit,2009
+377,246.81,2,Transit,2009
+378,246.81,2,Radial Velocity,2009
+379,222.663,1,Transit,2010
+380,192.516,1,Transit,2010
+381,226.637,1,Transit,2010
+382,92.3831,2,Transit,2010
+383,92.3831,2,Radial Velocity,2010
+384,161.4,1,Transit,2010
+385,202.078,1,Transit,2010
+386,127.774,2,Transit,2007
+387,127.774,2,Radial Velocity,2023
+388,71.0374,1,Transit,2010
+389,277.278,1,Transit,2010
+390,81.7647,1,Transit,2010
+391,364.813,1,Transit,2010
+392,415.344,1,Transit,2010
+393,300.384,1,Transit,2010
+394,141.837,1,Transit,2010
+395,199.173,1,Transit,2011
+396,401.319,1,Transit,2011
+397,313.576,1,Transit,2011
+398,134.554,1,Transit,2007
+399,213.985,1,Transit,2011
+400,344.05,1,Transit,2011
+401,289.205,1,Transit,2011
+402,396.11,1,Transit,2011
+403,249.325,1,Transit,2011
+404,506.965,1,Transit,2011
+405,294.419,1,Transit,2011
+406,390.594,1,Transit,2011
+407,255.206,1,Transit,2012
+408,697.004,1,Transit,2012
+409,320.451,1,Transit,2007
+410,464.469,1,Transit,2012
+411,348.185,1,Transit,2012
+412,405.238,1,Transit,2012
+413,528.825,1,Transit,2012
+414,347.85,2,Transit,2014
+415,347.85,2,Radial Velocity,2014
+416,298.64,1,Transit,2014
+417,290.736,1,Transit,2014
+418,350.351,1,Transit,2014
+419,303.336,1,Transit,2007
+420,515.458,1,Transit,2015
+421,440.089,1,Transit,2015
+422,361.155,1,Transit,2015
+423,666.802,1,Transit,2015
+424,143.651,1,Transit,2015
+425,511.388,1,Transit,2015
+426,320.639,1,Transit,2015
+427,279.86,1,Transit,2015
+428,515.59,1,Transit,2021
+429,265.471,1,Transit,2021
+430,275.358,1,Transit,2007
+431,233.22,1,Transit,2021
+432,338.84,1,Transit,2021
+433,348.815,1,Transit,2021
+434,403.458,1,Transit,2021
+435,651.897,1,Transit,2021
+436,738.519,1,Transit,2016
+437,935.456,1,Transit,2016
+438,371.686,1,Transit,2017
+439,202.152,1,Transit,2020
+440,341.263,1,Transit,2019
+441,341.079,1,Transit,2008
+442,330.739,1,Transit,2019
+443,211.553,1,Transit,2008
+444,455.203,1,Transit,2008
+445,283.971,1,Transit,2012
+446,534.889,1,Transit,2015
+447,944.603,1,Transit,2016
+448,746.138,1,Transit,2016
+449,421.855,1,Transit,2015
+450,513.011,1,Transit,2015
+451,1139.55,1,Transit,2016
+452,757.044,1,Transit,2016
+453,400.331,1,Transit,2016
+454,624.368,1,Transit,2016
+455,341.925,1,Transit,2013
+456,229.518,1,Transit,2017
+457,639.004,1,Transit,2017
+458,494.182,1,Transit,2017
+459,471.158,1,Transit,2016
+460,861.843,1,Transit,2016
+461,816.988,1,Transit,2016
+462,535.383,1,Transit,2016
+463,353.891,1,Transit,2016
+464,411.211,1,Transit,2013
+465,342.14,1,Transit,2016
+466,773.974,1,Transit,2016
+467,745.116,1,Transit,2016
+468,248.46,1,Transit,2016
+469,508.842,1,Transit,2016
+470,514.555,1,Transit,2016
+471,856.436,1,Transit,2018
+472,211.896,1,Transit,2020
+473,343.525,1,Transit,2020
+474,878.521,1,Transit,2018
+475,416.459,1,Transit,2014
+476,1342.29,1,Transit,2018
+477,737.668,1,Transit,2018
+478,800.377,1,Transit,2018
+479,362.273,1,Transit,2018
+480,446.035,1,Transit,2018
+481,772.11,1,Transit,2018
+482,453.808,1,Transit,2018
+483,300.67,1,Transit,2020
+484,263.609,1,Transit,2020
+485,324.413,1,Transit,2020
+486,246.384,1,Transit,2014
+487,756.742,1,Transit,2017
+488,389.57,1,Transit,2017
+489,555.134,1,Transit,2017
+490,585.77,1,Transit,2017
+491,748.585,1,Transit,2019
+492,609.838,1,Transit,2019
+493,564.409,1,Transit,2019
+494,279.485,1,Transit,2019
+495,403.591,1,Transit,2019
+496,642.884,2,Transit,2018
+497,642.884,2,Radial Velocity,2018
+498,169.318,1,Transit,2015
+499,486.474,1,Transit,2018
+500,679.761,1,Transit,2018
+501,523.067,1,Transit,2018
+502,623.232,1,Transit,2018
+503,1080.15,1,Transit,2018
+504,493.32,1,Transit,2018
+505,1477.98,1,Transit,2018
+506,960.109,1,Transit,2018
+507,603.955,1,Transit,2018
+508,414.537,1,Transit,2018
+509,240.707,1,Transit,2015
+510,1458.83,1,Transit,2019
+511,140.225,1,Transit,2020
+512,127.589,1,Transit,2020
+513,299.389,1,Transit,2021
+514,194.964,1,Transit,2021
+515,385.689,1,Transit,2021
+516,436.176,1,Transit,2021
+517,794.637,1,Transit,2015
+518,638.7,1,Transit,2015
+519,32.7548,1,Radial Velocity,2026
+520,109.677,1,Imaging,2014
+521,137.178,1,Radial Velocity,2011
+522,49.5336,1,Radial Velocity,2007
+523,12.7781,2,Transit,2025
+524,12.7781,2,Transit,2025
+527,38.9607,6,Radial Velocity,2010
+528,38.9607,6,Radial Velocity,2010
+530,38.9607,6,Radial Velocity,2010
+531,30.0274,1,Radial Velocity,2005
+532,39.5792,1,Radial Velocity,2005
+533,29.3386,1,Radial Velocity,2006
+534,347.097,1,Radial Velocity,2008
+535,217.107,2,Radial Velocity,2011
+536,217.107,2,Radial Velocity,2018
+537,9.2894,1,Radial Velocity,2010
+538,62.758,1,Radial Velocity,2019
+539,126.484,1,Radial Velocity,2025
+540,121.89,1,Radial Velocity,2010
+541,57.1463,1,Radial Velocity,2009
+542,45.5352,1,Radial Velocity,2014
+543,56.4089,1,Radial Velocity,2013
+544,55.5213,1,Radial Velocity,2022
+545,26.4997,1,Radial Velocity,2019
+546,20.3632,2,Radial Velocity,2009
+547,20.3632,2,Radial Velocity,2024
+548,135.374,1,Radial Velocity,2014
+549,100.576,1,Radial Velocity,2003
+550,70.0837,2,Radial Velocity,2022
+551,70.0837,2,Radial Velocity,2022
+552,55.2411,1,Radial Velocity,2022
+553,38.185,1,Radial Velocity,2002
+554,93.808,1,Radial Velocity,2011
+555,109.353,2,Transit,2017
+556,109.353,2,Transit,2017
+557,17.3357,1,Radial Velocity,2006
+558,34.0915,1,Radial Velocity,2012
+559,103.029,1,Imaging,2013
+560,33.1205,1,Radial Velocity,1999
+561,49.4156,2,Radial Velocity,2005
+562,49.4156,2,Radial Velocity,2021
+563,38.92,1,Radial Velocity,2002
+564,38.6846,1,Radial Velocity,2023
+565,64.5978,5,Transit,2020
+566,64.5978,5,Transit,2020
+567,64.5978,5,Transit,2020
+568,64.5978,5,Transit,2021
+569,48.9102,1,Radial Velocity,2014
+570,164.742,1,Radial Velocity,2011
+571,59.5175,2,Radial Velocity,2002
+572,59.5175,2,Radial Velocity,2005
+573,67.8349,1,Radial Velocity,2010
+574,55.8716,2,Radial Velocity,2013
+575,55.8716,2,Radial Velocity,2013
+576,55.4156,1,Radial Velocity,2021
+577,63.0821,1,Radial Velocity,2005
+578,116.506,1,Radial Velocity,2021
+579,79.5561,2,Transit,2022
+580,79.5561,2,Transit,2022
+581,42.5279,1,Radial Velocity,2022
+582,100.758,1,Radial Velocity,2009
+583,32.1585,6,Transit,2023
+584,32.1585,6,Transit,2023
+585,32.1585,6,Transit,2023
+586,32.1585,6,Transit,2023
+587,32.1585,6,Transit,2023
+588,32.1585,6,Transit,2023
+589,105.096,1,Transit,2021
+590,106.307,2,Transit,2021
+591,106.307,2,Radial Velocity,2021
+592,45.0858,1,Radial Velocity,2022
+593,44.3804,1,Radial Velocity,2022
+594,28.9571,2,Radial Velocity,2003
+595,28.9571,2,Radial Velocity,2022
+596,114.166,1,Radial Velocity,2017
+597,33.2237,1,Radial Velocity,2016
+598,62.07324,1,Radial Velocity,2023
+599,101.166,1,Radial Velocity,2023
+600,323.335,1,Radial Velocity,2020
+601,36.18,2,Radial Velocity,2013
+602,36.18,2,Radial Velocity,2020
+603,155.121,2,Radial Velocity,2022
+604,16.2817,2,Radial Velocity,2010
+605,16.2817,2,Radial Velocity,2010
+606,116.334,1,Radial Velocity,2017
+607,95.3906,1,Radial Velocity,2022
+608,27.9243,2,Radial Velocity,2003
+609,27.9243,2,Radial Velocity,2026
+610,37.8063,1,Radial Velocity,2002
+611,21.0628,2,Radial Velocity,2001
+612,21.0628,2,Radial Velocity,2018
+613,38.9679,1,Radial Velocity,2022
+614,51.261,3,Radial Velocity,2007
+615,51.261,3,Radial Velocity,2008
+616,51.261,3,Radial Velocity,2022
+617,10.9816,2,Radial Velocity,2022
+618,10.9816,2,Radial Velocity,2022
+619,87.6437,1,Radial Velocity,2021
+620,123.245,2,Radial Velocity,2011
+621,123.245,2,Radial Velocity,2018
+622,32.3547,1,Radial Velocity,2004
+623,235.045,1,Radial Velocity,2015
+624,37.7781,1,Radial Velocity,2004
+625,92.2589,2,Radial Velocity,2005
+626,92.2589,2,Radial Velocity,2024
+627,33.5369,2,Radial Velocity,2005
+628,33.5369,2,Radial Velocity,2008
+629,67.9331,1,Radial Velocity,2005
+630,103.044,1,Radial Velocity,2013
+631,41.6592,1,Radial Velocity,2003
+632,31.7627,2,Radial Velocity,2022
+633,31.7627,2,Radial Velocity,2022
+634,53.2528,1,Radial Velocity,2022
+635,60.1977,1,Radial Velocity,2021
+636,48.3367,1,Radial Velocity,2016
+637,39.3466,1,Radial Velocity,2022
+638,153.647,1,Radial Velocity,2019
+640,57.6207,3,Radial Velocity,2007
+641,57.6207,3,Radial Velocity,2009
+642,57.6207,3,Radial Velocity,2009
+643,182.192,1,Radial Velocity,2015
+644,37.6506,1,Radial Velocity,2018
+645,37.8478,2,Radial Velocity,2000
+646,37.8478,2,Radial Velocity,2002
+647,73.0961,1,Radial Velocity,2009
+648,22.5279,1,Radial Velocity,2022
+649,16.3292,2,Radial Velocity,2002
+650,16.3292,2,Radial Velocity,2005
+651,26.1548,1,Radial Velocity,2016
+652,73.636,1,Astrometry,2025
+653,67.4386,1,Radial Velocity,2009
+654,31.8766,1,Radial Velocity,1999
+655,131.849,1,Radial Velocity,2011
+656,148.934,1,Radial Velocity,2018
+657,497.823,1,Radial Velocity,2005
+658,70.7832,1,Radial Velocity,2007
+659,105.155,1,Radial Velocity,2011
+660,51.4736,3,Radial Velocity,2016
+661,51.4736,3,Radial Velocity,2016
+662,51.2993,3,Radial Velocity,2016
+663,24.0125,2,Radial Velocity,2019
+664,24.0125,2,Radial Velocity,2019
+665,26.7909,5,Radial Velocity,2024
+666,26.7909,5,Radial Velocity,2024
+667,26.7909,5,Radial Velocity,2024
+668,26.7909,5,Radial Velocity,2024
+669,26.7909,5,Radial Velocity,2024
+670,26.1804,2,Radial Velocity,1999
+671,26.1804,2,Radial Velocity,2009
+672,141.595,1,Imaging,2025
+673,56.518,1,Radial Velocity,2023
+674,73.8713,1,Transit,2023
+675,82.4251,1,Radial Velocity,2022
+676,51.4359,1,Radial Velocity,2022
+677,14.682,3,Radial Velocity,2019
+678,14.682,3,Radial Velocity,2019
+679,14.682,3,Radial Velocity,2019
+680,105.168,1,Radial Velocity,2009
+681,47.874,1,Radial Velocity,2021
+682,43.465,1,Radial Velocity,2022
+683,40.4841,1,Radial Velocity,2011
+684,155.317,2,Transit,2021
+685,155.317,2,Radial Velocity,2021
+686,28.2305,2,Radial Velocity,2021
+687,28.2305,2,Radial Velocity,2021
+688,79.5515,2,Radial Velocity,2013
+689,79.5515,2,Radial Velocity,2013
+690,47.3963,1,Radial Velocity,2009
+691,112.09,1,Radial Velocity,2008
+692,79.5702,1,Transit,2018
+693,142.024,1,Radial Velocity,2014
+694,15.2528,2,Radial Velocity,2022
+695,15.2528,2,Radial Velocity,2022
+696,11.8148,1,Radial Velocity,2021
+697,37.0169,4,Radial Velocity,2014
+698,37.0169,4,Radial Velocity,2014
+699,37.0169,4,Radial Velocity,2014
+700,37.0169,4,Radial Velocity,2014
+701,33.3622,1,Radial Velocity,2002
+702,26.1853,3,Radial Velocity,2022
+703,26.1853,3,Radial Velocity,2001
+704,26.1853,3,Radial Velocity,2012
+705,34.2802,1,Radial Velocity,2005
+706,97.2305,1,Radial Velocity,2011
+707,35.5318,1,Radial Velocity,2003
+708,46.7789,1,Radial Velocity,2016
+709,68.5146,1,Radial Velocity,2008
+710,136.608,1,Imaging,2025
+711,115.665,1,Radial Velocity,2022
+712,53.4884,1,Radial Velocity,2008
+713,135.292,1,Radial Velocity,2010
+714,17.9323,2,Radial Velocity,2021
+715,227.881,1,Radial Velocity,2015
+716,23.4534,2,Radial Velocity,2010
+717,23.4534,2,Radial Velocity,2015
+718,40.4256,2,Radial Velocity,2009
+719,40.4256,2,Radial Velocity,2009
+720,10.7643,1,Radial Velocity,2017
+721,12.9032,1,Radial Velocity,2003
+722,119.137,1,Radial Velocity,2018
+723,109.055,2,Radial Velocity,2016
+724,109.055,2,Radial Velocity,2016
+725,57.1289,1,Radial Velocity,2009
+726,77.1971,2,Radial Velocity,2018
+727,77.1971,2,Radial Velocity,2018
+728,75.8643,1,Radial Velocity,2005
+729,73.2801,1,Radial Velocity,2005
+730,20.2727,1,Radial Velocity,2022
+731,144.49,1,Radial Velocity,2022
+732,190.953,1,Radial Velocity,2011
+733,28.2697,1,Radial Velocity,2012
+734,43.6002,2,Radial Velocity,2022
+735,43.6002,2,Radial Velocity,2022
+736,87.8888,1,Radial Velocity,2009
+737,165.76,1,Radial Velocity,2011
+738,107.898,2,Transit,2021
+739,107.898,2,Transit,2021
+740,44.8155,2,Transit,2019
+741,44.8155,2,Transit,2019
+742,17.9412,3,Radial Velocity,2022
+743,17.9412,3,Radial Velocity,2022
+744,17.9412,3,Radial Velocity,2022
+745,48.4549,1,Radial Velocity,2008
+746,18.2692,1,Radial Velocity,2021
+747,18.284,1,Radial Velocity,2006
+748,100.947,1,Radial Velocity,2023
+749,63.0484,1,Radial Velocity,2008
+750,63.4482,2,Radial Velocity,2004
+751,63.4482,2,Radial Velocity,2014
+752,57.7995,1,Radial Velocity,2021
+753,43.6197,2,Radial Velocity,2007
+754,43.6197,2,Radial Velocity,2007
+755,27.561,2,Radial Velocity,2022
+756,27.561,2,Radial Velocity,2022
+757,48.249,2,Radial Velocity,2022
+758,48.249,2,Radial Velocity,2022
+759,36.1945,2,Radial Velocity,2011
+760,36.1945,2,Radial Velocity,2018
+761,56.8655,1,Radial Velocity,2009
+762,24.3323,2,Radial Velocity,2010
+763,24.3323,2,Radial Velocity,2021
+764,47.7332,1,Radial Velocity,2007
+765,94.8625,1,Radial Velocity,2011
+766,27.0498,5,Radial Velocity,2020
+767,27.0498,5,Radial Velocity,2020
+768,27.0498,5,Radial Velocity,2020
+769,27.0498,5,Radial Velocity,2020
+770,27.0498,5,Radial Velocity,2020
+771,283.659,1,Radial Velocity,2018
+772,45.5621,2,Transit,2023
+773,45.5621,2,Transit,2023
+774,73.3055,2,Radial Velocity,2013
+775,73.3055,2,Radial Velocity,2013
+776,55.8503,2,Radial Velocity,2006
+777,55.8503,2,Radial Velocity,2012
+778,88.8047,2,Radial Velocity,2015
+779,88.8047,2,Radial Velocity,2015
+782,15.5981,4,Radial Velocity,2004
+784,107.188,1,Radial Velocity,2021
+785,37.7861,1,Radial Velocity,2000
+786,59.859,1,Radial Velocity,2009
+787,30.8248,1,Radial Velocity,2002
+788,67.7855,2,Radial Velocity,2010
+789,67.7855,2,Radial Velocity,2010
+790,25.3936,1,Radial Velocity,2008
+791,53.1119,1,Radial Velocity,2010
+792,28.254,1,Radial Velocity,2015
+793,39.3633,2,Radial Velocity,2009
+794,39.3633,2,Radial Velocity,2026
+795,22.0016,4,Radial Velocity,2005
+796,22.0016,4,Radial Velocity,2016
+797,22.0016,4,Radial Velocity,2020
+798,22.0016,4,Radial Velocity,2021
+799,57.4263,1,Radial Velocity,2023
+800,63.3574,1,Radial Velocity,2016
+801,117.908,1,Radial Velocity,2015
+802,45.1342,1,Radial Velocity,2012
+803,49.6633,1,Radial Velocity,2007
+804,54.3258,1,Radial Velocity,2023
+805,107.214,1,Radial Velocity,2022
+806,23.3032,1,Radial Velocity,2021
+807,39.6245,2,Radial Velocity,1998
+808,39.6245,2,Radial Velocity,2000
+809,41.5681,1,Radial Velocity,2002
+810,39.8979,1,Radial Velocity,2022
+811,752.615,1,Radial Velocity,2010
+812,39.7401,1,Radial Velocity,2022
+813,113.6,1,Imaging,2023
+814,37.6048,2,Radial Velocity,2000
+815,37.6048,2,Radial Velocity,2003
+816,60.178,1,Radial Velocity,2007
+817,228.422,1,Radial Velocity,2007
+818,111.659,1,Radial Velocity,2007
+819,44.8113,1,Radial Velocity,2009
+820,78.0863,1,Radial Velocity,2007
+821,132.184,1,Radial Velocity,2008
+822,234.027,1,Radial Velocity,2022
+823,71.0863,1,Radial Velocity,2009
+824,129.603,1,Radial Velocity,2007
+826,44.4264,1,Radial Velocity,2017
+829,27.7843,3,Radial Velocity,2026
+830,16.9179,1,Radial Velocity,2017
+831,62.7674,2,Radial Velocity,1999
+832,62.7674,2,Radial Velocity,2010
+833,40.9727,1,Radial Velocity,2001
+835,27.4573,1,Radial Velocity,2000
+836,137.043,1,Radial Velocity,2018
+837,123.801,1,Radial Velocity,2018
+838,122.362,1,Radial Velocity,2010
+839,5.91059,1,Radial Velocity,2018
+840,104.577,1,Radial Velocity,2009
+841,47.7458,1,Radial Velocity,2019
+842,120.391,1,Radial Velocity,2009
+843,22.5243,2,Radial Velocity,2022
+844,22.5243,2,Radial Velocity,2022
+847,26.8762,3,Radial Velocity,2008
+848,60.2046,1,Radial Velocity,2009
+849,54.1955,2,Radial Velocity,2004
+850,54.1955,2,Radial Velocity,2008
+851,57.2651,1,Transit,2021
+852,60.7993,3,Radial Velocity,2022
+853,60.7993,3,Radial Velocity,2022
+854,60.7993,3,Radial Velocity,2022
+855,224.146,1,Radial Velocity,2023
+856,51.9917,1,Radial Velocity,2006
+857,31.395,1,Radial Velocity,2023
+858,38.5653,1,Transit,2022
+859,45.8993,1,Radial Velocity,2006
+860,45.9548,2,Radial Velocity,1998
+861,45.9548,2,Radial Velocity,2008
+862,162.685,1,Radial Velocity,2011
+863,50.6706,1,Radial Velocity,2004
+864,64.3399,1,Radial Velocity,2022
+865,17.9055,2,Radial Velocity,2021
+866,17.9055,2,Radial Velocity,2021
+867,19.7638,1,Radial Velocity,2005
+868,12.7141,1,Radial Velocity,2020
+869,62.7146,1,Radial Velocity,2022
+870,16.0069,2,Radial Velocity,2003
+871,16.0069,2,Radial Velocity,2005
+872,54.4738,1,Radial Velocity,2007
+873,148.187,1,Radial Velocity,2009
+874,65.6668,1,Radial Velocity,2016
+875,53.6089,6,Transit,2020
+876,53.6089,6,Transit,2020
+877,53.6089,6,Transit,2020
+878,53.6089,6,Radial Velocity,2022
+879,53.6089,6,Radial Velocity,2022
+880,53.6089,6,Radial Velocity,2022
+881,19.6359,1,Radial Velocity,1999
+882,8.79687,2,Radial Velocity,2011
+883,8.79687,2,Radial Velocity,2011
+884,71.8627,1,Radial Velocity,2007
+885,80.2349,1,Radial Velocity,2022
+886,37.6681,1,Radial Velocity,1998
+887,50.6742,1,Radial Velocity,2002
+888,39.9346,2,Radial Velocity,2012
+889,39.9346,2,Radial Velocity,2025
+890,265.155,1,Radial Velocity,2022
+891,34.1692,1,Radial Velocity,2007
+892,33.1944,1,Radial Velocity,2012
+893,24.3056,1,Radial Velocity,2022
+894,22.5242,1,Radial Velocity,2003
+895,41.8316,2,Radial Velocity,2019
+896,41.8316,2,Radial Velocity,2019
+897,72.5922,2,Radial Velocity,2010
+898,72.5922,2,Radial Velocity,2010
+899,45.9665,1,Radial Velocity,2004
+902,161.498,1,Transit,2019
+903,39.2503,1,Imaging,2006
+904,63.6796,1,Transit,2022
+905,61.7477,2,Radial Velocity,2022
+906,61.7477,2,Radial Velocity,2022
+907,85.6922,1,Radial Velocity,2002
+908,47.7945,3,Radial Velocity,2010
+909,47.7945,3,Radial Velocity,2015
+910,47.7945,3,Radial Velocity,2022
+911,28.7165,1,Radial Velocity,2011
+912,86.6159,1,Radial Velocity,2022
+913,92.5087,1,Radial Velocity,2008
+914,75.2363,1,Radial Velocity,2019
+915,147.192,1,Radial Velocity,2009
+916,40.7583,2,Imaging,2021
+917,40.7583,2,Imaging,2022
+918,23.606,1,Transit,2023
+919,35.9715,5,Radial Velocity,2019
+920,35.9715,5,Radial Velocity,2019
+921,35.9715,5,Radial Velocity,2019
+922,35.9715,5,Radial Velocity,2019
+923,35.9864,5,Radial Velocity,2006
+924,58.9291,2,Radial Velocity,2012
+925,58.9291,2,Radial Velocity,2012
+926,28.2938,1,Transit,2021
+927,6.00278,4,Radial Velocity,2011
+928,6.00278,4,Radial Velocity,2011
+929,6.00278,4,Radial Velocity,2017
+930,6.00278,4,Radial Velocity,2025
+931,45.147,1,Radial Velocity,2004
+932,312.202,1,Radial Velocity,2012
+933,47.7223,1,Radial Velocity,2008
+934,67.4872,1,Radial Velocity,2017
+935,48.3016,1,Radial Velocity,1999
+936,42.2029,1,Radial Velocity,2019
+937,21.2985,1,Radial Velocity,1998
+938,54.1963,1,Radial Velocity,2007
+939,83.0919,1,Radial Velocity,2021
+940,64.6353,1,Radial Velocity,2018
+941,13.1277,1,Radial Velocity,2019
+942,54.2304,1,Radial Velocity,2005
+943,111.155,1,Radial Velocity,2009
+944,40.8707,1,Radial Velocity,2001
+945,64.4527,1,Radial Velocity,2021
+946,41.0014,1,Radial Velocity,2022
+947,48.0883,2,Transit,2019
+948,48.0883,2,Radial Velocity,2019
+949,29.1328,1,Radial Velocity,2019
+950,101.368,1,Radial Velocity,2016
+955,79.208,1,Transit,2024
+957,40.5468,2,Radial Velocity,2009
+958,32.9834,1,Radial Velocity,2002
+959,26.6902,1,Radial Velocity,2002
+960,19.552,2,Radial Velocity,2020
+961,19.552,2,Radial Velocity,2020
+962,376.233,1,Radial Velocity,2015
+963,36.6625,1,Radial Velocity,2003
+964,33.255,2,Radial Velocity,2019
+965,33.255,2,Radial Velocity,2019
+966,20.0619,2,Radial Velocity,1998
+967,20.0619,2,Radial Velocity,2005
+968,16.32,2,Transit,2019
+969,55.4847,2,Radial Velocity,2011
+970,55.4847,2,Radial Velocity,2022
+971,61.7957,1,Radial Velocity,2022
+972,28.8274,1,Radial Velocity,2010
+973,29.1864,1,Radial Velocity,2012
+974,6.53127,6,Radial Velocity,2015
+975,6.53127,6,Radial Velocity,2015
+976,6.53127,6,Radial Velocity,2015
+977,6.53127,6,Radial Velocity,2015
+978,6.53127,6,Radial Velocity,2015
+979,6.53127,6,Radial Velocity,2015
+980,104.935,1,Radial Velocity,2021
+981,165.184,1,Radial Velocity,2012
+982,94.1719,1,Transit,2018
+983,73.114,2,Radial Velocity,2007
+984,73.114,2,Radial Velocity,2016
+985,324.54,1,Radial Velocity,2012
+986,64.411,1,Radial Velocity,2018
+987,46.8778,1,Radial Velocity,2012
+988,50.5103,1,Radial Velocity,2011
+989,64.6498,1,Radial Velocity,2016
+990,55.9231,1,Radial Velocity,2007
+991,95.5483,1,Transit,2019
+992,31.1415,1,Radial Velocity,2019
+993,55.8535,1,Radial Velocity,2016
+994,91.1538,1,Radial Velocity,2016
+995,50.6078,1,Radial Velocity,2011
+996,11.4469,1,Radial Velocity,2024
+997,42.1586,1,Radial Velocity,1999
+998,105.48,3,Radial Velocity,2025
+999,105.48,3,Transit,2025
+1000,105.48,3,Transit,2025
+1001,79.0608,1,Radial Velocity,2016
+1002,93.5015,1,Radial Velocity,2006
+1003,13.5956,1,Radial Velocity,2021
+1004,161.183,1,Radial Velocity,2022
+1005,32.6034,1,Radial Velocity,2011
+1006,62.7792,3,Transit,2023
+1007,33.4591,2,Radial Velocity,2001
+1008,33.4591,2,Radial Velocity,2025
+1009,93.8555,1,Radial Velocity,2006
+1010,108.877,1,Radial Velocity,2007
+1011,847.058,1,Radial Velocity,2013
+1012,58.742,1,Radial Velocity,2018
+1013,39.0341,5,Transit,2019
+1014,39.0341,5,Transit,2019
+1015,39.0341,5,Transit,2022
+1016,39.0341,5,Transit,2022
+1017,39.0341,5,Transit,2022
+1018,41.1706,1,Transit,2023
+1019,52.0018,1,Radial Velocity,2003
+1020,15.2354,1,Radial Velocity,2020
+1021,519.452,1,Radial Velocity,2018
+1022,372.405,1,Radial Velocity,2009
+1023,933.377,1,Radial Velocity,2011
+1024,46.6224,2,Radial Velocity,2006
+1025,46.6224,2,Radial Velocity,2021
+1026,300.247,1,Radial Velocity,2015
+1027,54.9004,1,Radial Velocity,2019
+1028,37.433,1,Radial Velocity,2019
+1029,55.6146,1,Radial Velocity,2010
+1030,45.6181,2,Transit,2023
+1031,45.6181,2,Transit,2023
+1032,114.816,1,Radial Velocity,2020
+1033,49.1661,2,Radial Velocity,2022
+1034,49.1661,2,Radial Velocity,2022
+1035,10.0055,2,Transit,2022
+1036,10.0055,2,Transit,2022
+1037,40.9128,1,Radial Velocity,2021
+1038,54.9621,1,Radial Velocity,2005
+1039,196.852,1,Transit,2019
+1040,18.2704,1,Radial Velocity,2000
+1041,50.2862,1,Radial Velocity,2012
+1042,43.8214,3,Radial Velocity,2005
+1043,43.8214,3,Radial Velocity,2017
+1044,43.8214,3,Radial Velocity,2017
+1045,67.9328,1,Radial Velocity,2021
+1046,139.611,3,Transit,2022
+1047,139.611,3,Transit,2022
+1048,139.611,3,Transit,2022
+1049,39.3809,2,Radial Velocity,2001
+1050,39.3809,2,Radial Velocity,2022
+1051,49.8063,1,Radial Velocity,2022
+1052,55.2884,1,Radial Velocity,2010
+1053,117.807,1,Imaging,2017
+1054,43.6455,3,Radial Velocity,2025
+1055,43.6455,3,Radial Velocity,2025
+1056,43.6455,3,Radial Velocity,2025
+1057,45.0293,1,Radial Velocity,2013
+1058,9.47045,1,Radial Velocity,2008
+1059,189.908,1,Radial Velocity,2011
+1060,30.9939,1,Radial Velocity,2017
+1061,56.433,1,Radial Velocity,2009
+1062,44.1518,1,Radial Velocity,2022
+1063,110.103,1,Radial Velocity,2013
+1064,31.2707,1,Radial Velocity,2022
+1065,55.5867,2,Radial Velocity,2002
+1066,55.5867,2,Radial Velocity,2016
+1067,26.1597,1,Radial Velocity,2009
+1068,58.0844,1,Radial Velocity,2014
+1069,131.199,1,Radial Velocity,2011
+1070,58.1438,1,Radial Velocity,2010
+1071,38.4473,3,Radial Velocity,2019
+1072,38.4473,3,Radial Velocity,2019
+1073,38.4473,3,Radial Velocity,2019
+1074,47.2899,4,Transit,2016
+1075,47.2899,4,Transit,2016
+1076,47.2899,4,Radial Velocity,2017
+1077,47.2899,4,Radial Velocity,2022
+1078,122.115,1,Radial Velocity,2009
+1079,38.0786,1,Radial Velocity,2015
+1080,45.2989,1,Radial Velocity,2004
+1081,50.1928,1,Radial Velocity,2021
+1082,121.375,3,Radial Velocity,2011
+1083,121.375,3,Radial Velocity,2018
+1084,121.375,3,Radial Velocity,2022
+1085,80.6665,1,Transit,2020
+1086,89.8623,1,Radial Velocity,2006
+1087,20.9531,1,Radial Velocity,2005
+1088,105.779,2,Radial Velocity,2015
+1089,105.779,2,Radial Velocity,2015
+1090,46.0907,6,Radial Velocity,2009
+1091,46.0907,6,Radial Velocity,2017
+1092,46.0907,6,Radial Velocity,2017
+1093,46.0907,6,Radial Velocity,2017
+1094,46.0907,6,Radial Velocity,2017
+1095,46.0907,6,Radial Velocity,2017
+1096,71.2423,1,Radial Velocity,2016
+1097,69.6026,2,Radial Velocity,2025
+1098,69.6026,2,Transit,2025
+1099,111.542,1,Radial Velocity,2021
+1100,209.309,1,Radial Velocity,2023
+1101,11.1336,1,Radial Velocity,2003
+1102,31.6634,3,Radial Velocity,2002
+1103,31.6634,3,Radial Velocity,2002
+1104,31.6634,3,Radial Velocity,2005
+1105,46.7864,2,Radial Velocity,2004
+1106,46.7864,2,Radial Velocity,2012
+1107,17.926,1,Radial Velocity,2021
+1108,38.0615,1,Radial Velocity,2010
+1109,42.3538,2,Radial Velocity,2000
+1110,42.3538,2,Radial Velocity,2000
+1111,91.4349,1,Radial Velocity,2009
+1112,18.2702,3,Radial Velocity,2001
+1113,26.4131,3,Radial Velocity,2021
+1114,26.4131,3,Radial Velocity,2021
+1115,26.4131,3,Radial Velocity,2021
+1116,23.2599,1,Radial Velocity,2019
+1120,12.9363,5,Radial Velocity,2013
+1121,12.9363,5,Radial Velocity,2013
+1122,116.593,1,Radial Velocity,2017
+1123,34.0883,1,Radial Velocity,2002
+1124,36.69117,2,Radial Velocity,2004
+1125,41.5504,2,Radial Velocity,2003
+1126,41.8727,1,Radial Velocity,2007
+1127,36.7984,1,Radial Velocity,2017
+1128,81.3795,2,Radial Velocity,2001
+1129,81.3795,2,Radial Velocity,2014
+1130,34.1937,1,Radial Velocity,2001
+1131,24.3358,1,Radial Velocity,2016
+1132,22.0158,1,Radial Velocity,2005
+1133,136.308,1,Radial Velocity,2009
+1134,62.4112,2,Radial Velocity,2010
+1135,62.4112,2,Radial Velocity,2022
+1136,85.6009,1,Radial Velocity,2007
+1137,52.9051,1,Radial Velocity,2010
+1138,21.9532,2,Radial Velocity,2019
+1139,21.9532,2,Radial Velocity,2019
+1140,46.8733,1,Radial Velocity,2004
+1141,34.354,2,Radial Velocity,2008
+1142,34.354,2,Radial Velocity,2008
+1143,34.8541,1,Radial Velocity,2008
+1144,55.0375,1,Radial Velocity,2022
+1145,29.5529,1,Radial Velocity,2000
+1146,37.4574,2,Radial Velocity,2008
+1147,37.4574,2,Radial Velocity,2008
+1148,54.7841,2,Radial Velocity,2012
+1149,54.7841,2,Radial Velocity,2012
+1150,84.3552,2,Radial Velocity,2016
+1151,84.3552,2,Radial Velocity,2016
+1152,122.536,1,Radial Velocity,2002
+1153,537.873,1,Radial Velocity,2021
+1154,90.5446,2,Radial Velocity,2008
+1155,90.5446,2,Radial Velocity,2026
+1156,16.9043,3,Radial Velocity,2024
+1157,16.9043,3,Radial Velocity,2024
+1158,16.9043,3,Radial Velocity,2024
+1159,204.277,1,Radial Velocity,2018
+1160,43.0399,1,Radial Velocity,2002
+1161,46.2845,2,Radial Velocity,2005
+1162,46.2845,2,Radial Velocity,2019
+1163,31.1664,1,Radial Velocity,2002
+1164,35.0553,2,Radial Velocity,2019
+1165,35.0553,2,Radial Velocity,2019
+1166,29.9803,1,Radial Velocity,2000
+1167,57.5846,2,Transit,2021
+1168,57.5846,2,Radial Velocity,2021
+1169,121.405,2,Radial Velocity,2007
+1170,121.405,2,Radial Velocity,2014
+1171,77.9693,1,Radial Velocity,2018
+1172,219.216,1,Radial Velocity,2016
+1173,58.1105,1,Radial Velocity,2012
+1174,51.1659,1,Radial Velocity,2014
+1175,272.217,1,Transit,2022
+1176,61.4925,1,Radial Velocity,2022
+1177,283.502,1,Radial Velocity,2011
+1178,89.2721,1,Radial Velocity,2016
+1179,315.211,1,Radial Velocity,2020
+1180,25.9716,2,Radial Velocity,2008
+1181,25.9716,2,Radial Velocity,2008
+1182,67.6203,1,Transit,2023
+1183,53.112,2,Radial Velocity,2022
+1184,53.112,2,Radial Velocity,2022
+1185,10.34,1,Radial Velocity,2006
+1186,49.3305,1,Radial Velocity,2022
+1187,22.4035,3,Transit,2020
+1188,22.4035,3,Transit,2020
+1189,22.4035,3,Transit,2023
+1190,37.6894,1,Radial Velocity,2005
+1191,32.5376,1,Radial Velocity,2009
+1192,48.9739,2,Transit,2021
+1193,48.9739,2,Radial Velocity,2021
+1194,31.5262,1,Radial Velocity,2019
+1195,129.966,1,Radial Velocity,2022
+1196,42.358,1,Radial Velocity,2003
+1197,35.1205,2,Radial Velocity,2003
+1198,35.1205,2,Radial Velocity,2013
+1199,68.1509,1,Radial Velocity,2012
+1200,53.2817,2,Radial Velocity,2005
+1201,53.2817,2,Radial Velocity,2021
+1202,76.5217,2,Radial Velocity,2015
+1203,76.5217,2,Radial Velocity,2015
+1204,78.4293,1,Radial Velocity,2016
+1205,33.4297,1,Radial Velocity,2026
+1206,61.12469,1,Radial Velocity,2023
+1207,60.8447,2,Radial Velocity,2001
+1208,60.8447,2,Radial Velocity,2021
+1209,75.116,1,Radial Velocity,2022
+1210,12.5591,3,Radial Velocity,2006
+1211,12.5591,3,Radial Velocity,2006
+1212,12.5591,3,Radial Velocity,2006
+1213,59.182,1,Radial Velocity,2007
+1214,29.276,1,Radial Velocity,2003
+1216,126.339,1,Radial Velocity,2018
+1217,51.8949,2,Radial Velocity,2002
+1218,51.8949,2,Radial Velocity,2022
+1219,69.7311,1,Radial Velocity,2016
+1220,36.708,1,Radial Velocity,2023
+1221,50.4093,2,Radial Velocity,2008
+1222,50.4093,2,Radial Velocity,2022
+1223,35.26,3,Transit,2024
+1224,35.26,3,Radial Velocity,2025
+1225,35.26,3,Radial Velocity,2025
+1226,97.2396,2,Radial Velocity,2002
+1227,97.2396,2,Radial Velocity,2005
+1228,83.3321,1,Radial Velocity,2008
+1229,31.5666,2,Transit,2022
+1230,31.5666,2,Transit,2022
+1231,57.603,2,Radial Velocity,2003
+1232,57.603,2,Radial Velocity,2003
+1233,38.662,1,Radial Velocity,2011
+1234,52.0648,2,Radial Velocity,2023
+1235,52.0648,2,Radial Velocity,2023
+1236,29.1158,1,Radial Velocity,1999
+1237,30.3288,1,Radial Velocity,2023
+1238,85.4321,2,Radial Velocity,2014
+1239,85.4321,2,Radial Velocity,2018
+1240,78.0505,2,Radial Velocity,2007
+1241,78.0505,2,Radial Velocity,2024
+1242,60.8831,1,Radial Velocity,2002
+1243,184.031,1,Radial Velocity,2017
+1244,45.935,1,Radial Velocity,2012
+1245,99.451,1,Transit,2024
+1246,103.335,1,Radial Velocity,2021
+1250,48.9489,1,Radial Velocity,2011
+1251,66.4711,1,Radial Velocity,2001
+1252,109.86,2,Transit,2020
+1253,85.3951,1,Radial Velocity,2021
+1254,34.6011,1,Radial Velocity,2022
+1255,61.3603,1,Radial Velocity,2022
+1256,34.4341,1,Radial Velocity,2005
+1257,85.7183,1,Radial Velocity,2007
+1258,269.126,2,Radial Velocity,2020
+1259,269.126,2,Radial Velocity,2022
+1260,127.061,1,Radial Velocity,2011
+1261,27.5902,2,Radial Velocity,2003
+1262,27.5902,2,Radial Velocity,2003
+1263,30.6862,1,Radial Velocity,2019
+1264,40.8991,2,Radial Velocity,2002
+1265,40.8991,2,Radial Velocity,2022
+1266,55.4401,1,Radial Velocity,2010
+1267,33.5225,1,Radial Velocity,2009
+1268,53.974,2,Radial Velocity,2026
+1269,44.8264,1,Radial Velocity,2002
+1270,40.3661,1,Radial Velocity,2022
+1271,103.936,1,Radial Velocity,2006
+1272,45.683,2,Radial Velocity,2009
+1273,45.683,2,Transit,2020
+1274,67.8107,1,Radial Velocity,2009
+1275,14.9202,1,Radial Velocity,2025
+1276,37.8619,1,Radial Velocity,2009
+1277,209.839,1,Radial Velocity,2016
+1278,73.58352,1,Radial Velocity,2016
+1279,133.233,2,Radial Velocity,2025
+1280,133.233,2,Radial Velocity,2025
+1281,18.2912,1,Radial Velocity,2009
+1282,35.9098,1,Radial Velocity,2022
+1283,73.6123,1,Radial Velocity,2004
+1284,33.2673,1,Radial Velocity,2023
+1285,32.0104,1,Radial Velocity,2009
+1286,132.345,1,Transit,2018
+1287,38.6364,1,Radial Velocity,1999
+1288,57.3063,1,Radial Velocity,2023
+1289,21.9496,1,Radial Velocity,2009
+1290,81.4893,1,Radial Velocity,2016
+1291,34.6538,2,Radial Velocity,2000
+1292,34.6538,2,Radial Velocity,2019
+1293,28.5159,1,Radial Velocity,2005
+1294,56.163,2,Radial Velocity,2022
+1295,56.163,2,Radial Velocity,2022
+1296,43.3475,3,Radial Velocity,2021
+1297,43.3475,3,Radial Velocity,2021
+1298,43.3475,3,Radial Velocity,2021
+1299,82.3432,2,Transit,2022
+1300,82.3432,2,Transit,2022
+1301,50.3503,2,Radial Velocity,2009
+1302,50.3503,2,Radial Velocity,2009
+1303,57.7807,1,Radial Velocity,2023
+1304,98.1609,1,Radial Velocity,2018
+1305,61.7012,2,Radial Velocity,2025
+1306,61.7012,2,Radial Velocity,2025
+1307,86.2279,1,Imaging,2013
+1308,136.957,2,Radial Velocity,2009
+1309,136.957,2,Radial Velocity,2018
+1310,676.579,1,Radial Velocity,2015
+1311,36.9941,1,Radial Velocity,2020
+1312,87.8049,1,Radial Velocity,2021
+1313,5.675773,2,Radial Velocity,2021
+1314,72.2195,1,Radial Velocity,2015
+1315,140.065,1,Radial Velocity,2011
+1316,587.659,1,Radial Velocity,2011
+1317,85.3006,1,Radial Velocity,2009
+1318,25.4111,3,Radial Velocity,2021
+1319,25.4111,3,Radial Velocity,2021
+1320,25.4111,3,Radial Velocity,2021
+1321,396.082,1,Radial Velocity,2021
+1322,32.413,1,Radial Velocity,2022
+1323,183.857,1,Disk Kinematics,2019
+1324,21.5618,1,Radial Velocity,2010
+1325,113.704,1,Radial Velocity,2011
+1326,42.1727,1,Radial Velocity,2012
+1327,32.4459,1,Radial Velocity,2018
+1328,54.7901,1,Radial Velocity,2005
+1329,111.093,1,Radial Velocity,2021
+1330,18.2038,2,Radial Velocity,2004
+1331,18.2038,2,Radial Velocity,2023
+1332,146.6,2,Radial Velocity,2011
+1333,146.6,2,Radial Velocity,2018
+1334,78.6381,1,Radial Velocity,2014
+1335,23.6434,1,Radial Velocity,2020
+1336,105.18,1,Radial Velocity,2015
+1337,58.9582,1,Radial Velocity,2016
+1338,66.3361,1,Radial Velocity,2016
+1339,88.077,2,Radial Velocity,2025
+1340,88.077,2,Radial Velocity,2025
+1341,46.2122,2,Transit,2023
+1342,46.2122,2,Transit,2023
+1343,101.766,1,Radial Velocity,2021
+1344,62.4491,1,Transit,2014
+1345,23.371,1,Radial Velocity,2010
+1346,50.48,3,Radial Velocity,2005
+1347,50.48,3,Radial Velocity,2006
+1348,50.48,3,Radial Velocity,2009
+1349,47.0288,1,Radial Velocity,2025
+1350,40.2707,1,Radial Velocity,2022
+1351,43.4073,1,Imaging,2022
+1352,68.192,3,Radial Velocity,2023
+1353,68.192,3,Radial Velocity,2023
+1354,22.8386,1,Radial Velocity,2021
+1355,33.1562,1,Radial Velocity,2019
+1356,50.1677,1,Radial Velocity,2022
+1357,17.7886,2,Radial Velocity,2020
+1358,17.7886,2,Radial Velocity,2020
+1359,66.3217,1,Imaging,2024
+1360,106.289,6,Transit,2016
+1361,106.289,6,Transit,2016
+1362,106.289,6,Transit,2016
+1363,106.289,6,Transit,2016
+1364,106.289,6,Transit,2016
+1365,106.289,6,Radial Velocity,2025
+1366,21.0974,1,Radial Velocity,2020
+1367,10.5298,1,Radial Velocity,2020
+1368,51.6026,2,Radial Velocity,2009
+1369,51.6026,2,Radial Velocity,2011
+1370,18.7168,2,Radial Velocity,2019
+1371,18.7168,2,Radial Velocity,2019
+1372,82.8101,1,Imaging,2026
+1373,39.7429,1,Radial Velocity,2023
+1374,25.4893,1,Radial Velocity,2022
+1375,122.324,1,Radial Velocity,2021
+1377,25.8618,3,Radial Velocity,2011
+1378,25.8618,3,Radial Velocity,2011
+1379,31.9043,1,Radial Velocity,2021
+1380,156.456,1,Radial Velocity,2013
+1381,61.7856,1,Transit,2020
+1382,61.7804,2,Radial Velocity,2016
+1383,61.7804,2,Radial Velocity,2016
+1384,108.875,1,Imaging,2017
+1385,150.292,1,Radial Velocity,2015
+1386,35.4438,1,Astrometry,2023
+1387,127.28,2,Transit,2020
+1388,127.28,2,Transit,2024
+1389,116.046,1,Radial Velocity,2017
+1390,64.1181,2,Radial Velocity,2015
+1391,64.1181,2,Radial Velocity,2015
+1392,24.0572,1,Radial Velocity,2009
+1393,32.3311,1,Radial Velocity,2019
+1394,78.6562,1,Radial Velocity,2016
+1395,81.6696,1,Radial Velocity,2021
+1396,150.862,1,Imaging,2024
+1397,136.759,1,Imaging,2010
+1398,145.798,1,Imaging,2019
+1399,14.5324,1,Radial Velocity,2009
+1400,147.533,1,Imaging,2023
+1401,101.694,2,Transit,2023
+1402,101.694,2,Transit,2023
+1403,155.121,2,Radial Velocity,2016
+1404,29.4898,1,Radial Velocity,2021
+1405,94.0349,1,Radial Velocity,2021
+1406,45.8846,1,Radial Velocity,2013
+1407,58.5146,1,Transit,2022
+1408,34.8523,1,Radial Velocity,2022
+1409,67.5478,2,Transit,2023
+1410,67.5478,2,Transit,2023
+1411,65.9501,2,Transit,2021
+1412,65.9501,2,Radial Velocity,2021
+1413,102.275,1,Radial Velocity,2014
+1414,40.0765,1,Imaging,2023
+1415,6.24442,1,Radial Velocity,2023
+1416,18.1186,1,Imaging,2006
+1417,34.0071,1,Imaging,2016
+1418,31.4607,1,Radial Velocity,2019
+1419,17.3181,1,Radial Velocity,1999
+1420,31.964,3,Transit,2019
+1421,31.964,3,Transit,2019
+1422,31.964,3,Transit,2019
+1423,41.2441,4,Imaging,2008
+1424,41.2441,4,Imaging,2008
+1425,41.2441,4,Imaging,2008
+1426,41.2441,4,Imaging,2010
+1427,37.6604,1,Radial Velocity,2024
+1428,192.19807871,2,Eclipse Timing Variations,2011
+1429,192.19807871,2,Eclipse Timing Variations,2011
+1430,859.324,1,Radial Velocity,2018
+1431,159.244,1,Transit,2024
+1432,136.37,1,Imaging,2024
+1433,272.36,1,Transit,2015
+1434,188.959,1,Transit,2016
+1435,188.33,1,Transit,2016
+1436,188.175,1,Transit,2016
+1437,189.289,1,Transit,2016
+1438,197.989,1,Transit,2017
+1439,685.2,1,Transit,2017
+1440,477.295,1,Transit,2017
+1441,329.309,1,Transit,2015
+1442,116.474,1,Transit,2017
+1443,200.394,2,Transit,2017
+1444,200.394,2,Radial Velocity,2020
+1445,635.722,1,Transit,2017
+1446,475.758,1,Transit,2017
+1447,413.591,1,Transit,2017
+1448,49.3855,1,Transit,2017
+1449,101.632,2,Transit,2017
+1450,101.632,2,Transit,2017
+1451,321.722,1,Transit,2017
+1452,365.581,1,Transit,2017
+1453,326.381,1,Transit,2015
+1454,169.398,1,Transit,2017
+1455,72.0444,1,Transit,2017
+1456,161.555,1,Transit,2017
+1457,140.385,1,Transit,2017
+1458,124.156,1,Transit,2017
+1459,102.953,1,Transit,2017
+1460,709.999,1,Transit,2017
+1461,114.637,1,Transit,2017
+1462,27.7957,1,Transit,2017
+1463,342.394,1,Transit,2015
+1464,118.011,1,Transit,2017
+1465,152.509,1,Transit,2017
+1466,609.818,1,Transit,2017
+1467,75.1703,4,Transit,2017
+1468,75.1703,4,Transit,2017
+1469,75.1703,4,Transit,2017
+1470,75.1703,4,Transit,2019
+1471,59.2474,3,Transit,2017
+1472,59.2474,3,Transit,2017
+1473,59.2474,3,Transit,2017
+1474,98.8765,1,Transit,2017
+1475,202.585,6,Transit,2017
+1476,202.585,6,Transit,2017
+1477,202.585,6,Transit,2017
+1478,202.585,6,Transit,2017
+1479,202.585,6,Transit,2017
+1480,202.585,6,Transit,2021
+1481,153.856,1,Transit,2017
+1482,364.048,1,Transit,2015
+1483,347.917,1,Transit,2017
+1484,61.8736,2,Transit,2018
+1485,61.8736,2,Transit,2018
+1486,79.3002,2,Transit,2018
+1487,79.3002,2,Transit,2019
+1488,90.5494,1,Transit,2018
+1489,124.458,3,Transit,2018
+1490,124.458,3,Transit,2018
+1491,124.458,3,Transit,2018
+1492,123.676,1,Transit,2018
+1493,493.992,1,Transit,2015
+1494,102.483,1,Transit,2018
+1495,69.4798,1,Transit,2018
+1496,108.449,1,Transit,2018
+1497,143.125,1,Transit,2018
+1498,129.356,2,Transit,2018
+1499,129.356,2,Transit,2018
+1500,72.7998,3,Transit,2018
+1501,72.7998,3,Transit,2018
+1502,72.7998,3,Transit,2018
+1503,150.21,1,Transit,2018
+1504,298.373,3,Transit,2018
+1505,298.373,3,Radial Velocity,2025
+1506,298.373,3,Radial Velocity,2025
+1507,197.299,2,Transit,2018
+1508,197.299,2,Transit,2018
+1509,170.998,1,Transit,2018
+1510,334.967,3,Transit,2015
+1511,334.967,3,Transit,2015
+1512,315.363,1,Transit,2018
+1513,916.319,1,Transit,2018
+1514,124.433,1,Transit,2018
+1515,208.529,1,Transit,2018
+1516,375.67,1,Transit,2018
+1517,134.591,3,Transit,2018
+1518,134.591,3,Transit,2018
+1519,134.591,3,Transit,2018
+1520,476.882,2,Transit,2018
+1521,80.8994,1,Transit,2018
+1522,243.935,2,Transit,2018
+1523,235.867,1,Transit,2018
+1524,125.106,1,Transit,2015
+1525,392.872,2,Transit,2018
+1526,392.872,2,Transit,2018
+1527,606.128,1,Transit,2018
+1528,249.742,2,Transit,2018
+1529,249.742,2,Transit,2018
+1530,228.641,1,Transit,2018
+1531,99.9293,1,Transit,2018
+1532,247.266,1,Transit,2018
+1533,247.302,1,Transit,2018
+1534,492.167,1,Transit,2018
+1535,214.753,1,Transit,2018
+1536,190.81,1,Transit,2018
+1537,38.0266,2,Transit,2015
+1538,38.0266,2,Radial Velocity,2017
+1539,203.896,1,Transit,2018
+1540,360.911,1,Transit,2018
+1541,154.83,1,Transit,2018
+1542,329.041,3,Transit,2018
+1543,329.041,3,Transit,2018
+1544,329.041,3,Transit,2018
+1545,75.5857,1,Transit,2018
+1546,268.357,2,Transit,2018
+1547,268.357,2,Transit,2018
+1548,330.739,1,Transit,2018
+1549,330.916,4,Transit,2018
+1550,330.916,4,Transit,2018
+1551,330.916,4,Transit,2018
+1552,330.916,4,Transit,2018
+1553,446.821,2,Transit,2018
+1554,446.821,2,Transit,2018
+1555,242.113,2,Transit,2018
+1556,242.113,2,Transit,2018
+1557,289.827,3,Transit,2015
+1558,289.827,3,Transit,2015
+1559,289.827,3,Transit,2016
+1560,160.679,2,Transit,2018
+1561,160.679,2,Transit,2018
+1562,287.188,1,Transit,2018
+1563,221.753,1,Transit,2018
+1564,411.923,1,Transit,2018
+1565,629.51,1,Transit,2018
+1566,315.014,2,Transit,2018
+1567,315.014,2,Transit,2018
+1568,584.877,1,Transit,2018
+1569,247.637,1,Transit,2018
+1570,110.567,3,Transit,2018
+1571,110.567,3,Transit,2019
+1572,110.567,3,Transit,2019
+1573,107.518,2,Transit,2018
+1574,107.518,2,Transit,2018
+1575,184.131,1,Transit,2018
+1576,197.932,2,Transit,2018
+1577,197.932,2,Transit,2018
+1578,5200.0,1,Microlensing,2023
+1579,300.397,1,Transit,2018
+1580,166.147,1,Transit,2018
+1581,577.235,1,Transit,2018
+1582,405.301,1,Transit,2018
+1583,244.443,1,Transit,2018
+1584,363.064,1,Transit,2018
+1585,256.887,1,Transit,2018
+1586,76.4986,1,Transit,2018
+1587,83.6448,2,Transit,2015
+1588,83.6448,2,Transit,2015
+1589,176.51,1,Transit,2018
+1590,272.297,1,Transit,2018
+1591,109.218,1,Transit,2018
+1592,389.702,1,Transit,2018
+1593,300.64,1,Transit,2018
+1594,403.964,1,Transit,2018
+1595,115.461,1,Transit,2018
+1596,381.878,1,Transit,2018
+1597,394.083,1,Transit,2018
+1598,325.4,3,Transit,2018
+1599,325.4,3,Transit,2018
+1600,325.4,3,Transit,2018
+1601,243.836,1,Transit,2015
+1602,233.514,1,Transit,2018
+1603,318.81,1,Transit,2018
+1604,101.321,1,Transit,2018
+1605,198.604,2,Transit,2018
+1606,198.604,2,Transit,2018
+1607,275.255,2,Transit,2018
+1608,275.255,2,Transit,2018
+1609,357.778,1,Transit,2018
+1610,211.265,1,Transit,2018
+1611,187.234,1,Transit,2018
+1612,129.46,1,Transit,2018
+1613,102.564,2,Transit,2018
+1614,102.564,2,Transit,2018
+1615,540.773,1,Transit,2018
+1616,321.215,1,Transit,2018
+1617,130.72,1,Transit,2018
+1618,67.5062,3,Transit,2018
+1619,67.5062,3,Transit,2018
+1620,67.5062,3,Transit,2018
+1621,314.995,1,Transit,2018
+1622,537.963,1,Transit,2018
+1623,31.0849,3,Transit,2018
+1624,31.0849,3,Transit,2018
+1625,31.0849,3,Transit,2018
+1626,170.562,2,Transit,2016
+1627,170.562,2,Transit,2016
+1628,72.9105,2,Transit,2018
+1629,72.9105,2,Transit,2018
+1630,149.464,1,Transit,2018
+1631,109.237,1,Transit,2018
+1632,266.864,2,Transit,2018
+1633,266.864,2,Transit,2018
+1634,212.902,1,Transit,2018
+1635,456.064,1,Transit,2018
+1636,703.616,1,Transit,2018
+1637,258.113,2,Transit,2018
+1638,258.113,2,Transit,2018
+1639,406.254,1,Transit,2018
+1640,521.716,1,Transit,2018
+1641,44.9565,1,Transit,2015
+1642,414.708,1,Transit,2018
+1643,147.03,1,Transit,2018
+1644,228.839,1,Transit,2018
+1646,227.775,2,Transit,2018
+1647,227.775,2,Transit,2018
+1648,191.608,1,Transit,2018
+1649,64.0065,1,Transit,2018
+1650,661.873,1,Transit,2018
+1651,416.457,1,Transit,2018
+1652,99.0504,1,Transit,2016
+1653,663.834,1,Transit,2018
+1654,213.283,1,Transit,2018
+1655,162.481,1,Transit,2018
+1656,185.605,2,Transit,2018
+1657,185.605,2,Transit,2018
+1658,138.671,1,Transit,2018
+1659,77.5586,4,Transit,2018
+1660,77.5586,4,Transit,2018
+1661,77.5586,4,Transit,2018
+1662,77.5586,4,Transit,2018
+1663,327.783,5,Transit,2018
+1664,327.783,5,Transit,2018
+1665,327.783,5,Transit,2021
+1666,327.783,5,Transit,2021
+1667,327.783,5,Transit,2021
+1668,360.76,1,Transit,2018
+1669,249.645,1,Transit,2016
+1670,280.518,2,Transit,2018
+1671,280.518,2,Transit,2018
+1672,564.454,1,Transit,2018
+1673,423.065,1,Transit,2018
+1674,308.105,1,Transit,2018
+1675,228.327,1,Transit,2018
+1676,123.438,2,Transit,2018
+1677,123.438,2,Transit,2018
+1678,488.152,1,Transit,2018
+1679,113.123,1,Transit,2018
+1680,786.439,1,Transit,2018
+1681,182.983,1,Transit,2018
+1682,62.9969,1,Transit,2016
+1683,391.537,1,Transit,2018
+1684,458.139,1,Transit,2018
+1685,496.289,2,Transit,2018
+1686,402.915,1,Transit,2018
+1687,107.272,1,Transit,2018
+1688,154.961,4,Transit,2018
+1689,154.961,4,Transit,2018
+1690,154.961,4,Transit,2018
+1691,154.961,4,Transit,2018
+1692,76.1486,1,Transit,2018
+1693,158.335,1,Transit,2018
+1694,65.6138,1,Transit,2018
+1695,274.3,1,Transit,2019
+1696,178.475,1,Transit,2016
+1697,272.909,2,Transit,2019
+1698,272.909,2,Transit,2019
+1699,90.0562,1,Transit,2019
+1700,114.293,1,Transit,2019
+1701,392.251,1,Transit,2019
+1702,373.078,1,Transit,2019
+1703,232.801,1,Transit,2018
+1704,44.0727,3,Transit,2015
+1705,44.0727,3,Transit,2015
+1706,44.0727,3,Transit,2015
+1707,333.042,1,Transit,2016
+1708,1314.53,1,Transit,2019
+1709,110.527,1,Transit,2016
+1710,109.86,2,Radial Velocity,2023
+1711,56.9686,1,Transit,2020
+1712,112.486,2,Transit,2020
+1713,112.486,2,Transit,2020
+1714,176.291,1,Transit,2020
+1715,147.866,1,Transit,2020
+1716,209.071,1,Transit,2020
+1717,157.682,4,Transit,2016
+1718,157.682,4,Transit,2016
+1719,157.682,4,Transit,2016
+1720,157.682,4,Transit,2019
+1721,108.74,1,Transit,2020
+1722,77.6888,1,Transit,2020
+1723,123.415,1,Transit,2020
+1724,118.318,1,Transit,2020
+1725,136.667,1,Transit,2020
+1726,111.638,1,Transit,2020
+1727,282.308,1,Transit,2020
+1728,233.237,1,Transit,2020
+1729,139.268,1,Transit,2016
+1730,160.125,1,Transit,2021
+1731,211.43,2,Transit,2021
+1732,211.43,2,Transit,2021
+1733,123.202,1,Transit,2021
+1734,343.99,1,Transit,2021
+1735,371.823,1,Transit,2021
+1736,557.993,1,Transit,2021
+1737,239.289,1,Transit,2021
+1738,421.636,1,Transit,2021
+1739,156.951,1,Transit,2021
+1740,360.36,1,Transit,2021
+1741,348.646,1,Transit,2016
+1742,738.136,1,Transit,2021
+1743,421.408,1,Transit,2021
+1744,208.357,1,Transit,2021
+1745,166.169,2,Transit,2021
+1746,166.169,2,Transit,2021
+1747,75.1691,1,Transit,2021
+1748,162.408,1,Transit,2021
+1749,105.58,1,Transit,2021
+1750,320.336,1,Transit,2021
+1751,201.856,2,Transit,2021
+1752,201.856,2,Transit,2021
+1753,453.567,1,Transit,2021
+1754,252.596,2,Transit,2016
+1755,252.596,2,Transit,2016
+1756,489.368,2,Transit,2021
+1757,489.368,2,Transit,2016
+1758,694.734,1,Transit,2021
+1759,176.051,3,Transit,2021
+1760,176.051,3,Transit,2021
+1761,176.051,3,Transit,2021
+1762,268.515,1,Transit,2021
+1763,91.722,1,Transit,2021
+1764,500.497,1,Transit,2021
+1765,355.54,1,Transit,2021
+1766,517.687,1,Transit,2021
+1767,480.307,1,Transit,2021
+1768,109.749,2,Transit,2016
+1769,109.749,2,Transit,2016
+1770,232.1,2,Radial Velocity,2024
+1771,187.222,1,Transit,2022
+1772,185.947,1,Transit,2022
+1773,176.965,1,Transit,2022
+1774,206.608,3,Transit,2022
+1775,206.608,3,Transit,2022
+1776,206.608,3,Transit,2022
+1777,185.55,1,Transit,2022
+1778,179.943,3,Transit,2016
+1779,179.943,3,Transit,2016
+1780,179.943,3,Transit,2016
+1781,144.202,1,Transit,2022
+1783,463.88,1,Transit,2022
+1784,229.567,1,Transit,2022
+1785,359.439,2,Transit,2022
+1786,359.439,2,Transit,2022
+1787,696.1,1,Transit,2022
+1788,161.61,1,Transit,2022
+1789,195.149,1,Transit,2022
+1790,687.973,1,Transit,2022
+1791,182.207,1,Transit,2022
+1792,192.69,2,Transit,2016
+1793,192.69,2,Transit,2016
+1794,249.303,1,Transit,2022
+1795,145.701,3,Transit,2022
+1796,145.701,3,Transit,2022
+1797,145.701,3,Transit,2022
+1798,278.412,1,Transit,2022
+1799,203.788,1,Transit,2022
+1800,82.6603,5,Transit,2022
+1801,82.6603,5,Transit,2022
+1802,82.6603,5,Transit,2022
+1803,82.6603,5,Transit,2022
+1804,82.6603,5,Transit,2022
+1805,420.819,1,Transit,2022
+1806,428.785,1,Transit,2022
+1807,266.318,1,Transit,2022
+1808,290.495,1,Transit,2022
+1809,259.208,2,Transit,2022
+1810,259.208,2,Transit,2022
+1811,307.47,1,Transit,2016
+1812,456.122,1,Transit,2022
+1813,507.94,1,Transit,2022
+1814,406.985,1,Transit,2022
+1815,265.914,1,Transit,2022
+1816,98.0152,1,Transit,2022
+1817,286.727,2,Transit,2022
+1818,286.727,2,Transit,2022
+1819,274.864,2,Transit,2022
+1820,274.864,2,Transit,2022
+1821,199.354,1,Transit,2022
+1822,606.992,2,Transit,2022
+1823,606.992,2,Transit,2022
+1824,231.828,1,Transit,2015
+1825,62.3804,1,Transit,2022
+1826,200.727,1,Transit,2022
+1827,523.055,1,Transit,2022
+1828,246.599,1,Transit,2022
+1829,121.63,1,Transit,2022
+1830,197.234,1,Transit,2022
+1831,85.3751,1,Transit,2022
+1832,218.376,2,Transit,2022
+1833,218.376,2,Transit,2022
+1834,162.306,1,Transit,2022
+1835,431.031,1,Transit,2022
+1836,298.219,1,Transit,2022
+1837,654.085,1,Transit,2022
+1838,285.162,2,Transit,2022
+1839,285.162,2,Transit,2022
+1840,260.036,2,Transit,2022
+1841,260.036,2,Transit,2022
+1842,21.8182,1,Transit,2023
+1843,120.311,1,Transit,2023
+1844,94.0424,1,Transit,2023
+1845,268.685,1,Transit,2024
+1846,396.913,1,Transit,2016
+1847,182.536,2,Transit,2016
+1848,182.536,2,Transit,2019
+1849,476.703,1,Transit,2016
+1850,495.317,1,Transit,2016
+1851,449.237,1,Transit,2016
+1852,349.881,1,Transit,2016
+1853,313.764,1,Transit,2016
+1854,457.125,1,Transit,2016
+1855,202.943,2,Transit,2015
+1856,202.943,2,Transit,2015
+1857,257.443,2,Transit,2016
+1859,138.018,1,Transit,2016
+1860,174.955,1,Transit,2016
+1861,159.522,1,Transit,2016
+1862,264.213,1,Transit,2016
+1863,181.746,3,Transit,2016
+1864,181.746,3,Transit,2016
+1865,181.746,3,Transit,2016
+1866,311.313,2,Transit,2016
+1867,311.313,2,Transit,2016
+1868,316.819,1,Transit,2015
+1869,491.87,1,Transit,2016
+1870,405.732,1,Transit,2016
+1871,112.467,2,Transit,2016
+1872,112.467,2,Transit,2016
+1873,517.534,2,Transit,2016
+1874,517.534,2,Transit,2016
+1875,499.891,1,Transit,2016
+1876,72.2,1,Transit,2016
+1877,513.877,1,Transit,2016
+1878,168.652,1,Transit,2016
+1879,180.697,1,Transit,2016
+1880,738.553,1,Transit,2015
+1881,232.964,1,Transit,2016
+1882,153.192,1,Transit,2016
+1883,66.4321,4,Transit,2016
+1884,66.4321,4,Transit,2016
+1885,66.4321,4,Transit,2016
+1886,66.4321,4,Transit,2016
+1887,269.183,2,Transit,2016
+1888,269.183,2,Radial Velocity,2025
+1889,377.822,1,Transit,2016
+1890,561.93,2,Transit,2016
+1891,561.93,2,Transit,2016
+1892,141.731,1,Transit,2016
+1893,256.011,1,Transit,2016
+1894,403.513,2,Transit,2015
+1895,403.513,2,Transit,2016
+1896,200.802,3,Transit,2016
+1897,200.802,3,Transit,2016
+1898,200.802,3,Transit,2018
+1899,252.318,1,Transit,2016
+1900,125.529,2,Transit,2016
+1901,125.529,2,Transit,2016
+1902,284.876,2,Transit,2016
+1903,284.876,2,Transit,2016
+1904,97.2179,1,Transit,2016
+1905,258.699,1,Transit,2016
+1906,491.242,1,Transit,2016
+1907,110.561,1,Transit,2016
+1908,86.0386,1,Transit,2016
+1909,82.9631,1,Transit,2015
+1910,134.188,2,Transit,2016
+1911,134.188,2,Transit,2016
+1912,62.5785,1,Transit,2016
+1913,179.854,1,Transit,2016
+1914,878.43,1,Transit,2016
+1915,518.625,1,Transit,2016
+1916,519.229,2,Transit,2016
+1917,519.229,2,Radial Velocity,2022
+1918,268.43,1,Transit,2012
+1919,188.404,1,Transit,2016
+1920,99.1596,1,Transit,2017
+1921,368.03,1,Transit,2017
+1922,250.121,1,Transit,2016
+1923,324.683,1,Transit,2016
+1924,444.586,1,Transit,2017
+1925,226.5,1,Transit,2016
+1926,321.376,1,Transit,2017
+1927,300.276,1,Transit,2017
+1928,134.058,1,Transit,2012
+1929,136.426,1,Transit,2017
+1930,470.878,1,Transit,2018
+1931,126.261,1,Transit,2019
+1932,96.5173,1,Transit,2019
+1933,210.252,1,Transit,2013
+1934,218.05,1,Transit,2016
+1935,240.726,2,Transit,2014
+1936,240.726,2,Radial Velocity,2015
+1937,136.681,1,Transit,2015
+1938,197.572,1,Transit,2015
+1939,204.455,1,Transit,2017
+1943,721.105,1,Orbital Brightness Modulation,2021
+1944,1461.15,1,Transit,2015
+1945,401.229,1,Radial Velocity,2022
+1946,1215.7,1,Transit,2015
+1947,1274.01,2,Transit,2015
+1948,454.95,1,Orbital Brightness Modulation,2021
+1949,1382.89,1,Pulsation Timing Variations,2016
+1950,707.303,1,Orbital Brightness Modulation,2021
+1951,1072.3,3,Transit,2015
+1952,1072.3,3,Transit,2015
+1953,1594.74,2,Transit,2015
+1954,6300.0,1,Microlensing,2018
+1955,5080.0,1,Microlensing,2023
+1956,6651.0,1,Microlensing,2019
+1957,6920.0,1,Microlensing,2026
+1958,6600.0,1,Microlensing,2018
+1959,6260.0,1,Microlensing,2018
+1960,7100.0,1,Microlensing,2019
+1961,7010.0,1,Microlensing,2018
+1962,3580.0,1,Microlensing,2024
+1963,6440.0,1,Microlensing,2020
+1964,4880.0,1,Microlensing,2020
+1965,6421.0,1,Microlensing,2021
+1966,4530.0,1,Microlensing,2018
+1967,5400.0,1,Microlensing,2023
+1968,5080.0,1,Microlensing,2022
+1969,7220.0,1,Microlensing,2024
+1970,7090.0,1,Microlensing,2023
+1971,6000.0,1,Microlensing,2019
+1972,6500.0,1,Microlensing,2024
+1973,6500.0,1,Microlensing,2019
+1974,4240.0,1,Microlensing,2023
+1975,7800.0,1,Microlensing,2025
+1976,8030.0,1,Microlensing,2024
+1977,7040.0,1,Microlensing,2021
+1978,3380.0,1,Microlensing,2020
+1979,6480.0,1,Microlensing,2022
+1980,7020.0,1,Microlensing,2022
+1981,6760.0,1,Microlensing,2022
+1982,7300.0,1,Microlensing,2020
+1983,6890.0,1,Microlensing,2023
+1984,6705.0,1,Microlensing,2021
+1985,3460.0,1,Microlensing,2020
+1986,6483.0,1,Microlensing,2021
+1987,5840.0,1,Microlensing,2021
+1988,4150.0,1,Microlensing,2022
+1989,967.0,1,Microlensing,2019
+1990,5910.0,1,Microlensing,2021
+1991,4310.0,1,Microlensing,2022
+1992,4900.0,1,Microlensing,2022
+1993,3090.0,1,Microlensing,2023
+1994,6710.0,1,Microlensing,2023
+1995,7710.0,1,Microlensing,2023
+1996,7010.0,1,Microlensing,2021
+1997,4410.0,1,Microlensing,2022
+1998,7300.0,1,Microlensing,2025
+1999,3320.0,1,Microlensing,2020
+2000,7200.0,1,Microlensing,2022
+2001,6600.0,1,Microlensing,2022
+2002,2740.0,1,Microlensing,2023
+2003,6120.0,1,Microlensing,2020
+2004,4670.0,1,Microlensing,2023
+2005,4600.0,1,Microlensing,2022
+2006,3860.0,1,Microlensing,2021
+2007,6640.0,1,Microlensing,2023
+2008,7040.0,1,Microlensing,2020
+2009,5910.0,1,Microlensing,2023
+2010,6100.0,1,Microlensing,2022
+2011,3840.0,1,Microlensing,2026
+2012,1220.0,2,Microlensing,2021
+2013,1220.0,2,Microlensing,2021
+2014,3130.0,1,Microlensing,2022
+2015,4600.0,1,Microlensing,2022
+2016,5120.0,1,Microlensing,2022
+2017,6600.0,1,Microlensing,2022
+2018,6950.0,1,Microlensing,2022
+2019,6600.0,1,Microlensing,2021
+2020,3090.0,1,Microlensing,2023
+2021,7000.0,1,Microlensing,2025
+2022,6090.0,1,Microlensing,2022
+2023,6480.0,1,Microlensing,2023
+2024,5560.0,1,Microlensing,2022
+2025,8240.0,2,Microlensing,2022
+2026,8240.0,2,Microlensing,2022
+2027,4540.0,1,Microlensing,2023
+2028,3800.0,1,Microlensing,2023
+2029,6640.0,1,Microlensing,2022
+2030,6280.0,1,Microlensing,2022
+2031,5970.0,1,Microlensing,2022
+2032,5720.0,1,Microlensing,2022
+2033,5070.0,1,Microlensing,2023
+2034,7680.0,1,Microlensing,2022
+2035,7200.0,1,Microlensing,2022
+2036,6920.0,1,Microlensing,2023
+2037,6900.0,1,Microlensing,2022
+2038,7090.0,1,Microlensing,2023
+2039,6800.0,1,Microlensing,2022
+2040,2970.0,1,Microlensing,2023
+2041,7480.0,1,Microlensing,2024
+2042,6570.0,1,Microlensing,2024
+2043,7140.0,1,Microlensing,2023
+2044,3500.0,1,Microlensing,2023
+2045,7710.0,1,Microlensing,2023
+2046,6900.0,1,Microlensing,2026
+2047,6480.0,1,Microlensing,2025
+2048,5300.0,2,Microlensing,2026
+2049,5300.0,2,Microlensing,2026
+2050,5570.0,1,Microlensing,2025
+2051,7320.0,1,Microlensing,2024
+2052,5410.0,1,Microlensing,2025
+2053,5900.0,1,Microlensing,2024
+2054,6800.0,1,Microlensing,2026
+2055,7070.0,1,Microlensing,2024
+2056,6830.0,1,Microlensing,2025
+2057,6390.0,1,Microlensing,2024
+2058,7250.0,1,Microlensing,2025
+2059,6060.0,1,Microlensing,2025
+2060,6800.0,1,Microlensing,2024
+2061,7220.0,1,Microlensing,2024
+2062,6980.0,1,Microlensing,2024
+2063,7130.0,1,Microlensing,2024
+2064,6210.0,1,Microlensing,2024
+2065,5490.0,1,Microlensing,2025
+2066,5570.0,1,Microlensing,2025
+2067,8340.0,1,Microlensing,2026
+2068,5750.0,1,Microlensing,2026
+2069,7210.0,2,Microlensing,2025
+2070,7210.0,2,Microlensing,2025
+2071,6950.0,1,Microlensing,2025
+2072,7140.0,1,Microlensing,2024
+2073,3930.0,1,Microlensing,2025
+2074,7180.0,1,Microlensing,2025
+2075,5480.0,1,Microlensing,2026
+2076,6070.0,1,Microlensing,2025
+2077,7190.0,1,Microlensing,2026
+2078,7620.0,1,Microlensing,2025
+2079,6200.0,1,Microlensing,2026
+2080,7500.0,1,Microlensing,2026
+2081,23.9718,2,Radial Velocity,2025
+2082,23.9718,2,Radial Velocity,2025
+2083,399.398,2,Transit,2015
+2084,656.0,1,Transit,2014
+2085,519.096,1,Transit,2011
+2086,1159.21,2,Transit,2025
+2087,1159.21,2,Transit Timing Variations,2025
+2088,376.863,3,Transit,2013
+2089,376.863,3,Transit Timing Variations,2013
+2090,1131.64,2,Transit,2019
+2091,1131.64,2,Transit,2019
+2092,865.73,2,Transit,2020
+2093,865.73,2,Transit,2020
+2094,501.574,4,Transit,2021
+2095,290.324,3,Transit,2021
+2096,134.311,2,Transit,2013
+2098,1369.87,1,Transit,2023
+2099,887.064,2,Transit,2021
+2100,887.064,2,Transit,2021
+2101,848.254,8,Transit,2013
+2102,848.254,8,Transit,2013
+2103,848.254,8,Transit,2013
+2104,848.254,8,Transit,2013
+2105,848.254,8,Transit,2013
+2106,848.254,8,Transit,2013
+2107,848.254,8,Transit,2013
+2108,921.986,1,Transit,2018
+2109,172.245,1,Transit,2022
+2110,936.341,1,Transit,2024
+2111,1231.02,2,Orbital Brightness Modulation,2011
+2112,1231.02,2,Orbital Brightness Modulation,2011
+2113,264.995,1,Transit,2022
+2114,271.277,1,Transit,2022
+2115,477.052,4,Transit,2013
+2116,477.052,4,Transit,2013
+2117,477.052,4,Transit,2013
+2118,477.052,4,Transit,2013
+2119,252.667,2,Transit,2022
+2120,252.667,2,Transit Timing Variations,2022
+2121,158.618,1,Imaging,2026
+2122,140.563,1,Imaging,2026
+2123,145.434,1,Imaging,2026
+2124,262.706,1,Transit,2018
+2125,3.93305,1,Radial Velocity,2014
+2126,185.506,3,Transit,2011
+2127,185.506,3,Transit,2011
+2128,185.506,3,Radial Velocity,2023
+2129,304.645,4,Transit,2014
+2130,304.645,4,Transit,2014
+2131,304.645,4,Transit,2014
+2132,304.645,4,Radial Velocity,2023
+2133,1115.62,1,Transit,2016
+2134,928.978,2,Transit,2016
+2135,928.978,2,Transit,2020
+2136,408.303,1,Transit,2016
+2137,941.902,1,Transit,2016
+2138,1152.68,1,Transit,2016
+2139,567.806,1,Transit,2016
+2140,1081.738,1,Transit,2016
+2141,365.0,1,Transit,2016
+2142,282.565,1,Transit,2016
+2143,355.019,1,Transit,2016
+2144,927.981,2,Transit,2014
+2145,927.981,2,Transit,2014
+2146,579.273,1,Transit,2016
+2147,736.779,1,Transit,2016
+2148,411.077,1,Transit,2016
+2149,422.246,1,Transit,2016
+2150,624.8,1,Transit,2016
+2151,739.357,1,Transit,2016
+2152,1402.82,2,Transit,2016
+2153,1402.82,2,Transit,2016
+2154,552.058,1,Transit,2016
+2155,1010.01,1,Transit,2016
+2156,194.182,1,Transit,2016
+2157,107.796,5,Transit,2014
+2158,107.796,5,Transit,2014
+2159,107.796,5,Transit,2014
+2160,107.796,5,Transit,2013
+2161,107.796,5,Transit,2014
+2162,415.358,1,Transit,2016
+2163,810.082,1,Transit,2016
+2164,420.042,1,Transit,2016
+2165,694.175,1,Transit,2016
+2166,1087.4,1,Transit,2016
+2167,803.776,1,Transit,2016
+2168,351.239,1,Transit,2016
+2169,405.104,1,Transit,2016
+2170,607.916,1,Transit,2016
+2171,366.656,1,Transit,2016
+2172,494.832,2,Transit,2014
+2173,494.832,2,Transit,2014
+2174,758.702,1,Transit,2016
+2175,682.882,1,Transit,2016
+2176,673.01,1,Transit,2016
+2177,1455.5,1,Transit,2016
+2178,654.549,1,Transit,2016
+2179,562.116,1,Transit,2016
+2180,489.435,1,Transit,2016
+2181,446.914,1,Transit,2016
+2182,584.136,2,Transit,2016
+2183,584.136,2,Transit,2021
+2184,306.91,1,Transit,2016
+2185,400.785,3,Transit,2014
+2186,400.785,3,Transit,2014
+2187,400.785,3,Transit,2014
+2188,482.119,1,Transit,2016
+2189,1485.82,1,Transit,2016
+2190,659.0,1,Transit,2016
+2191,903.332,1,Transit,2016
+2192,1278.96,1,Transit,2016
+2193,942.485,1,Transit,2016
+2194,721.534,1,Transit,2016
+2195,817.647,2,Transit,2016
+2196,817.647,2,Transit,2016
+2197,556.006,1,Transit,2016
+2198,162.006,1,Transit,2016
+2199,459.223,2,Transit,2013
+2200,459.223,2,Transit,2014
+2201,490.488,2,Transit,2016
+2202,490.488,2,Transit,2016
+2203,829.343,1,Transit,2016
+2204,943.444,2,Transit,2016
+2205,943.444,2,Transit,2023
+2206,151.129,1,Transit,2016
+2207,1090.51,1,Transit,2016
+2208,389.397,1,Transit,2016
+2209,982.51,1,Transit,2016
+2210,1201.82,1,Transit,2016
+2211,491.997,1,Transit,2016
+2212,713.167,1,Transit,2016
+2213,444.322,4,Transit,2014
+2214,444.322,4,Transit,2014
+2215,444.322,4,Transit,2014
+2216,444.322,4,Transit,2014
+2217,946.565,1,Transit,2016
+2218,543.375,1,Transit,2016
+2219,397.455,1,Transit,2016
+2220,343.226,1,Transit,2016
+2221,374.0,1,Transit,2016
+2222,1122.48,2,Transit,2016
+2223,1122.48,2,Transit,2016
+2224,344.251,1,Transit,2016
+2225,667.693,2,Transit,2016
+2226,667.693,2,Transit,2021
+2227,1473.61,1,Transit,2016
+2228,695.967,1,Transit,2016
+2229,525.997,4,Transit,2014
+2230,525.997,4,Transit,2014
+2231,525.997,4,Transit,2014
+2232,525.997,4,Transit,2014
+2233,939.001,1,Transit,2016
+2234,1042.27,1,Transit,2016
+2235,982.716,1,Transit,2016
+2236,809.897,3,Transit,2016
+2237,809.897,3,Transit,2016
+2238,809.897,3,Transit,2021
+2239,250.817,1,Transit,2016
+2240,291.275,1,Transit,2016
+2241,199.0,1,Transit,2016
+2242,1101.42,1,Transit,2016
+2243,2481.71,1,Transit,2016
+2244,591.098,1,Transit,2016
+2245,338.732,2,Transit,2014
+2246,338.732,2,Transit,2014
+2247,1382.82,1,Transit,2016
+2248,420.215,1,Transit,2016
+2249,739.557,1,Transit,2016
+2250,902.633,1,Transit,2016
+2251,405.533,1,Transit,2016
+2252,1364.53,2,Transit,2016
+2253,1364.53,2,Transit,2020
+2254,466.084,2,Transit,2016
+2255,466.084,2,Transit,2016
+2256,362.623,1,Transit,2016
+2257,280.629,1,Transit,2016
+2258,259.328,1,Transit,2016
+2259,474.861,2,Transit,2014
+2260,474.861,2,Transit,2014
+2261,858.77,2,Transit,2016
+2262,858.77,2,Transit,2021
+2263,914.299,1,Transit,2016
+2264,981.233,1,Transit,2016
+2265,1072.88,2,Transit,2016
+2266,1072.88,2,Transit,2016
+2267,1291.01,1,Transit,2016
+2268,792.522,1,Transit,2016
+2269,377.976,1,Transit,2016
+2270,719.802,1,Transit,2016
+2271,1049.19,1,Transit,2016
+2272,1022.8,1,Transit,2016
+2273,646.346,6,Transit,2010
+2274,646.346,6,Transit,2010
+2275,646.346,6,Transit,2010
+2276,646.346,6,Transit,2010
+2277,646.346,6,Transit,2010
+2278,646.346,6,Transit,2010
+2279,586.531,2,Transit,2014
+2280,586.531,2,Transit,2014
+2281,693.618,1,Transit,2016
+2282,742.473,1,Transit,2016
+2283,1246.05,1,Transit,2016
+2284,1331.92,1,Transit,2016
+2285,530.658,1,Transit,2016
+2286,318.004,1,Transit,2016
+2287,1090.7,1,Transit,2016
+2288,428.798,1,Transit,2016
+2289,767.701,1,Transit,2016
+2290,685.087,1,Transit,2016
+2291,657.223,2,Transit,2014
+2292,657.223,2,Transit,2014
+2293,726.828,1,Transit,2016
+2294,841.536,1,Transit,2016
+2295,1671.28,1,Transit,2016
+2296,1073.88,1,Transit,2016
+2297,418.417,1,Transit,2016
+2298,983.245,1,Transit,2016
+2299,1008.57,1,Transit,2016
+2300,568.487,1,Transit,2016
+2301,888.325,1,Transit,2016
+2302,1757.23,1,Transit,2016
+2303,513.206,2,Transit,2014
+2304,513.206,2,Transit,2014
+2305,615.231,1,Transit,2016
+2306,482.047,1,Transit,2016
+2307,1230.42,1,Transit,2016
+2308,704.323,1,Transit,2016
+2309,289.899,1,Transit,2016
+2310,2011.41,1,Transit,2016
+2311,635.736,2,Transit,2016
+2312,635.736,2,Transit,2023
+2313,842.459,1,Transit,2016
+2314,1083.41,1,Transit,2016
+2315,1183.88,2,Transit,2016
+2316,1183.88,2,Transit,2016
+2317,262.351,2,Transit,2014
+2318,262.351,2,Transit,2014
+2319,249.343,3,Transit,2016
+2320,249.343,3,Transit,2021
+2321,249.343,3,Transit,2021
+2322,1030.7,1,Transit,2016
+2323,867.931,1,Transit,2016
+2324,753.135,1,Transit,2016
+2325,944.445,1,Transit,2016
+2326,1314.64,1,Transit,2016
+2327,491.406,1,Transit,2016
+2328,921.778,1,Transit,2016
+2329,872.328,1,Transit,2016
+2330,495.156,1,Transit,2016
+2331,259.533,3,Transit,2014
+2332,259.533,3,Transit,2013
+2333,259.533,3,Transit,2013
+2334,656.48,1,Transit,2016
+2335,393.642,1,Transit,2016
+2336,1273.51,1,Transit,2016
+2337,555.189,2,Transit,2016
+2338,555.189,2,Transit,2016
+2339,1140.57,1,Transit,2016
+2340,691.961,1,Transit,2016
+2341,703.038,1,Transit,2016
+2342,1657.36,1,Transit,2016
+2343,625.692,1,Transit,2016
+2344,1217.73,1,Transit,2016
+2345,623.609,2,Transit,2014
+2346,623.609,2,Transit,2014
+2347,358.518,1,Transit,2016
+2348,682.436,1,Transit,2016
+2349,215.233,1,Transit,2016
+2350,1119.49,1,Transit,2016
+2351,1460.1,2,Transit,2016
+2352,1460.1,2,Transit,2016
+2353,1128.72,1,Transit,2016
+2354,691.331,1,Transit,2016
+2355,342.144,1,Transit,2016
+2356,1484.25,1,Transit,2016
+2357,1213.71,1,Transit,2016
+2358,955.168,2,Transit,2014
+2359,955.168,2,Transit,2014
+2360,1077.63,1,Transit,2016
+2361,547.726,1,Transit,2016
+2362,940.211,2,Transit,2016
+2363,940.211,2,Transit,2023
+2364,478.647,1,Transit,2016
+2365,431.622,1,Transit,2016
+2366,1575.2,2,Transit,2016
+2367,1575.2,2,Transit,2021
+2368,634.906,1,Transit,2016
+2369,820.905,1,Transit,2016
+2370,752.666,1,Transit,2016
+2371,522.823,1,Transit,2016
+2372,1455.57,2,Transit,2014
+2373,1455.57,2,Transit,2014
+2374,1050.45,1,Transit,2016
+2375,573.0,1,Transit,2016
+2376,1306.53,1,Transit,2016
+2377,377.06,1,Transit,2016
+2378,1408.75,1,Transit,2016
+2379,1121.89,1,Transit,2016
+2380,864.699,1,Transit,2016
+2381,1299.97,1,Transit,2016
+2382,482.287,1,Transit,2016
+2383,415.205,1,Transit,2016
+2384,574.228,2,Transit,2014
+2385,574.228,2,Transit,2014
+2386,1596.8,1,Transit,2016
+2387,938.417,2,Transit,2016
+2388,938.417,2,Transit,2023
+2389,1545.39,1,Transit,2016
+2390,1919.19,1,Transit,2016
+2391,1157.84,1,Transit,2016
+2392,459.273,1,Transit,2016
+2393,1337.25,1,Transit,2016
+2394,1020.53,1,Transit,2016
+2395,1717.48,1,Transit,2016
+2396,782.852,1,Transit,2016
+2397,701.996,2,Transit,2014
+2398,701.996,2,Transit,2014
+2399,342.509,1,Transit,2016
+2400,955.536,1,Transit,2016
+2401,1304.19,1,Transit,2016
+2402,802.116,1,Transit,2016
+2403,757.382,1,Transit,2016
+2404,918.566,1,Transit,2016
+2405,922.333,1,Transit,2016
+2406,486.94,1,Transit,2016
+2407,743.03,1,Transit,2016
+2408,563.493,1,Transit,2016
+2409,881.386,1,Transit,2011
+2410,388.63,2,Transit,2014
+2411,388.63,2,Transit,2014
+2412,588.715,1,Transit,2016
+2413,944.241,1,Transit,2016
+2414,1175.38,1,Transit,2016
+2415,317.022,1,Transit,2016
+2416,1175.22,1,Transit,2016
+2417,698.485,1,Transit,2016
+2418,762.019,1,Transit,2016
+2419,1754.19,1,Transit,2016
+2420,825.176,1,Transit,2016
+2421,505.531,1,Transit,2016
+2422,510.523,2,Transit,2014
+2423,510.523,2,Transit,2014
+2424,1176.53,1,Transit,2016
+2425,1826.53,1,Transit,2016
+2426,1316.57,1,Transit,2016
+2427,807.812,1,Transit,2016
+2428,729.227,1,Transit,2016
+2429,661.022,1,Transit,2016
+2430,1258.36,1,Transit,2016
+2431,1347.71,1,Transit,2016
+2432,840.503,1,Transit,2016
+2433,880.895,1,Transit,2016
+2434,1027.45,5,Transit,2014
+2435,1027.45,5,Transit,2014
+2436,1027.45,5,Transit,2014
+2437,1027.45,5,Transit,2014
+2438,1027.45,5,Transit Timing Variations,2014
+2439,961.907,1,Transit,2016
+2440,913.65,1,Transit,2016
+2441,415.218,1,Transit,2016
+2442,459.957,1,Transit,2016
+2443,559.598,1,Transit,2016
+2444,1347.52,1,Transit,2016
+2445,1125.72,1,Transit,2016
+2446,623.706,1,Transit,2016
+2447,515.453,1,Transit,2016
+2448,265.482,1,Transit,2016
+2449,1021.66,2,Transit,2014
+2450,1021.66,2,Transit,2014
+2451,1364.22,1,Transit,2016
+2452,987.237,1,Transit,2016
+2453,632.865,1,Transit,2016
+2454,1178.7,1,Transit,2016
+2455,916.749,1,Transit,2016
+2456,540.604,1,Transit,2016
+2457,999.64,1,Transit,2016
+2458,1064.31,1,Transit,2016
+2459,1632.13,1,Transit,2016
+2460,2140.6,1,Transit,2016
+2461,420.046,3,Transit,2014
+2462,420.046,3,Transit,2014
+2463,420.046,3,Transit,2014
+2464,862.186,1,Transit,2016
+2465,968.722,1,Transit,2016
+2466,687.615,1,Transit,2016
+2467,758.17,1,Transit,2016
+2468,1075.81,1,Transit,2016
+2469,805.936,2,Transit,2016
+2470,805.936,2,Transit,2016
+2471,436.505,1,Transit,2016
+2472,1045.92,1,Transit,2016
+2473,593.026,1,Transit,2016
+2474,1904.54,1,Transit,2016
+2475,183.365,2,Transit,2014
+2476,183.365,2,Transit,2014
+2477,2126.85,1,Transit,2016
+2478,902.204,1,Transit,2016
+2479,648.979,1,Transit,2016
+2480,514.524,1,Transit,2016
+2481,622.818,3,Transit,2016
+2482,622.818,3,Transit,2016
+2483,622.818,3,Transit,2016
+2484,1617.07,1,Transit,2016
+2485,891.192,1,Transit,2016
+2486,1105.95,1,Transit,2016
+2487,717.555,1,Transit,2016
+2488,805.562,1,Transit,2016
+2489,237.401,3,Transit,2014
+2490,237.401,3,Transit,2014
+2491,237.401,3,Transit,2014
+2492,1734.43,1,Transit,2016
+2493,744.294,1,Transit,2016
+2494,1054.87,1,Transit,2016
+2495,664.83,1,Transit,2016
+2496,801.993,1,Transit,2016
+2497,583.641,1,Transit,2016
+2498,849.312,2,Transit,2016
+2499,849.312,2,Transit,2021
+2500,1379.43,1,Transit,2016
+2501,1840.77,1,Transit,2016
+2502,1097.23,1,Transit,2016
+2503,352.794,3,Transit,2014
+2504,352.794,3,Transit,2014
+2505,352.794,3,Transit,2014
+2506,1095.05,1,Transit,2016
+2507,831.991,1,Transit,2016
+2508,1206.37,1,Transit,2016
+2509,1114.24,1,Transit,2016
+2510,614.648,1,Transit,2016
+2511,1153.98,1,Transit,2016
+2512,538.481,1,Transit,2016
+2513,557.193,1,Transit,2016
+2514,889.426,1,Transit,2016
+2515,1494.22,1,Transit,2016
+2516,396.379,2,Transit,2013
+2517,396.379,2,Transit,2013
+2518,1486.7,1,Transit,2016
+2519,1090.0,1,Transit,2016
+2520,1103.29,1,Transit,2016
+2521,2921.99,1,Transit,2016
+2522,882.324,1,Transit,2016
+2523,422.269,1,Transit,2016
+2524,1354.46,1,Transit,2016
+2525,1003.26,1,Transit,2016
+2526,814.078,1,Transit,2016
+2527,1053.57,1,Transit,2016
+2528,408.845,3,Transit,2014
+2529,408.845,3,Transit,2014
+2530,408.845,3,Radial Velocity,2021
+2531,1593.7,1,Transit,2016
+2532,897.352,1,Transit,2016
+2533,1493.43,1,Transit,2016
+2534,1028.16,1,Transit,2016
+2535,1855.7,1,Transit,2016
+2536,1174.46,1,Transit,2016
+2537,1551.54,1,Transit,2016
+2538,1439.47,1,Transit,2016
+2539,544.163,1,Transit,2016
+2540,1404.94,1,Transit,2016
+2541,316.663,3,Transit,2014
+2542,316.663,3,Transit,2014
+2543,316.663,3,Transit,2014
+2544,777.025,1,Transit,2016
+2545,854.28,1,Transit,2016
+2546,634.58,1,Transit,2016
+2547,897.783,1,Transit,2016
+2548,2176.08,1,Transit,2016
+2549,1575.23,1,Transit,2016
+2550,1107.5,1,Transit,2016
+2551,1014.62,1,Transit,2016
+2552,112.705,1,Transit,2016
+2553,845.0,1,Transit,2016
+2554,228.678,2,Transit,2014
+2555,228.678,2,Transit,2014
+2556,569.185,1,Transit,2016
+2557,866.331,3,Transit,2016
+2558,866.331,3,Transit,2016
+2559,866.331,3,Transit,2021
+2560,299.104,2,Transit,2016
+2561,299.104,2,Transit,2021
+2562,174.234,1,Transit,2016
+2563,141.98685057,1,Transit,2016
+2564,480.869,2,Transit,2016
+2565,480.869,2,Transit,2021
+2566,800.871,1,Transit,2016
+2567,728.303,1,Transit,2016
+2568,475.248,1,Transit,2016
+2569,103.917,1,Transit,2016
+2570,349.549,4,Transit,2014
+2571,349.549,4,Transit,2014
+2572,349.549,4,Transit,2014
+2573,349.549,4,Transit,2016
+2574,647.424,1,Transit,2016
+2575,769.146,3,Transit,2016
+2576,769.146,3,Transit,2016
+2577,769.146,3,Transit,2021
+2578,1350.32,2,Transit,2016
+2579,1350.32,2,Transit,2021
+2580,465.417,1,Transit,2016
+2581,481.667,1,Transit,2016
+2582,973.368,1,Transit,2016
+2583,698.326,1,Transit,2016
+2584,678.069,1,Transit,2016
+2585,813.543,1,Transit,2016
+2586,588.037,1,Transit,2016
+2587,653.6,2,Transit,2014
+2588,653.6,2,Transit,2014
+2589,1720.48,1,Transit,2016
+2590,319.197,1,Transit,2016
+2591,528.685,1,Transit,2016
+2592,932.446,1,Transit,2016
+2593,1223.04,1,Transit,2016
+2594,621.853,1,Transit,2016
+2595,1126.64,2,Transit,2016
+2596,1126.64,2,Transit,2016
+2597,601.629,1,Transit,2016
+2598,753.26,1,Transit,2016
+2599,371.049,1,Transit,2016
+2600,334.797,2,Transit,2014
+2601,334.797,2,Transit,2014
+2602,981.779,1,Transit,2016
+2603,476.957,1,Transit,2016
+2604,890.724,1,Transit,2016
+2605,1756.71,1,Transit,2016
+2606,853.959,1,Transit,2016
+2607,1355.02,1,Transit,2016
+2608,843.701,1,Transit,2016
+2609,321.0,1,Transit,2016
+2610,1213.82,1,Transit,2016
+2611,276.323,1,Transit,2016
+2612,621.855,2,Transit,2014
+2613,621.855,2,Transit,2014
+2614,340.691,2,Transit,2016
+2615,340.691,2,Transit,2016
+2616,202.782,1,Transit,2016
+2617,670.829,1,Transit,2016
+2618,593.384,1,Transit,2016
+2619,1119.45,1,Transit,2016
+2620,911.269,1,Transit,2016
+2621,845.228,1,Transit,2016
+2622,1015.69,1,Transit,2016
+2623,546.998,1,Transit,2016
+2624,614.859,1,Transit,2016
+2625,420.818,2,Transit,2014
+2626,420.818,2,Transit,2014
+2627,1516.27,1,Transit,2016
+2628,389.143,1,Transit,2016
+2629,731.298,1,Transit,2016
+2630,541.714,1,Transit,2016
+2631,1056.9,1,Transit,2016
+2632,840.128,2,Transit,2016
+2633,840.128,2,Transit,2016
+2634,465.826,1,Transit,2016
+2635,401.484,1,Transit,2016
+2636,1635.82,1,Transit,2016
+2637,1236.56,1,Transit,2016
+2638,302.979,2,Transit,2014
+2639,302.979,2,Transit,2014
+2640,1004.1,2,Transit,2016
+2641,1004.1,2,Transit,2016
+2642,515.334,2,Transit,2016
+2643,515.334,2,Transit,2016
+2644,1303.22,1,Transit,2016
+2645,1699.46,1,Transit,2016
+2646,1078.46,1,Transit,2016
+2647,1430.84,1,Transit,2016
+2648,868.056,1,Transit,2016
+2649,1146.1,1,Transit,2016
+2650,506.434,1,Transit,2016
+2651,971.325,1,Transit,2016
+2652,66.8624,4,Transit,2014
+2653,66.8624,4,Transit,2014
+2654,66.8624,4,Transit,2014
+2655,66.8624,4,Transit Timing Variations,2022
+2656,2462.94,1,Transit,2016
+2657,1197.04,1,Transit,2016
+2658,738.261,1,Transit,2016
+2659,1027.21,1,Transit,2016
+2660,618.0,1,Transit,2016
+2661,688.795,1,Transit,2016
+2662,835.882,1,Transit,2016
+2663,455.358,1,Transit,2016
+2664,453.795,4,Transit,2016
+2665,453.795,4,Transit,2016
+2666,453.795,4,Transit,2016
+2667,453.795,4,Transit,2016
+2668,497.093,1,Transit,2016
+2669,391.038,5,Transit,2014
+2670,391.038,5,Transit,2014
+2671,391.038,5,Transit,2023
+2672,391.038,5,Radial Velocity,2023
+2673,391.038,5,Transit Timing Variations,2025
+2674,723.431,1,Transit,2016
+2675,1038.35,1,Transit,2016
+2676,1117.0,1,Transit,2016
+2677,544.456,1,Transit,2016
+2678,640.409,1,Transit,2016
+2679,492.894,1,Transit,2016
+2680,1066.46,1,Transit,2016
+2681,1198.25,1,Transit,2016
+2682,852.204,2,Transit,2016
+2683,852.204,2,Transit,2016
+2684,1385.7,1,Transit,2016
+2685,798.0,1,Transit,2011
+2686,583.859,2,Transit,2014
+2687,583.859,2,Transit,2014
+2688,752.237,1,Transit,2016
+2689,1425.43,1,Transit,2016
+2690,1493.64,1,Transit,2016
+2691,2163.9,1,Transit,2016
+2692,962.183,1,Transit,2016
+2693,1530.3,1,Transit,2016
+2694,572.403,1,Transit,2016
+2695,1396.41,1,Transit,2016
+2696,535.048,1,Transit,2016
+2697,694.89,1,Transit,2016
+2698,301.183,2,Transit,2014
+2699,301.183,2,Transit,2014
+2700,367.0,1,Transit,2016
+2701,1660.48,1,Transit,2016
+2702,755.678,1,Transit,2016
+2703,1167.49,1,Transit,2016
+2704,570.835,1,Transit,2016
+2705,1043.56,1,Transit,2016
+2706,949.59,1,Transit,2016
+2707,991.845,1,Transit,2016
+2708,499.0,1,Transit,2016
+2709,1498.58,1,Transit,2016
+2710,548.686,3,Transit,2014
+2711,548.686,3,Transit,2014
+2712,548.686,3,Transit,2014
+2713,1054.37,1,Transit,2016
+2714,783.401,1,Transit,2016
+2715,2465.84,1,Transit,2016
+2716,449.0,1,Transit,2016
+2717,661.421,1,Transit,2016
+2718,863.873,1,Transit,2016
+2719,1697.81,1,Transit,2016
+2720,1220.0,1,Transit,2016
+2721,1530.32,1,Transit,2016
+2722,1214.09,1,Transit,2016
+2723,809.467,2,Transit,2014
+2724,809.467,2,Transit,2014
+2725,875.523,1,Transit,2016
+2726,1623.24,1,Transit,2016
+2727,2171.87,1,Transit,2016
+2728,1328.0,1,Transit,2016
+2729,775.529,1,Transit,2016
+2730,704.211,1,Transit,2016
+2731,2530.62,1,Transit,2016
+2732,2101.69,1,Transit,2016
+2733,1154.13,1,Transit,2016
+2734,225.393,1,Transit,2016
+2735,384.917,2,Transit,2014
+2736,384.917,2,Transit,2014
+2737,1115.35,1,Transit,2016
+2738,1110.48,1,Transit,2016
+2739,608.68,1,Transit,2016
+2740,593.646,1,Transit,2016
+2741,319.675,1,Transit,2016
+2742,506.357,1,Transit,2016
+2743,152.075,1,Transit,2016
+2744,890.296,1,Transit,2016
+2745,768.903,1,Transit,2016
+2746,2006.48,1,Transit,2016
+2747,566.85,2,Transit,2013
+2748,566.85,2,Transit,2013
+2749,505.829,1,Transit,2016
+2750,1058.72,1,Transit,2016
+2751,996.32,1,Transit,2016
+2752,1196.04,1,Transit,2016
+2753,780.566,1,Transit,2016
+2754,357.621,1,Transit,2016
+2755,370.312,1,Transit,2016
+2756,889.885,1,Transit,2016
+2757,544.45,1,Transit,2016
+2758,455.479,1,Transit,2016
+2759,716.797,2,Transit,2014
+2760,716.797,2,Transit,2014
+2761,553.218,1,Transit,2016
+2762,679.106,1,Transit,2016
+2763,1017.82,1,Transit,2016
+2764,1687.47,1,Transit,2016
+2765,1151.73,2,Transit,2016
+2766,1151.73,2,Transit,2016
+2767,359.497,1,Transit,2016
+2768,631.949,1,Transit,2016
+2769,852.888,1,Transit,2016
+2770,1899.24,3,Transit,2016
+2771,1899.24,3,Transit,2016
+2772,1899.24,3,Transit,2021
+2773,1159.3,1,Transit,2016
+2774,1042.02,2,Transit,2014
+2775,1042.02,2,Transit,2014
+2776,590.601,1,Transit,2016
+2777,978.678,2,Transit,2016
+2778,978.678,2,Transit,2023
+2779,1479.14,1,Transit,2016
+2780,652.253,1,Transit,2016
+2781,1180.9,1,Transit,2016
+2782,1568.38,1,Transit,2016
+2783,1002.74,1,Transit,2016
+2784,680.828,1,Transit,2016
+2785,1845.58,1,Transit,2016
+2786,728.668,1,Transit,2016
+2787,791.163,3,Transit,2014
+2788,791.163,3,Transit,2014
+2789,791.163,3,Transit,2016
+2790,500.892,1,Transit,2016
+2791,459.076,1,Transit,2016
+2792,567.556,1,Transit,2016
+2793,1273.78,1,Transit,2016
+2794,2879.83,1,Transit,2016
+2795,615.66,1,Transit,2016
+2796,1769.14,1,Transit,2016
+2797,1014.62,2,Transit,2016
+2798,1014.62,2,Transit,2023
+2799,905.825,2,Transit,2016
+2800,905.825,2,Transit,2021
+2801,1283.05,2,Transit,2016
+2802,1283.05,2,Transit,2024
+2803,571.034,3,Transit,2014
+2804,571.034,3,Transit,2014
+2805,571.034,3,Transit,2014
+2806,862.92,1,Transit,2016
+2807,2065.59,2,Transit,2016
+2808,2065.59,2,Transit,2023
+2809,331.553,1,Transit,2016
+2810,555.051,1,Transit,2016
+2811,1285.48,1,Transit,2016
+2812,1355.54,1,Transit,2016
+2813,1307.66,1,Transit,2016
+2814,1122.0,1,Transit,2016
+2815,740.0,1,Transit,2016
+2816,309.869,1,Transit,2016
+2817,739.412,1,Transit,2011
+2818,891.092,5,Transit,2014
+2819,891.092,5,Transit,2014
+2820,891.092,5,Transit,2014
+2821,891.092,5,Transit,2014
+2822,891.092,5,Transit,2017
+2823,1217.82,1,Transit,2016
+2824,749.06,1,Transit,2016
+2825,1514.02,1,Transit,2016
+2826,1225.57,1,Transit,2016
+2827,2435.94,1,Transit,2016
+2828,495.148,1,Transit,2016
+2829,2366.02,1,Transit,2016
+2830,320.478,1,Transit,2016
+2831,1260.28,1,Transit,2016
+2832,2002.96,1,Transit,2016
+2833,649.919,2,Transit,2014
+2834,649.919,2,Transit,2014
+2835,1696.25,1,Transit,2016
+2836,1475.6,1,Transit,2016
+2837,162.0,1,Transit,2016
+2838,349.247,2,Transit,2016
+2839,349.247,2,Transit Timing Variations,2023
+2840,397.292,2,Transit,2016
+2841,397.292,2,Transit,2020
+2842,539.321,1,Transit,2016
+2843,1358.95,1,Transit,2016
+2844,847.299,1,Transit,2016
+2845,903.51,2,Transit,2016
+2846,903.51,2,Transit,2023
+2847,1441.63,1,Transit,2016
+2848,441.09,2,Transit,2014
+2849,441.09,2,Transit,2014
+2850,607.917,1,Transit,2016
+2851,206.983,1,Transit,2016
+2852,814.125,1,Transit,2016
+2853,865.596,1,Transit,2016
+2854,381.773,1,Transit,2016
+2855,382.989,1,Transit,2016
+2856,555.574,1,Transit,2016
+2857,1842.13,1,Transit,2016
+2858,817.534,1,Transit,2016
+2859,661.014,1,Transit,2016
+2860,459.368,2,Transit,2014
+2861,459.368,2,Transit,2014
+2862,489.876,3,Transit,2016
+2863,489.876,3,Transit,2016
+2864,489.876,3,Transit,2021
+2865,666.334,1,Transit,2016
+2866,798.246,1,Transit,2016
+2867,966.801,1,Transit,2016
+2868,1107.0,1,Transit,2016
+2869,897.733,1,Transit,2016
+2870,387.248,1,Transit,2016
+2871,517.292,1,Transit,2016
+2872,1125.3,1,Transit,2016
+2873,748.326,1,Transit,2016
+2874,915.212,5,Transit,2014
+2875,915.212,5,Transit,2014
+2876,915.212,5,Transit,2016
+2877,915.212,5,Transit,2016
+2878,915.212,5,Transit,2016
+2879,244.96,1,Transit,2016
+2880,416.692,1,Transit,2016
+2881,399.114,4,Transit,2016
+2882,399.114,4,Transit,2016
+2883,399.114,4,Transit,2016
+2884,399.114,4,Transit,2016
+2885,921.784,1,Transit,2016
+2886,335.09,1,Transit,2016
+2887,729.964,1,Transit,2016
+2888,931.956,1,Transit,2016
+2889,674.695,1,Transit,2016
+2890,872.279,1,Transit,2016
+2891,803.052,1,Transit,2016
+2892,293.499,2,Transit,2014
+2893,293.499,2,Transit,2014
+2894,1179.01,1,Transit,2016
+2895,1463.72,1,Transit,2016
+2896,769.096,1,Transit,2016
+2897,692.594,1,Transit,2016
+2898,946.847,1,Transit,2016
+2899,2013.27,1,Transit,2016
+2900,944.54,1,Transit,2016
+2901,1380.16,1,Transit,2016
+2902,325.737,1,Transit,2016
+2903,614.827,1,Transit,2016
+2904,443.483,2,Transit,2014
+2905,443.483,2,Transit,2014
+2906,502.497,1,Transit,2016
+2907,839.076,1,Transit,2016
+2908,2060.72,1,Transit,2016
+2909,616.697,1,Transit,2016
+2910,908.805,1,Transit,2016
+2911,629.93,1,Transit,2016
+2912,466.586,1,Transit,2016
+2913,1206.11,1,Transit,2016
+2914,916.313,1,Transit,2016
+2915,945.454,1,Transit,2016
+2916,773.713,3,Transit,2014
+2917,773.713,3,Transit,2014
+2918,773.713,3,Transit,2016
+2919,918.995,1,Transit,2016
+2920,675.303,1,Transit,2016
+2921,946.602,1,Transit,2016
+2922,1455.36,1,Transit,2016
+2923,1384.16,1,Transit,2016
+2924,1246.92,1,Transit,2016
+2925,460.91,1,Transit,2016
+2926,510.029,1,Transit,2016
+2927,1064.05,1,Transit,2016
+2928,466.0,1,Transit,2016
+2929,315.177,3,Transit,2014
+2930,315.177,3,Transit,2014
+2931,315.177,3,Transit,2024
+2932,1002.02,1,Transit,2016
+2933,493.175,1,Transit,2016
+2934,78.8906,1,Transit,2016
+2935,403.933,1,Transit,2016
+2936,1416.31,1,Transit,2016
+2937,944.465,1,Transit,2016
+2938,552.55,1,Transit,2016
+2939,1026.48,1,Transit,2016
+2940,924.141,1,Transit,2016
+2941,1513.14,1,Transit,2016
+2942,373.744,2,Transit,2014
+2943,373.744,2,Transit,2014
+2944,771.152,1,Transit,2016
+2945,1419.58,1,Transit,2016
+2946,1639.47,1,Transit,2016
+2947,638.249,1,Transit,2016
+2948,976.868,1,Transit,2016
+2949,845.022,1,Transit,2016
+2950,2146.23,1,Transit,2016
+2951,1221.05,1,Transit,2016
+2952,619.862,1,Transit,2016
+2953,1328.2,1,Transit,2016
+2954,75.0852,1,Transit,2011
+2955,937.013,3,Transit,2014
+2956,937.013,3,Transit,2014
+2958,1030.81,2,Transit,2016
+2959,1030.81,2,Transit,2021
+2960,644.456,1,Transit,2016
+2961,629.804,1,Transit,2016
+2962,2712.58,1,Transit,2016
+2963,541.189,1,Transit,2016
+2964,546.23,1,Transit,2016
+2965,831.287,1,Transit,2016
+2966,1286.1,1,Transit,2016
+2967,832.0,1,Transit,2016
+2968,1826.04,1,Transit,2016
+2969,434.632,2,Transit,2014
+2970,434.632,2,Transit,2014
+2971,864.331,2,Transit,2016
+2972,864.331,2,Transit,2023
+2973,908.444,1,Transit,2016
+2974,764.726,1,Transit,2016
+2975,1508.33,1,Transit,2016
+2976,1191.19,1,Transit,2016
+2977,1393.83,1,Transit,2016
+2978,1137.81,1,Transit,2016
+2979,898.31,1,Transit,2016
+2980,1229.25,1,Transit,2016
+2981,734.85,1,Transit,2016
+2982,855.641,2,Transit,2014
+2983,855.641,2,Transit,2014
+2984,895.069,1,Transit,2016
+2985,1631.66,1,Transit,2016
+2986,796.477,1,Transit,2016
+2987,837.481,1,Transit,2016
+2988,258.979,1,Transit,2016
+2989,2310.11,1,Transit,2016
+2990,1368.83,1,Transit,2016
+2991,317.437,1,Transit,2016
+2992,352.0,1,Transit,2016
+2993,336.09,1,Transit,2016
+2994,689.814,2,Transit,2014
+2995,689.814,2,Transit,2014
+2996,331.213,1,Transit,2016
+2997,1305.99,1,Transit,2016
+2998,716.76,1,Transit,2016
+2999,1114.91,1,Transit,2016
+3000,617.339,1,Transit,2016
+3001,1069.45,1,Transit,2016
+3002,1947.54,1,Transit,2016
+3003,567.187,1,Transit,2016
+3004,1525.52,1,Transit,2016
+3005,1031.31,1,Transit,2016
+3006,890.758,4,Transit,2014
+3007,890.758,4,Transit,2014
+3008,890.758,4,Transit,2014
+3009,890.758,4,Transit,2023
+3010,1859.78,1,Transit,2016
+3011,860.37,2,Transit,2016
+3012,860.37,2,Transit,2016
+3013,413.873,2,Transit,2016
+3014,413.873,2,Transit,2016
+3015,341.774,1,Transit,2016
+3016,629.27,1,Transit,2016
+3017,1202.47,1,Transit,2016
+3018,127.591,1,Transit,2016
+3019,1212.45,1,Transit,2016
+3020,92.1913,2,Transit,2017
+3021,92.1913,2,Transit,2020
+3022,560.885,2,Transit,2014
+3023,560.885,2,Transit,2014
+3024,134.397,1,Transit,2017
+3025,66.4074,1,Transit,2017
+3026,252.0,1,Transit,2017
+3027,755.0,1,Transit,2017
+3028,568.117,1,Transit,2018
+3029,213.26,1,Transit,2018
+3030,185.875,2,Transit,2018
+3031,185.875,2,Radial Velocity,2022
+3032,603.53,3,Transit,2014
+3033,603.53,3,Transit,2014
+3034,603.53,3,Transit,2016
+3035,1188.54,1,Eclipse Timing Variations,2023
+3036,410.607,1,Transit,2020
+3037,337.926,1,Transit,2020
+3038,626.691,1,Transit,2020
+3039,335.515,1,Transit,2020
+3040,1379.37,2,Transit,2020
+3041,1379.37,2,Transit,2020
+3042,626.819,1,Transit,2020
+3043,1335.64,1,Transit,2020
+3044,543.444,3,Transit,2020
+3045,543.444,3,Transit,2021
+3046,543.444,3,Transit,2023
+3047,341.908,4,Transit,2014
+3048,341.908,4,Transit,2014
+3049,341.908,4,Transit,2016
+3050,341.908,4,Transit,2016
+3051,2065.98,1,Transit,2020
+3052,357.059,1,Transit,2020
+3053,391.181,1,Transit,2020
+3054,727.187,1,Transit,2020
+3055,1012.48,1,Transit,2020
+3056,651.117,1,Transit,2020
+3058,735.369,1,Transit,2020
+3059,847.339,1,Transit,2020
+3060,909.28,1,Transit,2020
+3061,1343.6,2,Transit,2014
+3062,1343.6,2,Transit,2014
+3063,310.315,1,Transit,2020
+3064,758.3,1,Transit,2020
+3065,1159.85,1,Transit,2020
+3066,733.143,1,Transit,2020
+3067,621.996,1,Transit,2020
+3068,1141.89,1,Transit,2020
+3069,729.823,1,Transit,2020
+3070,417.014,1,Transit,2020
+3071,567.44687087,1,Transit,2020
+3072,294.122,1,Transit,2020
+3073,406.529,5,Transit,2014
+3074,406.529,5,Transit,2014
+3075,406.529,5,Transit,2014
+3076,406.529,5,Transit,2014
+3077,406.529,5,Transit,2014
+3078,703.789,1,Transit,2020
+3079,1267.67,1,Transit,2020
+3080,591.019,1,Transit,2020
+3081,760.065,2,Transit,2020
+3082,760.065,2,Transit,2021
+3083,513.329,1,Transit,2020
+3084,791.175,1,Transit,2020
+3085,1506.36,1,Transit,2020
+3086,247.771,1,Transit,2020
+3087,222.345,1,Transit,2020
+3088,818.759,1,Transit,2020
+3089,720.753,1,Transit,2011
+3090,738.657,2,Transit,2014
+3091,738.657,2,Transit,2014
+3092,717.597,1,Transit,2020
+3093,584.142,1,Transit,2020
+3094,857.14,1,Transit,2020
+3095,835.455,1,Transit,2013
+3096,1633.49,2,Transit,2021
+3097,1633.49,2,Transit,2021
+3098,1666.69,1,Transit,2021
+3099,273.946,1,Transit,2021
+3100,863.855,3,Transit,2014
+3101,863.855,3,Transit,2014
+3102,863.855,3,Transit,2014
+3103,305.193,1,Transit,2021
+3104,590.268,1,Transit,2021
+3105,156.264,1,Transit,2021
+3106,295.293,1,Transit,2021
+3107,409.46,1,Transit,2021
+3108,522.605,1,Transit,2021
+3109,195.439,1,Transit,2021
+3110,1008.79,1,Transit,2021
+3111,375.522,1,Transit,2021
+3112,905.406,1,Transit,2021
+3113,828.592,4,Transit,2014
+3114,828.592,4,Transit,2014
+3115,828.592,4,Transit,2014
+3116,828.592,4,Transit,2014
+3117,629.445,1,Transit,2021
+3118,641.374,1,Transit,2021
+3119,772.283,1,Transit,2021
+3120,811.278,1,Transit,2021
+3121,1060.77,1,Transit,2021
+3122,558.652,1,Transit,2021
+3123,390.552,1,Transit,2021
+3124,894.187,1,Transit,2021
+3125,651.783,1,Transit,2021
+3126,576.181,1,Transit,2021
+3127,833.165,2,Transit,2014
+3128,833.165,2,Transit,2014
+3129,1427.08,1,Transit,2021
+3130,169.948,1,Transit,2021
+3131,1289.41,1,Transit,2021
+3132,2080.51,1,Transit,2021
+3133,1482.83,1,Transit,2021
+3134,245.303,1,Transit,2021
+3135,1430.0,1,Transit,2021
+3137,1302.87,1,Transit,2021
+3138,783.666,1,Transit,2021
+3139,384.757,3,Transit,2014
+3140,384.757,3,Transit,2014
+3141,384.757,3,Transit,2014
+3142,1061.77,1,Transit,2021
+3143,270.739,1,Transit,2021
+3144,669.573,1,Transit,2021
+3145,538.807,1,Transit,2021
+3146,1091.63,1,Transit,2021
+3147,996.105,1,Transit,2021
+3148,979.541,1,Transit,2021
+3149,1321.38,1,Transit,2021
+3150,1083.28,1,Transit,2021
+3151,268.2,1,Transit,2021
+3152,1312.34,2,Transit,2014
+3153,1312.34,2,Transit,2014
+3154,1497.33,1,Transit,2021
+3155,1291.47,1,Transit,2021
+3156,962.888,1,Transit,2021
+3157,707.688,1,Transit,2021
+3158,718.945,1,Transit,2021
+3159,982.383,1,Transit,2021
+3161,807.308,1,Transit,2021
+3162,1588.41,1,Transit,2021
+3163,385.348,1,Transit,2021
+3164,527.321,4,Transit,2014
+3165,527.321,4,Transit,2014
+3166,527.321,4,Transit,2014
+3167,527.321,4,Transit,2016
+3169,221.186,1,Transit,2021
+3170,1663.74,1,Transit,2021
+3171,756.486,1,Transit,2021
+3172,1542.48,1,Transit,2021
+3173,764.456,1,Transit,2021
+3174,501.229,1,Transit,2021
+3175,820.506,1,Transit,2021
+3176,632.766,1,Transit,2021
+3177,438.412,1,Transit,2021
+3178,1435.44,2,Transit,2013
+3179,1435.44,2,Transit,2013
+3180,582.942,1,Transit,2021
+3181,565.752,1,Transit,2021
+3182,871.564,1,Transit,2021
+3183,681.255,1,Transit,2021
+3184,816.592,1,Transit,2021
+3185,657.023,1,Transit,2021
+3186,690.336,1,Transit,2021
+3187,619.146,1,Transit,2021
+3188,1276.29,1,Transit,2021
+3189,908.501,1,Transit,2021
+3190,716.025,3,Transit,2014
+3191,716.025,3,Transit,2014
+3192,716.025,3,Transit,2014
+3193,790.516,1,Transit,2021
+3194,962.63,1,Transit,2021
+3195,305.792,1,Transit,2021
+3196,264.078,1,Transit,2021
+3197,883.045,1,Transit,2021
+3198,745.74,1,Transit,2021
+3199,863.909,1,Transit,2021
+3200,778.602,1,Transit,2021
+3201,560.445,1,Transit,2021
+3202,611.461,1,Transit,2021
+3203,605.68,2,Transit,2014
+3204,605.68,2,Transit,2014
+3205,1070.17,1,Transit,2021
+3206,602.218,1,Transit,2021
+3207,601.029,1,Transit,2021
+3208,1189.88,1,Transit,2021
+3209,561.229,1,Transit,2021
+3211,825.883,1,Transit,2021
+3212,1338.49,1,Transit,2021
+3213,395.196,1,Transit,2021
+3214,2254.69,1,Transit,2021
+3215,433.047,3,Transit,2011
+3216,433.047,3,Transit,2011
+3217,433.047,3,Transit,2011
+3218,695.65,2,Transit,2014
+3219,695.65,2,Transit,2014
+3220,350.455,1,Transit,2021
+3221,839.332,2,Transit,2021
+3222,839.332,2,Transit,2023
+3223,636.694,2,Transit,2021
+3224,636.694,2,Transit,2021
+3225,434.456,1,Transit,2021
+3226,221.639,1,Transit,2021
+3227,978.066,1,Transit,2021
+3228,1299.32,1,Transit,2021
+3229,1022.01,1,Transit,2021
+3230,409.602,1,Transit,2021
+3231,609.283,2,Transit,2014
+3232,609.283,2,Transit,2014
+3233,1009.87,1,Transit,2021
+3234,1390.56,1,Transit,2021
+3235,1409.19,1,Transit,2021
+3237,726.346,2,Transit,2021
+3238,726.346,2,Transit,2023
+3239,1006.63,1,Transit,2021
+3240,437.823,1,Transit,2021
+3241,748.569,1,Transit,2021
+3242,1034.59,1,Transit,2021
+3243,1363.19,1,Transit,2021
+3244,1549.09,2,Transit,2014
+3245,1549.09,2,Transit,2014
+3246,1425.39,1,Transit,2021
+3247,799.699,1,Transit,2021
+3248,897.597,1,Transit,2021
+3249,724.971,1,Transit,2021
+3250,1040.1,1,Transit,2021
+3251,430.254,1,Transit,2021
+3252,336.952,1,Transit,2021
+3253,686.461,1,Transit,2021
+3254,871.81,1,Transit,2021
+3255,679.921,1,Transit,2021
+3256,1050.64,2,Transit,2014
+3257,1050.64,2,Transit,2014
+3258,1056.88,1,Transit,2021
+3259,1053.49,1,Transit,2021
+3260,486.174,1,Transit,2021
+3261,591.602,1,Transit,2021
+3262,500.395,2,Transit,2021
+3263,500.395,2,Transit,2023
+3264,1404.38,1,Transit,2021
+3265,1472.62,1,Transit,2021
+3266,1229.18,1,Transit,2021
+3267,451.242,1,Transit,2021
+3268,1136.6,1,Transit,2021
+3269,610.326,3,Transit,2014
+3270,610.326,3,Transit,2014
+3271,610.326,3,Transit,2014
+3272,513.107,1,Transit,2021
+3273,631.7,1,Transit,2021
+3274,923.551,1,Transit,2021
+3275,784.625,1,Transit,2021
+3276,1804.36,1,Transit,2021
+3277,710.724,1,Transit,2021
+3278,374.615,1,Transit,2021
+3279,1693.86,1,Transit,2021
+3280,309.696,1,Transit,2021
+3281,631.884,1,Transit,2021
+3282,466.735,2,Transit,2014
+3283,466.735,2,Transit,2014
+3284,250.199,1,Transit,2021
+3285,1589.81,1,Transit,2021
+3286,772.481,1,Transit,2021
+3287,562.348,1,Transit,2021
+3288,423.348,1,Transit,2021
+3290,848.76,1,Transit,2021
+3291,853.275,1,Transit,2021
+3292,833.055,1,Transit,2021
+3293,1331.25,2,Transit,2021
+3294,1331.25,2,Transit,2023
+3295,177.594,5,Transit,2014
+3296,177.594,5,Transit,2014
+3297,177.594,5,Transit,2014
+3298,177.594,5,Transit,2014
+3299,177.594,5,Transit,2014
+3300,438.703,1,Transit,2021
+3301,829.985,1,Transit,2021
+3302,1232.19,1,Transit,2021
+3303,865.546,1,Transit,2021
+3304,298.894,1,Transit,2021
+3305,922.255,1,Transit,2021
+3306,976.737,1,Transit,2021
+3307,680.583,1,Transit,2021
+3308,274.18,1,Transit,2021
+3309,113.025,2,Transit,2021
+3310,113.025,2,Transit,2023
+3311,1143.0,2,Transit,2014
+3312,1143.0,2,Transit,2014
+3313,407.216,1,Transit,2021
+3314,854.623,1,Transit,2021
+3315,840.182,1,Transit,2021
+3316,820.957,1,Transit,2021
+3317,408.007,1,Transit,2021
+3318,1660.45,1,Transit,2021
+3319,259.935,1,Transit,2021
+3320,285.312,1,Transit,2021
+3321,1494.3,1,Transit,2021
+3322,627.171,1,Transit,2021
+3323,968.544,2,Transit,2014
+3324,968.544,2,Transit,2014
+3325,611.041,1,Transit,2021
+3326,1057.21,1,Transit,2021
+3327,443.371,1,Transit,2021
+3328,1377.61,1,Transit,2021
+3329,1443.09,1,Transit,2021
+3330,818.482,1,Transit,2021
+3331,1059.51,1,Transit,2021
+3332,1366.18,1,Transit,2021
+3333,402.947,1,Transit,2021
+3334,1395.13,1,Transit,2021
+3335,591.534,2,Transit,2014
+3336,591.534,2,Transit,2014
+3337,529.596,1,Transit,2021
+3338,596.24,1,Transit,2021
+3339,851.595,1,Transit,2021
+3340,1050.72,1,Transit,2021
+3341,935.191,2,Transit,2021
+3342,935.191,2,Transit,2023
+3343,984.187,1,Transit,2021
+3344,1732.91,1,Transit,2021
+3345,983.174,1,Transit,2021
+3346,360.921,1,Transit,2021
+3347,711.509,1,Transit,2021
+3348,218.562,3,Transit,2011
+3349,218.562,3,Transit Timing Variations,2011
+3350,218.562,3,Radial Velocity,2017
+3351,433.387,2,Transit,2014
+3352,433.387,2,Transit,2014
+3353,1540.43,1,Transit,2021
+3354,1028.37,1,Transit,2021
+3355,344.337,1,Transit,2021
+3356,1775.44,1,Transit,2021
+3357,270.854,1,Transit,2021
+3358,1051.53,1,Transit,2021
+3359,1360.63,1,Transit,2021
+3360,292.111,2,Transit,2021
+3361,292.111,2,Transit,2021
+3362,763.662,1,Transit,2021
+3363,594.464,3,Transit,2014
+3364,594.464,3,Transit,2014
+3365,594.464,3,Transit,2016
+3367,269.912,1,Transit,2021
+3368,297.017,1,Transit,2021
+3369,876.3,1,Transit,2021
+3370,1621.56,1,Transit,2021
+3371,1514.66,1,Transit,2021
+3372,2055.82,1,Transit,2021
+3373,909.037,1,Transit,2021
+3374,1030.11,1,Transit,2021
+3375,1177.53,1,Transit,2021
+3376,651.674,3,Transit,2014
+3377,651.674,3,Transit,2014
+3378,651.674,3,Transit,2016
+3379,885.913,1,Transit,2021
+3380,928.989,2,Transit,2021
+3381,928.989,2,Transit,2023
+3382,1344.29,1,Transit,2021
+3383,990.838,1,Transit,2021
+3384,1910.77,1,Transit,2021
+3385,1771.31,1,Transit,2021
+3386,667.405,1,Transit,2021
+3387,1091.0,1,Transit,2021
+3388,326.362,1,Transit,2021
+3389,508.201,1,Transit,2021
+3390,1009.1,2,Transit,2014
+3391,1009.1,2,Transit,2014
+3392,275.694,1,Transit,2021
+3393,620.091,1,Transit,2021
+3394,713.733,1,Transit,2021
+3395,328.007,1,Transit,2021
+3396,428.514,1,Transit,2021
+3397,904.702,1,Transit,2021
+3398,871.096,1,Transit,2021
+3399,905.069,1,Transit,2021
+3400,421.152,1,Transit,2021
+3401,189.833,1,Transit,2021
+3402,1097.97,3,Transit,2014
+3403,1097.97,3,Transit,2014
+3404,1097.97,3,Transit,2014
+3405,798.595,1,Transit,2021
+3406,1494.39,1,Transit,2021
+3407,842.492,1,Transit,2021
+3408,1004.55,1,Transit,2021
+3409,1076.48,1,Transit,2021
+3411,1002.12,1,Transit,2021
+3412,468.771,1,Transit,2021
+3413,193.903,1,Transit,2021
+3414,2617.35,1,Transit,2021
+3415,652.051,2,Transit,2014
+3416,652.051,2,Transit,2014
+3417,697.253,1,Transit,2021
+3418,1277.32,1,Transit,2021
+3419,852.062,1,Transit,2021
+3420,605.631,1,Transit,2021
+3421,1373.83,1,Transit,2021
+3422,449.351,1,Transit,2021
+3423,360.468,1,Transit,2021
+3424,460.899,1,Transit,2021
+3425,1320.38,1,Transit,2021
+3426,479.263,1,Transit,2021
+3427,451.312,3,Transit,2014
+3428,451.312,3,Transit,2014
+3429,451.312,3,Transit,2021
+3430,1527.56,1,Transit,2021
+3431,1042.45,1,Transit,2021
+3432,866.826,1,Transit,2021
+3433,492.847,1,Transit,2021
+3435,521.791,1,Transit,2021
+3436,484.601,1,Transit,2021
+3437,249.102,1,Transit,2021
+3438,750.93,1,Transit,2021
+3439,1204.54,1,Transit,2021
+3440,330.575,4,Transit,2014
+3441,330.575,4,Transit,2014
+3442,330.575,4,Transit,2014
+3443,330.575,4,Transit,2014
+3444,287.339,2,Transit,2022
+3445,287.339,2,Transit,2022
+3447,592.711,1,Transit,2023
+3448,865.512,1,Transit,2023
+3450,495.358,3,Transit,2014
+3451,495.358,3,Transit,2014
+3452,495.358,3,Transit,2016
+3453,1709.4,1,Transit,2023
+3454,659.395,1,Transit,2023
+3455,558.855,1,Transit,2023
+3456,424.428,1,Transit,2023
+3459,912.085,1,Transit,2023
+3460,595.683,4,Transit,2023
+3461,595.683,4,Transit,2023
+3462,595.683,4,Transit,2023
+3463,595.683,4,Transit,2023
+3464,513.426,1,Transit,2023
+3465,1252.13,1,Transit,2023
+3466,521.054,2,Transit,2014
+3467,521.054,2,Transit,2014
+3468,392.739,2,Transit,2023
+3469,392.739,2,Transit,2023
+3470,855.82,2,Transit,2023
+3471,855.82,2,Transit,2023
+3472,532.955,1,Transit,2023
+3473,1031.91,1,Transit,2023
+3474,241.991,1,Transit,2023
+3475,595.331,1,Transit,2023
+3476,440.561,2,Transit,2023
+3477,440.561,2,Transit,2023
+3478,1502.34,1,Transit,2023
+3479,340.965,1,Transit,2023
+3480,701.255,1,Transit,2023
+3481,282.563,6,Transit,2011
+3482,282.563,6,Transit,2011
+3483,282.563,6,Transit,2011
+3484,282.563,6,Transit,2011
+3485,282.563,6,Transit,2011
+3486,282.563,6,Radial Velocity,2016
+3487,665.912,2,Transit,2014
+3488,665.912,2,Transit,2014
+3489,320.588,2,Transit,2023
+3490,320.588,2,Transit,2023
+3491,776.55,2,Transit,2023
+3492,776.55,2,Transit,2023
+3493,636.445,2,Transit,2014
+3494,636.445,2,Transit,2014
+3495,285.111,2,Transit,2014
+3496,285.111,2,Transit,2014
+3497,703.302,3,Transit,2014
+3498,703.302,3,Transit,2014
+3499,703.302,3,Transit,2014
+3500,686.723,2,Transit,2014
+3501,686.723,2,Transit,2014
+3502,159.72,2,Transit,2014
+3503,159.72,2,Transit,2014
+3504,594.447,3,Transit,2014
+3505,594.447,3,Transit,2014
+3506,594.447,3,Transit,2014
+3507,875.519,3,Transit,2014
+3508,875.519,3,Transit,2014
+3509,875.519,3,Transit,2014
+3510,775.328,4,Transit,2014
+3511,775.328,4,Transit,2014
+3512,775.328,4,Transit,2014
+3513,775.328,4,Transit,2014
+3514,576.946,2,Transit,2014
+3515,576.946,2,Transit,2014
+3516,108.522,1,Transit,2012
+3517,232.75,2,Transit,2014
+3518,232.75,2,Transit,2014
+3519,309.353,2,Transit,2014
+3520,309.353,2,Transit,2014
+3521,687.194,2,Transit,2014
+3522,687.194,2,Transit,2014
+3523,634.939,2,Transit,2014
+3524,634.939,2,Transit,2014
+3525,1208.44,2,Transit,2014
+3526,1208.44,2,Transit,2014
+3527,485.997,4,Transit,2014
+3528,485.997,4,Transit,2014
+3529,485.997,4,Transit,2014
+3530,485.997,4,Transit,2014
+3531,1187.47,2,Transit,2014
+3532,1187.47,2,Transit,2014
+3533,1104.64,3,Transit,2014
+3534,1104.64,3,Transit,2014
+3535,1104.64,3,Transit,2016
+3536,656.38,3,Transit,2014
+3537,656.38,3,Transit,2014
+3538,656.38,3,Transit,2016
+3539,787.07,3,Transit,2014
+3540,787.07,3,Transit,2014
+3541,787.07,3,Transit,2014
+3542,194.642,1,Transit,2011
+3543,171.109,4,Transit,2014
+3544,171.109,4,Transit,2014
+3545,171.109,4,Transit,2014
+3546,171.109,4,Transit,2014
+3547,385.231,4,Transit,2014
+3548,385.231,4,Transit,2014
+3549,385.231,4,Transit,2014
+3550,385.231,4,Transit,2014
+3551,758.854,3,Transit,2014
+3552,758.854,3,Transit,2014
+3553,758.854,3,Transit,2014
+3554,1859.71,4,Transit,2014
+3555,1859.71,4,Transit,2014
+3556,1859.71,4,Transit,2014
+3557,1859.71,4,Transit,2014
+3558,782.088,4,Transit,2014
+3559,782.088,4,Transit,2014
+3560,782.088,4,Transit,2014
+3561,782.088,4,Transit,2014
+3562,561.101,2,Transit,2014
+3563,561.101,2,Transit,2014
+3564,980.138,3,Transit,2014
+3565,980.138,3,Transit,2014
+3566,980.138,3,Transit,2014
+3567,1083.06,2,Transit,2014
+3568,1083.06,2,Transit,2014
+3569,1644.61,3,Transit,2014
+3570,1644.61,3,Transit,2014
+3571,1644.61,3,Transit,2014
+3572,826.265,3,Transit,2014
+3573,826.265,3,Transit,2014
+3574,826.265,3,Transit,2014
+3575,835.756,3,Transit,2011
+3576,835.756,3,Transit,2011
+3577,835.756,3,Transit,2014
+3578,740.754,2,Transit,2014
+3579,740.754,2,Transit,2014
+3580,316.618,2,Transit,2014
+3581,316.618,2,Transit,2014
+3582,1349.13,2,Transit,2014
+3583,1349.13,2,Transit,2014
+3584,856.417,2,Transit,2014
+3585,856.417,2,Transit,2014
+3586,1733.1,2,Transit,2014
+3587,1733.1,2,Transit,2014
+3588,428.018,4,Transit,2014
+3589,428.018,4,Transit,2014
+3590,428.018,4,Transit,2014
+3591,428.018,4,Transit,2014
+3592,288.763,2,Transit,2014
+3593,288.763,2,Transit,2014
+3594,657.822,2,Transit,2014
+3595,657.822,2,Transit,2014
+3596,1798.75,5,Transit,2014
+3597,1798.75,5,Transit,2014
+3598,1798.75,5,Transit,2014
+3599,1798.75,5,Transit,2013
+3600,1798.75,5,Transit,2013
+3601,648.109,2,Transit,2014
+3602,648.109,2,Transit,2014
+3603,1156.81,4,Transit,2011
+3604,1156.81,4,Transit,2011
+3605,1156.81,4,Transit,2014
+3606,1156.81,4,Transit,2014
+3607,746.927,2,Transit,2014
+3608,746.927,2,Transit,2014
+3609,512.0,2,Transit,2014
+3610,512.0,2,Transit,2014
+3611,600.241,2,Transit,2014
+3612,600.241,2,Transit,2014
+3613,693.86,2,Transit,2014
+3614,693.86,2,Transit,2014
+3615,1036.49,3,Transit,2014
+3616,1036.49,3,Transit,2014
+3617,1036.49,3,Transit,2014
+3618,861.527,4,Transit,2014
+3619,861.527,4,Transit,2014
+3620,861.527,4,Transit,2014
+3621,861.527,4,Transit,2016
+3622,626.078,2,Transit,2014
+3623,626.078,2,Transit,2014
+3624,663.711,3,Transit,2014
+3625,663.711,3,Transit,2014
+3626,663.711,3,Transit,2014
+3627,738.792,2,Transit,2014
+3628,738.792,2,Transit,2014
+3629,190.401,3,Transit,2014
+3630,190.401,3,Transit,2014
+3631,190.401,3,Transit,2014
+3632,243.249,3,Transit,2011
+3633,243.249,3,Transit,2011
+3634,243.249,3,Radial Velocity,2014
+3635,760.585,3,Transit,2014
+3636,760.585,3,Transit,2014
+3637,760.585,3,Transit,2014
+3638,924.625,4,Transit,2014
+3639,924.625,4,Transit,2014
+3640,924.625,4,Transit,2014
+3641,924.625,4,Transit,2014
+3642,379.424,2,Transit,2014
+3643,379.424,2,Transit,2014
+3644,838.595,3,Transit,2014
+3645,838.595,3,Transit,2014
+3646,838.595,3,Transit,2014
+3647,1389.48,3,Transit,2014
+3648,1389.48,3,Transit,2014
+3649,1389.48,3,Transit,2014
+3650,1052.53,3,Transit,2014
+3651,1052.53,3,Transit,2014
+3652,1052.53,3,Transit,2016
+3653,1026.43,4,Transit,2014
+3654,1026.43,4,Transit,2014
+3655,1026.43,4,Transit,2014
+3656,1026.43,4,Transit,2014
+3657,780.256,3,Transit,2014
+3658,780.256,3,Transit,2014
+3659,780.256,3,Transit,2014
+3660,575.988,2,Transit,2014
+3661,575.988,2,Transit,2014
+3662,1002.14,2,Transit,2014
+3663,1002.14,2,Transit,2014
+3664,335.307,4,Transit,2011
+3665,335.307,4,Transit,2011
+3666,335.307,4,Transit,2014
+3667,335.307,4,Transit,2014
+3668,627.365,2,Transit,2014
+3669,627.365,2,Transit,2014
+3670,317.499,2,Transit,2014
+3671,317.499,2,Transit,2014
+3672,613.129,2,Transit,2014
+3673,613.129,2,Transit,2014
+3674,754.747,2,Transit,2014
+3675,754.747,2,Transit,2014
+3676,942.173,2,Transit,2014
+3677,942.173,2,Transit,2014
+3678,1280.25,4,Transit,2014
+3679,1280.25,4,Transit,2014
+3680,1280.25,4,Transit,2014
+3681,1280.25,4,Transit,2014
+3682,1370.79,2,Transit,2014
+3683,1370.79,2,Transit,2014
+3684,264.993,3,Transit,2014
+3685,264.993,3,Transit,2014
+3686,264.993,3,Transit,2014
+3687,851.87,2,Transit,2014
+3688,851.87,2,Transit,2014
+3689,2257.32,2,Transit,2014
+3690,2257.32,2,Transit,2014
+3691,1044.36,3,Transit,2011
+3692,1044.36,3,Transit,2011
+3693,1044.36,3,Transit,2021
+3694,948.781,2,Transit,2014
+3695,948.781,2,Transit,2014
+3696,404.542,3,Transit,2014
+3697,404.542,3,Transit,2014
+3698,404.542,3,Transit,2016
+3699,889.608,3,Transit,2014
+3700,889.608,3,Transit,2014
+3701,889.608,3,Transit,2014
+3702,713.964,2,Transit,2014
+3703,713.964,2,Transit,2014
+3704,1333.62,2,Transit,2014
+3705,1333.62,2,Transit,2014
+3706,2034.25,3,Transit,2014
+3707,2034.25,3,Transit,2014
+3708,2034.25,3,Transit,2014
+3709,1144.86,3,Transit,2014
+3710,1144.86,3,Transit,2013
+3711,1144.86,3,Transit,2013
+3712,976.643,2,Transit,2013
+3713,976.643,2,Transit,2013
+3714,443.03,2,Transit,2014
+3715,443.03,2,Transit,2014
+3716,1037.4,4,Transit,2014
+3717,1037.4,4,Transit,2013
+3718,1037.4,4,Transit,2013
+3719,1037.4,4,Transit,2025
+3720,438.359,2,Transit,2011
+3721,438.359,2,Transit,2011
+3722,780.361,2,Transit,2014
+3723,780.361,2,Transit,2014
+3724,1745.45,3,Transit,2014
+3725,1745.45,3,Transit,2014
+3726,1745.45,3,Transit,2021
+3727,1337.61,4,Transit,2014
+3728,1337.61,4,Transit,2014
+3729,1337.61,4,Transit,2013
+3730,1337.61,4,Transit,2013
+3731,468.094,2,Transit,2014
+3732,468.094,2,Transit,2014
+3733,1031.95,2,Transit,2014
+3734,1031.95,2,Transit,2014
+3735,824.31,2,Transit,2014
+3736,824.31,2,Transit,2014
+3737,1226.85,4,Transit,2014
+3738,1226.85,4,Transit,2014
+3739,1226.85,4,Transit,2014
+3740,1226.85,4,Transit,2014
+3741,835.86,2,Transit,2014
+3742,835.86,2,Transit,2014
+3743,1194.15,3,Transit,2014
+3744,1194.15,3,Transit,2014
+3745,1194.15,3,Transit,2014
+3746,704.438,4,Transit,2014
+3747,704.438,4,Transit,2014
+3748,704.438,4,Transit,2014
+3749,704.438,4,Transit,2025
+3750,832.532,2,Transit,2011
+3751,832.532,2,Transit,2011
+3752,694.627,3,Transit,2014
+3753,694.627,3,Transit,2014
+3754,694.627,3,Transit,2023
+3755,1786.48,2,Transit,2014
+3756,1786.48,2,Transit,2014
+3757,1056.48,5,Transit,2014
+3758,1056.48,5,Transit,2014
+3759,1056.48,5,Transit,2014
+3760,1056.48,5,Transit,2014
+3761,1056.48,5,Transit,2014
+3762,974.633,2,Transit,2014
+3763,974.633,2,Transit,2014
+3764,1357.01,2,Transit,2014
+3765,1357.01,2,Transit,2014
+3766,1699.19,3,Transit,2014
+3767,1699.19,3,Transit,2014
+3768,1699.19,3,Transit,2014
+3769,167.0,5,Transit,2014
+3770,167.0,5,Transit,2014
+3771,167.0,5,Transit,2014
+3772,167.0,5,Transit,2014
+3773,167.0,5,Transit,2014
+3774,692.14,3,Transit,2014
+3775,692.14,3,Transit,2014
+3777,518.204,3,Transit,2014
+3778,518.204,3,Transit,2014
+3779,518.204,3,Transit,2014
+3780,1052.24,4,Transit,2014
+3781,1052.24,4,Transit,2014
+3782,1052.24,4,Transit,2014
+3783,1052.24,4,Transit,2014
+3784,914.221,3,Transit,2012
+3785,914.221,3,Transit,2012
+3786,914.221,3,Transit,2012
+3787,1098.45,2,Transit,2014
+3788,1098.45,2,Transit,2014
+3789,719.166,3,Transit,2014
+3790,719.166,3,Transit,2014
+3791,719.166,3,Transit,2014
+3792,1402.58,2,Transit,2014
+3794,209.738,2,Transit,2014
+3795,209.738,2,Transit,2014
+3796,434.684,4,Transit,2014
+3797,434.684,4,Transit,2014
+3798,434.684,4,Transit,2014
+3799,434.684,4,Transit,2016
+3800,868.477,4,Transit,2013
+3801,868.477,4,Transit,2013
+3802,868.477,4,Transit,2014
+3803,868.477,4,Transit,2020
+3804,775.679,4,Transit,2014
+3805,775.679,4,Transit,2014
+3806,775.679,4,Transit,2014
+3807,775.679,4,Transit,2014
+3808,575.581,2,Transit,2013
+3809,575.581,2,Transit,2013
+3810,1335.92,2,Transit,2014
+3811,1335.92,2,Transit,2014
+3812,544.568,2,Transit,2014
+3813,544.568,2,Transit,2014
+3814,1664.64,3,Transit,2011
+3815,1664.64,3,Transit,2011
+3816,1664.64,3,Transit,2014
+3817,602.268,3,Transit,2014
+3818,602.268,3,Transit,2014
+3819,602.268,3,Transit,2014
+3820,778.654,3,Transit,2014
+3821,778.654,3,Transit,2014
+3822,778.654,3,Transit,2023
+3823,797.72,2,Transit,2014
+3824,797.72,2,Transit,2014
+3825,1079.39524871,2,Transit,2014
+3826,1079.39524871,2,Transit,2014
+3827,268.881,2,Transit,2014
+3828,268.881,2,Transit,2014
+3829,1160.63,2,Transit,2014
+3830,1160.63,2,Transit,2014
+3831,384.938,2,Transit,2014
+3832,384.938,2,Transit,2014
+3833,940.584,2,Transit,2014
+3834,940.584,2,Transit,2014
+3835,489.141,2,Transit,2014
+3836,489.141,2,Transit,2014
+3837,503.436,3,Transit,2014
+3838,503.436,3,Transit,2014
+3839,503.436,3,Transit,2014
+3840,323.847,5,Transit,2011
+3841,323.847,5,Transit,2011
+3842,323.847,5,Transit,2012
+3843,323.847,5,Transit,2012
+3844,323.847,5,Transit,2012
+3845,826.613,2,Transit,2014
+3846,826.613,2,Transit,2014
+3847,384.542,2,Transit,2014
+3848,384.542,2,Transit,2014
+3849,400.48,2,Transit,2014
+3850,400.48,2,Transit,2014
+3851,454.883,2,Transit,2014
+3852,454.883,2,Transit,2014
+3853,501.574,4,Transit,2014
+3854,501.574,4,Transit,2014
+3855,501.574,4,Transit,2021
+3856,823.242,3,Transit,2014
+3857,823.242,3,Transit,2014
+3858,823.242,3,Transit,2014
+3859,487.675,3,Transit,2014
+3860,487.675,3,Transit,2014
+3861,487.675,3,Transit,2014
+3862,241.987,3,Transit,2014
+3863,241.987,3,Transit,2014
+3864,241.987,3,Transit,2014
+3865,2213.19,2,Transit,2013
+3866,2213.19,2,Transit,2013
+3867,439.719,2,Transit,2014
+3868,439.719,2,Transit,2014
+3869,1209.16,5,Transit,2011
+3870,1209.16,5,Transit,2011
+3871,1209.16,5,Transit,2011
+3872,1209.16,5,Transit,2011
+3873,1209.16,5,Transit,2011
+3874,717.527,2,Transit,2014
+3875,717.527,2,Transit,2014
+3876,580.119,3,Transit,2014
+3877,580.119,3,Transit,2014
+3878,580.119,3,Transit,2014
+3879,344.19,3,Transit,2014
+3880,344.19,3,Transit,2014
+3881,344.19,3,Transit,2014
+3882,324.413,2,Transit,2014
+3883,324.413,2,Transit,2014
+3884,426.59,3,Transit,2014
+3885,426.59,3,Transit,2014
+3886,426.59,3,Transit,2014
+3887,1278.97,2,Transit,2014
+3888,1278.97,2,Transit,2014
+3889,768.86,3,Transit,2014
+3890,768.86,3,Transit,2014
+3891,768.86,3,Transit,2014
+3892,677.975,2,Transit,2014
+3893,677.975,2,Transit,2014
+3894,552.798,4,Transit,2014
+3895,552.798,4,Transit,2014
+3896,552.798,4,Transit,2014
+3897,552.798,4,Transit Timing Variations,2014
+3898,616.637,3,Transit,2014
+3899,616.637,3,Transit,2014
+3900,616.637,3,Transit,2014
+3901,1800.82,1,Transit,2011
+3902,808.762,2,Transit,2014
+3903,808.762,2,Transit,2014
+3904,1047.03,4,Transit,2014
+3905,1047.03,4,Transit,2014
+3906,1047.03,4,Transit,2014
+3907,1047.03,4,Transit,2014
+3908,781.611,4,Transit,2014
+3909,781.611,4,Transit,2014
+3910,781.611,4,Transit,2014
+3911,781.611,4,Transit,2016
+3912,927.193,2,Transit,2014
+3913,927.193,2,Transit,2014
+3914,1002.94,2,Transit,2014
+3915,1002.94,2,Transit,2014
+3916,260.0,2,Transit,2014
+3917,260.0,2,Transit,2014
+3918,984.105,2,Transit,2014
+3919,984.105,2,Transit,2014
+3920,1298.88,3,Transit,2014
+3921,1298.88,3,Transit,2014
+3922,1298.88,3,Transit,2023
+3923,570.783,2,Transit,2014
+3924,570.783,2,Transit,2014
+3925,940.724,2,Transit,2014
+3926,940.724,2,Transit,2014
+3927,1819.17,1,Transit,2011
+3928,956.859,3,Transit,2014
+3929,956.859,3,Transit,2013
+3930,956.859,3,Transit,2013
+3931,1083.91,3,Transit,2014
+3932,1083.91,3,Transit,2014
+3933,1083.91,3,Transit,2016
+3934,252.733,3,Transit,2014
+3935,252.733,3,Transit,2014
+3936,252.733,3,Transit,2021
+3937,384.694,2,Transit,2014
+3938,384.694,2,Transit,2014
+3939,554.064,3,Transit,2014
+3940,554.064,3,Transit,2014
+3941,554.064,3,Transit,2014
+3942,1432.17,2,Transit,2014
+3943,1432.17,2,Transit,2014
+3944,707.559,2,Transit,2014
+3945,707.559,2,Transit,2014
+3946,688.573,3,Transit,2014
+3947,688.573,3,Transit,2014
+3948,688.573,3,Transit,2014
+3949,1101.1,2,Transit,2014
+3950,1101.1,2,Transit,2014
+3951,1443.21,3,Transit,2014
+3952,1443.21,3,Transit,2014
+3953,1443.21,3,Transit,2014
+3954,527.956,2,Transit,2012
+3955,527.956,2,Transit,2012
+3956,876.044,2,Transit,2014
+3957,876.044,2,Transit,2014
+3958,930.32,2,Transit,2014
+3959,930.32,2,Transit,2014
+3960,1090.51,2,Transit,2014
+3961,1090.51,2,Transit,2014
+3962,762.596,3,Transit,2014
+3963,762.596,3,Transit,2014
+3964,762.596,3,Transit,2014
+3965,891.462,2,Transit,2014
+3966,891.462,2,Transit,2014
+3967,1038.99,2,Transit,2014
+3968,1038.99,2,Transit,2014
+3969,1856.28,2,Transit,2014
+3970,1856.28,2,Transit,2014
+3971,188.027,2,Transit,2014
+3972,188.027,2,Transit,2014
+3973,770.978,2,Transit,2014
+3974,770.978,2,Transit,2014
+3975,214.0,2,Transit,2014
+3976,214.0,2,Transit,2014
+3977,63.9207,4,Transit,2013
+3978,63.9207,4,Transit,2013
+3979,63.9207,4,Transit,2013
+3980,63.9207,4,Transit Timing Variations,2014
+3981,1167.94,2,Transit,2014
+3982,1167.94,2,Transit,2014
+3983,813.192,2,Transit,2014
+3984,813.192,2,Transit,2014
+3985,1493.95,3,Transit,2014
+3986,1493.95,3,Transit,2014
+3987,1493.95,3,Transit,2014
+3988,1090.45,2,Transit,2014
+3989,1090.45,2,Transit,2014
+3990,1265.61,3,Transit,2014
+3991,1265.61,3,Transit,2014
+3992,1265.61,3,Transit,2014
+3993,1238.81,2,Transit,2014
+3994,1238.81,2,Transit,2014
+3995,923.067,2,Transit,2014
+3996,923.067,2,Transit,2014
+3997,823.804,2,Transit,2014
+3998,823.804,2,Transit,2014
+3999,152.094,2,Transit,2014
+4000,152.094,2,Transit,2014
+4001,731.274,2,Transit,2014
+4002,731.274,2,Transit,2014
+4003,1174.59,1,Transit,2012
+4004,813.713,2,Transit,2014
+4005,813.713,2,Transit,2014
+4006,267.323,3,Transit,2014
+4007,267.323,3,Transit,2014
+4008,267.323,3,Transit,2021
+4009,935.446,2,Transit,2014
+4010,935.446,2,Transit,2014
+4011,470.0,2,Transit,2014
+4012,470.0,2,Transit,2014
+4013,895.678,2,Transit,2014
+4014,895.678,2,Transit,2014
+4015,1432.61,3,Transit,2014
+4016,1432.61,3,Transit,2014
+4017,1432.61,3,Transit,2020
+4018,882.462,2,Transit,2014
+4019,882.462,2,Transit,2014
+4020,801.052,2,Transit,2014
+4021,801.052,2,Transit,2014
+4022,425.0,2,Transit,2014
+4023,425.0,2,Transit,2014
+4024,816.559,2,Transit,2014
+4025,816.559,2,Transit,2014
+4026,1057.41,1,Transit,2011
+4027,435.277,2,Transit,2014
+4028,435.277,2,Transit,2014
+4029,869.236,2,Transit,2014
+4030,869.236,2,Transit,2014
+4031,681.428,2,Transit,2014
+4032,681.428,2,Transit,2014
+4033,881.404,2,Transit,2014
+4034,881.404,2,Transit,2014
+4035,1058.72,3,Transit,2014
+4036,1058.72,3,Transit,2014
+4037,1058.72,3,Transit,2021
+4038,421.382,2,Transit,2014
+4039,421.382,2,Transit,2014
+4040,223.757,2,Transit,2013
+4041,223.757,2,Transit,2013
+4042,969.0,2,Transit,2014
+4043,969.0,2,Transit,2014
+4044,177.355,3,Transit,2014
+4045,177.355,3,Transit,2014
+4046,177.355,3,Transit,2016
+4047,740.537,3,Transit,2014
+4048,740.537,3,Transit,2014
+4049,740.537,3,Transit,2014
+4050,487.916,1,Transit,2009
+4051,2305.01,1,Transit,2010
+4052,845.97,2,Transit,2014
+4053,845.97,2,Transit,2014
+4054,965.56,3,Transit,2014
+4055,965.56,3,Transit,2014
+4056,965.56,3,Transit,2016
+4057,625.339,4,Transit,2014
+4058,625.339,4,Transit,2014
+4059,625.339,4,Transit,2014
+4060,625.339,4,Transit,2014
+4061,840.269,3,Transit,2014
+4062,840.269,3,Transit,2014
+4063,840.269,3,Transit,2016
+4064,812.524,2,Transit,2014
+4065,812.524,2,Transit,2014
+4066,1065.08,2,Transit,2014
+4067,1065.08,2,Transit,2014
+4068,364.03,2,Transit,2014
+4069,364.03,2,Transit,2014
+4070,338.368,2,Transit,2014
+4071,338.368,2,Radial Velocity,2014
+4072,88.7832,1,Transit,2014
+4073,68.173,1,Transit,2014
+4074,1093.08,1,Transit,2011
+4075,147.527,1,Transit,2013
+4076,153.676,4,Transit,2013
+4077,153.676,4,Transit,2016
+4078,153.676,4,Transit,2018
+4079,153.676,4,Transit Timing Variations,2018
+4080,1086.24,1,Transit,2014
+4081,847.536,1,Transit,2014
+4082,413.46,2,Transit Timing Variations,2014
+4083,413.46,2,Transit Timing Variations,2014
+4084,530.487,2,Transit Timing Variations,2014
+4085,530.487,2,Transit Timing Variations,2014
+4086,690.819,3,Transit Timing Variations,2014
+4087,690.819,3,Transit Timing Variations,2014
+4088,690.819,3,Transit,2023
+4089,973.989,2,Transit Timing Variations,2014
+4090,973.989,2,Transit Timing Variations,2014
+4091,1002.53,2,Transit,2014
+4092,1002.53,2,Transit,2021
+4093,1011.36,2,Transit,2014
+4094,1011.36,2,Transit Timing Variations,2014
+4095,40.0595,3,Transit,2011
+4096,40.0595,3,Transit,2011
+4097,40.0595,3,Transit,2011
+4098,348.558,1,Transit,2014
+4099,722.795,1,Transit,2014
+4100,758.753,1,Transit,2014
+4101,698.646,2,Transit,2014
+4102,698.646,2,Radial Velocity,2014
+4103,646.647,1,Transit,2014
+4104,843.695,1,Transit,2014
+4105,1017.8,1,Transit,2014
+4106,686.284,1,Transit,2014
+4107,1005.84,1,Transit,2011
+4108,917.477,2,Transit,2015
+4109,917.477,2,Transit,2015
+4110,486.546,3,Transit,2015
+4111,486.546,3,Transit,2015
+4112,486.546,3,Transit,2015
+4113,848.023,2,Transit,2015
+4114,848.023,2,Radial Velocity,2015
+4115,1878.31,1,Transit,2015
+4116,1222.54,1,Transit,2015
+4117,1418.77,1,Transit,2015
+4118,588.867,2,Transit,2015
+4119,588.867,2,Transit,2016
+4120,304.0,1,Transit,2015
+4121,195.94287175,1,Transit,2015
+4122,757.048,1,Transit,2015
+4123,1188.0,1,Transit,2011
+4124,301.03,1,Transit,2015
+4125,268.003,1,Transit,2015
+4126,365.965,1,Transit,2015
+4127,802.271,1,Transit,2015
+4128,36.4396,5,Transit,2015
+4129,36.4396,5,Transit,2015
+4130,36.4396,5,Transit,2015
+4131,36.4396,5,Transit,2015
+4132,36.4396,5,Transit,2015
+4133,127.201,3,Transit,2015
+4134,127.201,3,Transit,2015
+4135,127.201,3,Transit,2015
+4136,96.339,3,Transit,2015
+4137,96.339,3,Transit,2015
+4138,96.339,3,Transit,2015
+4139,268.041,1,Transit,2015
+4140,399.398,2,Transit Timing Variations,2017
+4141,241.949,2,Transit,2015
+4142,241.949,2,Transit,2015
+4143,381.949,1,Transit,2011
+4144,455.982,3,Transit,2015
+4145,455.982,3,Transit,2015
+4146,455.982,3,Transit,2015
+4147,396.332,3,Eclipse Timing Variations,2022
+4148,396.332,3,Eclipse Timing Variations,2022
+4149,551.727,1,Transit,2015
+4150,442.846,1,Transit,2015
+4151,230.869,3,Transit,2015
+4152,230.869,3,Radial Velocity,2015
+4153,230.869,3,Radial Velocity,2023
+4154,1072.3,3,Transit,2021
+4155,1594.74,2,Transit,2016
+4156,777.06,3,Transit,2012
+4157,777.06,3,Transit Timing Variations,2012
+4158,777.06,3,Transit,2014
+4159,1274.01,2,Transit,2016
+4160,692.158,1,Transit,2016
+4161,596.625,2,Transit,2016
+4162,596.625,2,Transit,2020
+4163,394.804,1,Transit,2016
+4164,667.604,1,Transit,2016
+4165,553.077,1,Transit,2016
+4166,530.122,2,Transit,2016
+4167,530.122,2,Transit,2016
+4168,466.265,1,Transit,2016
+4170,1025.02,3,Transit,2012
+4171,1025.02,3,Transit,2012
+4172,1025.02,3,Transit,2019
+4174,306.602,1,Transit,2016
+4175,905.937,1,Transit,2016
+4176,841.496,1,Transit,2016
+4177,280.069,1,Transit,2016
+4178,813.535,1,Transit,2016
+4179,367.0,1,Transit,2016
+4180,420.0,1,Transit,2016
+4181,344.901,1,Transit,2016
+4182,306.738,5,Transit,2012
+4183,306.738,5,Transit,2012
+4184,306.738,5,Transit,2014
+4185,306.738,5,Radial Velocity,2014
+4186,306.738,5,Radial Velocity,2023
+4187,847.508,1,Transit,2016
+4188,813.724,1,Transit,2016
+4189,313.068,1,Transit,2016
+4190,860.355,1,Transit,2016
+4191,382.136,1,Transit,2016
+4194,872.343,3,Transit,2016
+4195,872.343,3,Transit,2021
+4196,369.645,1,Transit,2016
+4197,311.222,4,Transit,2012
+4198,311.222,4,Transit,2012
+4199,311.222,4,Transit,2014
+4200,311.222,4,Transit,2014
+4202,630.785,1,Transit,2016
+4204,658.924,2,Transit,2016
+4205,658.924,2,Transit,2021
+4206,605.274,1,Transit,2016
+4207,1291.98,1,Transit,2016
+4208,938.844,1,Transit,2016
+4209,556.726,1,Transit,2016
+4210,899.777,1,Transit,2009
+4211,250.11,2,Transit,2012
+4212,250.11,2,Transit,2012
+4213,807.48,1,Transit,2016
+4214,1125.24,2,Transit,2016
+4215,1125.24,2,Transit,2021
+4216,1591.04,1,Transit,2016
+4217,99.0688,1,Transit,2016
+4218,283.41,1,Transit,2016
+4219,228.439,1,Transit,2016
+4220,391.644,1,Transit,2016
+4221,324.618,1,Transit,2016
+4222,332.443,1,Transit,2016
+4223,783.831,4,Transit,2012
+4224,783.831,4,Transit,2012
+4225,783.831,4,Transit,2014
+4226,783.831,4,Transit Timing Variations,2024
+4227,386.177,1,Transit,2016
+4228,651.999,2,Transit,2016
+4229,651.999,2,Transit,2021
+4230,467.375,1,Transit,2016
+4231,468.258,1,Transit,2016
+4232,455.336,1,Transit,2016
+4233,255.0,1,Transit,2016
+4234,687.094,1,Transit,2016
+4235,289.907,1,Transit,2016
+4236,337.901,1,Transit,2016
+4237,246.61,1,Transit,2016
+4238,321.542,3,Transit,2012
+4239,321.542,3,Transit,2012
+4240,321.542,3,Transit,2014
+4241,623.901,2,Transit,2016
+4242,623.901,2,Transit,2016
+4243,830.638,1,Transit,2016
+4244,639.239,1,Transit,2016
+4245,253.295,1,Transit,2016
+4246,1058.24,2,Transit,2016
+4247,1058.24,2,Transit,2016
+4248,992.852,1,Transit,2016
+4249,666.146,1,Transit,2016
+4250,750.04,1,Transit,2016
+4251,784.23,1,Transit,2016
+4252,799.008,3,Transit,2016
+4253,799.008,3,Transit,2016
+4254,799.008,3,Transit,2021
+4255,1366.07,3,Transit,2012
+4256,1366.07,3,Transit,2012
+4257,1366.07,3,Transit,2014
+4258,457.709,1,Transit,2016
+4259,252.762,1,Transit,2016
+4260,312.798,1,Transit,2016
+4261,302.955,1,Transit,2016
+4262,570.659,2,Transit,2016
+4263,570.659,2,Transit,2021
+4264,685.599,1,Transit,2016
+4265,462.322,1,Transit,2016
+4266,439.4,1,Transit,2016
+4267,155.956,1,Transit,2016
+4268,307.318,2,Transit,2016
+4269,307.318,2,Transit Timing Variations,2016
+4270,271.701,3,Transit,2012
+4271,271.701,3,Transit,2012
+4272,271.701,3,Transit,2014
+4273,390.374,1,Transit,2016
+4274,1060.68,1,Transit,2016
+4275,436.016,1,Transit,2016
+4276,221.802,1,Transit,2016
+4277,963.18,1,Transit,2016
+4278,818.001,1,Transit,2016
+4279,1019.65,1,Transit,2016
+4280,378.972,1,Transit,2016
+4282,635.145,3,Transit,2016
+4283,635.145,3,Transit,2016
+4284,635.145,3,Transit,2023
+4285,578.796,5,Transit,2012
+4286,578.796,5,Transit,2012
+4287,578.796,5,Transit,2014
+4288,578.796,5,Transit,2014
+4289,578.796,5,Transit,2014
+4290,531.944,1,Transit,2016
+4291,311.175,1,Transit,2016
+4292,843.689,1,Transit,2016
+4293,728.525,2,Transit,2016
+4294,728.525,2,Transit,2016
+4295,690.525,1,Transit,2016
+4296,973.121,1,Transit,2016
+4297,674.598,1,Transit,2016
+4298,2097.12,1,Transit,2016
+4299,661.876,1,Transit,2016
+4300,776.708,1,Transit,2016
+4301,912.994,3,Transit,2012
+4302,912.994,3,Transit,2012
+4303,912.994,3,Radial Velocity,2016
+4304,109.308,1,Transit,2016
+4305,621.378,2,Transit,2016
+4306,621.378,2,Transit,2016
+4307,992.769,1,Transit,2016
+4308,565.207,1,Transit,2016
+4309,863.037,1,Transit,2016
+4310,1041.0,1,Transit,2016
+4311,564.277,1,Transit,2016
+4312,558.81,1,Transit,2016
+4313,130.645,1,Transit,2016
+4314,638.301,1,Transit,2016
+4315,644.14,2,Transit,2012
+4316,644.14,2,Transit,2012
+4317,568.148,1,Transit,2016
+4318,723.875,1,Transit,2016
+4319,504.667,1,Transit,2016
+4320,771.471,1,Transit,2016
+4321,682.896,1,Transit,2016
+4322,853.977,1,Transit,2016
+4323,617.55,1,Transit,2016
+4324,524.247,1,Transit,2016
+4325,541.432,1,Transit,2016
+4326,530.765,1,Transit,2016
+4327,969.252,4,Transit,2012
+4328,969.252,4,Transit,2012
+4329,969.252,4,Transit,2014
+4330,969.252,4,Transit,2023
+4331,323.899,1,Transit,2016
+4332,703.758,1,Transit,2016
+4333,613.179,1,Transit,2016
+4334,867.271,1,Transit,2016
+4335,1848.84,1,Transit,2016
+4336,585.187,1,Transit,2016
+4337,693.766,1,Transit,2016
+4338,787.894,1,Transit,2016
+4339,1209.4,1,Transit,2016
+4340,612.803,2,Transit,2016
+4341,612.803,2,Transit,2021
+4342,1163.22,2,Transit,2012
+4343,1163.22,2,Transit,2012
+4344,1421.81,1,Transit,2016
+4345,785.137,1,Transit,2016
+4346,1153.13,1,Transit,2016
+4347,973.76,1,Transit,2016
+4348,769.2,1,Transit,2016
+4349,643.009,2,Transit,2016
+4350,643.009,2,Transit,2020
+4351,1023.85,1,Transit,2016
+4352,663.418,1,Transit,2016
+4353,681.086,2,Transit,2016
+4354,681.086,2,Transit,2020
+4355,558.517,1,Transit,2016
+4356,587.039,1,Transit,2009
+4357,1025.1,3,Transit,2012
+4358,1025.1,3,Transit,2012
+4359,1025.1,3,Transit,2012
+4360,619.723,1,Transit,2016
+4361,414.825,1,Transit,2016
+4362,1159.31,1,Transit,2016
+4363,1539.63,3,Transit,2016
+4364,1539.63,3,Transit,2016
+4365,1539.63,3,Transit,2016
+4366,1026.49,1,Transit,2016
+4367,556.58,2,Transit,2016
+4368,556.58,2,Transit,2016
+4369,1215.11,1,Transit,2016
+4370,519.122,2,Transit,2016
+4371,519.122,2,Transit,2021
+4372,946.683,1,Transit,2016
+4373,1065.82,1,Transit,2016
+4374,335.079,1,Transit,2013
+4375,845.824,2,Transit,2016
+4376,845.824,2,Transit,2016
+4377,1395.56,1,Transit,2016
+4378,1445.53,1,Transit,2016
+4379,861.494,1,Transit,2016
+4380,527.995,1,Transit,2016
+4381,330.0,1,Transit,2016
+4382,945.775,3,Transit,2016
+4383,945.775,3,Transit,2016
+4384,945.775,3,Transit,2021
+4385,173.354,1,Transit,2016
+4386,1221.96,1,Transit,2016
+4387,900.678,3,Transit,2016
+4388,900.678,3,Transit,2016
+4389,900.678,3,Transit,2023
+4390,300.874,5,Transit,2013
+4391,300.874,5,Transit,2013
+4392,300.874,5,Transit,2013
+4393,300.874,5,Transit,2013
+4394,300.874,5,Transit,2013
+4395,1355.28,1,Transit,2016
+4396,389.0,1,Transit,2016
+4397,284.761,1,Transit,2016
+4398,737.702,1,Transit,2016
+4399,748.188,1,Transit,2016
+4400,760.708,2,Transit,2016
+4401,760.708,2,Transit,2016
+4402,635.643,1,Transit,2016
+4403,984.307,1,Transit,2016
+4404,372.05,1,Transit,2016
+4405,194.033,1,Transit,2013
+4406,839.784,1,Transit,2016
+4407,761.966,1,Transit,2016
+4408,349.0,1,Transit,2016
+4409,680.54,2,Transit,2016
+4410,680.54,2,Transit,2021
+4411,888.027,1,Transit,2016
+4412,1141.08,1,Transit,2016
+4413,310.301,1,Transit,2016
+4414,786.091,1,Transit,2016
+4415,991.214,1,Transit,2016
+4416,850.242,1,Transit,2016
+4417,557.787,1,Transit,2016
+4418,969.918,1,Transit,2016
+4419,781.582,1,Transit,2016
+4420,1063.58,1,Transit,2016
+4421,1318.05,1,Transit,2016
+4422,1173.57,1,Transit,2016
+4423,451.794,1,Transit,2016
+4424,1087.87,2,Transit,2016
+4425,1087.87,2,Transit,2020
+4426,636.03,1,Transit,2016
+4427,513.748,1,Transit,2016
+4428,303.728,4,Transit,2012
+4429,303.728,4,Transit,2012
+4430,303.728,4,Transit,2012
+4431,303.728,4,Radial Velocity,2019
+4432,884.378,1,Transit,2016
+4433,509.408,1,Transit,2016
+4434,394.55,1,Transit,2016
+4435,595.634,2,Transit,2016
+4436,595.634,2,Transit,2016
+4437,974.124,1,Transit,2016
+4438,752.562,1,Transit,2016
+4439,890.352,2,Transit,2016
+4440,890.352,2,Transit,2023
+4441,1691.88,1,Transit,2016
+4442,388.384,1,Transit,2016
+4443,722.64,1,Transit,2016
+4444,1202.96,1,Transit,2013
+4445,568.431,1,Transit,2016
+4446,534.788,1,Transit,2016
+4447,815.637,1,Transit,2016
+4448,1063.09,1,Transit,2016
+4449,1210.12,1,Transit,2016
+4450,612.838,1,Transit,2016
+4451,1508.71,1,Transit,2016
+4452,2302.45,1,Transit,2016
+4453,784.618,1,Transit,2016
+4454,2063.41,1,Transit,2016
+4455,1131.19,1,Transit,2013
+4457,1168.26,1,Transit,2016
+4458,1033.93,1,Transit,2016
+4459,918.21,1,Transit,2016
+4460,342.254,1,Transit,2016
+4461,665.68,1,Transit,2016
+4462,295.196,1,Transit,2016
+4463,1954.08,1,Transit,2016
+4464,1826.15,1,Transit,2016
+4465,922.244,1,Transit,2016
+4466,144.166,4,Transit,2013
+4467,144.166,4,Transit,2013
+4468,144.166,4,Radial Velocity,2013
+4469,144.166,4,Radial Velocity,2023
+4470,1492.48,1,Transit,2016
+4471,686.923,1,Transit,2016
+4472,1979.25,1,Transit,2016
+4473,1023.07,1,Transit,2016
+4474,1731.27,1,Transit,2016
+4475,938.715,1,Transit,2016
+4477,633.66,1,Transit,2016
+4478,1357.75,1,Transit,2016
+4479,1131.73,1,Transit,2016
+4480,730.625,2,Transit,2013
+4481,730.625,2,Transit,2013
+4482,1665.31,1,Transit,2016
+4483,279.115,1,Transit,2016
+4484,991.336,1,Transit,2016
+4485,1151.51,1,Transit,2016
+4486,1023.06,1,Transit,2016
+4487,842.947,1,Transit,2016
+4488,1416.44,1,Transit,2016
+4489,1277.33,1,Transit,2016
+4490,1995.57,1,Transit,2016
+4491,922.562,1,Transit,2009
+4492,1491.76,1,Transit,2016
+4493,774.152,1,Transit,2016
+4494,992.071,1,Transit,2016
+4495,1156.83,1,Transit,2016
+4496,1228.83,1,Transit,2016
+4497,276.881,1,Transit,2016
+4498,591.776,1,Transit,2016
+4499,1394.22,1,Transit,2016
+4500,664.843,1,Transit,2016
+4501,1448.34,1,Transit,2016
+4502,624.575,1,Transit,2016
+4503,872.493,2,Transit,2016
+4504,872.493,2,Transit,2016
+4505,1089.87,1,Transit,2016
+4506,2083.37,1,Transit,2016
+4507,1327.44,1,Transit,2016
+4508,635.009,2,Transit,2016
+4509,635.009,2,Transit,2020
+4510,2805.48,1,Transit,2016
+4512,2497.51,1,Transit,2016
+4513,1065.37,1,Transit,2016
+4514,926.598,1,Transit,2016
+4515,1239.5,2,Transit,2016
+4516,1239.5,2,Transit,2016
+4518,853.119,1,Transit,2016
+4519,758.469,2,Transit,2016
+4520,758.469,2,Transit Timing Variations,2025
+4521,762.081,1,Transit,2016
+4522,831.842,1,Transit,2016
+4523,1765.23,1,Transit,2016
+4524,1921.15,1,Transit,2016
+4526,1935.04,2,Transit,2018
+4528,174.826,2,Transit,2016
+4529,174.826,2,Transit,2016
+4530,916.706,1,Transit,2016
+4531,1157.21,1,Transit,2016
+4532,695.059,1,Transit,2016
+4533,1005.43,1,Transit,2016
+4534,205.118,1,Transit,2016
+4535,1113.65,1,Transit,2016
+4536,1370.65,1,Transit,2016
+4537,1177.55,1,Transit,2013
+4538,1442.02,1,Transit,2016
+4539,1661.87,1,Transit,2016
+4540,489.253,1,Transit,2016
+4541,278.987,1,Transit,2016
+4542,449.964,1,Transit,2016
+4543,1780.38,1,Transit,2016
+4544,450.0,1,Transit,2016
+4545,3347.16,1,Transit,2016
+4546,1705.99,1,Transit,2016
+4547,721.027,1,Transit,2016
+4548,835.356,1,Transit,2013
+4549,1296.02,2,Transit,2016
+4550,1296.02,2,Transit,2016
+4551,760.43,1,Transit,2016
+4552,1232.29,1,Transit,2016
+4553,274.767,1,Transit,2016
+4554,1770.27,1,Transit,2016
+4555,399.034,2,Transit,2016
+4556,399.034,2,Transit,2016
+4557,852.0,1,Transit,2016
+4558,1068.68,1,Transit,2016
+4559,1502.32,4,Transit,2016
+4560,1502.32,4,Transit,2016
+4561,1502.32,4,Transit,2016
+4562,1502.32,4,Transit,2016
+4563,1073.48,1,Transit,2016
+4564,822.96,1,Orbital Brightness Modulation,2013
+4565,792.336,2,Transit,2016
+4566,792.336,2,Transit,2016
+4567,830.707,1,Transit,2016
+4569,962.459,3,Transit,2016
+4570,962.459,3,Transit,2023
+4571,962.459,3,Transit,2023
+4572,1047.84,1,Transit,2016
+4573,1076.28,1,Transit,2016
+4574,2297.62,1,Transit,2016
+4575,2251.03,1,Transit,2016
+4576,784.56,1,Transit,2016
+4577,1169.57,2,Transit,2016
+4578,1169.57,2,Transit,2016
+4579,639.411,1,Transit,2013
+4580,930.457,3,Transit,2016
+4581,930.457,3,Transit,2016
+4582,930.457,3,Transit,2016
+4583,1393.85,1,Transit,2016
+4584,1130.21,1,Transit,2016
+4585,547.026,1,Transit,2016
+4586,917.804,1,Transit,2016
+4587,398.676,1,Transit,2016
+4588,727.904,1,Transit,2016
+4589,443.106,1,Transit,2016
+4590,938.168,1,Transit,2016
+4591,283.155,1,Transit,2016
+4592,124.376,1,Transit,2013
+4593,557.652,1,Transit,2016
+4594,1064.47,1,Transit,2016
+4595,446.844,1,Transit,2016
+4596,516.09,2,Transit,2016
+4597,516.09,2,Transit,2020
+4598,1303.72,2,Transit,2016
+4599,1303.72,2,Transit,2023
+4601,485.318,1,Transit,2016
+4602,503.568,1,Transit,2016
+4603,1775.8,1,Transit,2016
+4604,1480.16,1,Transit,2016
+4605,1020.72,4,Transit,2012
+4606,1020.72,4,Transit,2012
+4607,1020.72,4,Transit,2014
+4608,1020.72,4,Transit,2014
+4609,703.168,1,Transit,2016
+4610,1266.34,1,Transit,2016
+4611,1425.47,1,Transit,2016
+4612,985.699,1,Transit,2016
+4613,931.192,1,Transit,2016
+4614,492.122,1,Transit,2016
+4615,817.584,1,Transit,2016
+4616,1315.26,1,Transit,2016
+4617,972.274,1,Transit,2016
+4618,1509.084,2,Transit,2016
+4619,1509.084,2,Transit,2021
+4620,1021.87,1,Transit,2010
+4621,369.451,6,Transit,2012
+4622,369.451,6,Transit,2012
+4623,369.451,6,Transit,2014
+4624,369.451,6,Transit,2014
+4625,369.451,6,Transit,2016
+4626,369.451,6,Transit,2017
+4627,1019.26,1,Transit,2016
+4628,440.426,1,Transit,2016
+4629,780.585,1,Transit,2016
+4630,639.771,1,Transit,2016
+4631,649.65,2,Transit,2016
+4632,649.65,2,Transit,2016
+4633,638.49,1,Transit,2016
+4634,361.896,1,Transit,2016
+4635,321.0,1,Transit,2016
+4636,961.405,1,Transit,2016
+4637,348.291,3,Transit,2012
+4638,348.291,3,Transit,2012
+4639,348.291,3,Transit,2014
+4640,1458.59,1,Transit,2016
+4641,985.041,1,Transit,2016
+4642,1482.74,1,Transit,2016
+4643,840.0,1,Transit,2016
+4644,2055.77,1,Transit,2016
+4645,1259.28,1,Transit,2016
+4646,983.697,1,Transit,2016
+4647,1484.46,1,Transit,2016
+4648,925.037,1,Transit,2016
+4649,664.306,1,Transit,2016
+4650,904.326,5,Transit,2012
+4651,904.326,5,Transit,2012
+4652,904.326,5,Transit,2014
+4653,904.326,5,Transit,2014
+4654,904.326,5,Transit Timing Variations,2019
+4655,1387.2,1,Transit,2016
+4656,614.571,1,Transit,2016
+4657,860.391,1,Transit,2016
+4658,1389.27,1,Transit,2016
+4659,1201.4,1,Transit,2016
+4660,807.85,2,Transit,2016
+4661,807.85,2,Transit,2016
+4662,779.596,1,Transit,2016
+4663,2046.68,1,Transit,2016
+4664,575.322,1,Transit,2016
+4665,1073.76,1,Transit,2016
+4666,400.409,3,Transit,2012
+4667,400.409,3,Transit,2012
+4668,400.409,3,Transit,2014
+4669,1122.0,1,Transit,2016
+4670,593.54,1,Transit,2016
+4671,1688.12,1,Transit,2016
+4672,467.37,1,Transit,2016
+4673,633.937,1,Transit,2016
+4674,2406.33,1,Transit,2016
+4675,980.035,1,Transit,2016
+4676,901.907,1,Transit,2016
+4677,1104.04,1,Transit,2016
+4678,944.561,1,Transit,2016
+4679,1023.9,5,Transit,2012
+4680,1023.9,5,Transit,2012
+4681,1023.9,5,Transit,2014
+4682,1023.9,5,Transit,2014
+4683,1023.9,5,Transit,2014
+4684,998.961,1,Transit,2016
+4685,532.726,1,Transit,2016
+4686,1165.66,1,Transit,2016
+4687,431.776,1,Transit,2016
+4688,431.051,1,Transit,2016
+4689,1127.12,1,Transit,2016
+4690,513.103,1,Transit,2016
+4691,1378.47,1,Transit,2016
+4692,822.134,1,Transit,2016
+4693,765.025,4,Transit,2012
+4694,765.025,4,Transit,2012
+4695,765.025,4,Transit,2014
+4696,765.025,4,Transit,2014
+4697,1661.28,1,Transit,2016
+4698,839.255,1,Transit,2016
+4699,1619.03,1,Transit,2016
+4700,568.676,1,Transit,2016
+4701,1506.58,1,Transit,2016
+4702,1351.17,1,Transit,2016
+4703,983.502,1,Transit,2016
+4704,298.532,1,Transit,2016
+4705,839.903,1,Transit,2016
+4706,1056.36,1,Transit,2016
+4707,850.327,1,Transit,2016
+4708,1039.03,1,Transit,2016
+4709,1499.66,1,Transit,2016
+4710,2022.9,2,Transit,2016
+4711,2022.9,2,Transit,2023
+4712,586.137,2,Transit,2016
+4713,586.137,2,Transit,2023
+4714,646.667,1,Transit,2016
+4715,1195.54,1,Transit,2016
+4716,1593.13,1,Transit,2016
+4717,939.455,1,Transit,2016
+4718,1232.9,2,Transit,2013
+4719,1232.9,2,Transit,2013
+4720,1259.46,1,Transit,2016
+4721,1976.05,1,Transit,2016
+4722,879.683,1,Transit,2016
+4723,1182.22,1,Transit,2016
+4724,1082.16,1,Transit,2016
+4725,1242.62,1,Transit,2016
+4726,820.913,1,Transit,2016
+4727,602.176,1,Transit,2016
+4728,791.625,1,Transit,2016
+4729,802.672,2,Transit,2016
+4730,802.672,2,Transit,2024
+4731,376.863,3,Radial Velocity,2020
+4732,601.324,2,Transit,2016
+4733,601.324,2,Transit,2023
+4734,1375.18,1,Transit,2016
+4735,504.605,1,Transit,2016
+4736,627.455,1,Transit,2016
+4737,476.733,1,Transit,2016
+4738,651.318,1,Transit,2016
+4739,711.297,1,Transit,2016
+4740,886.588,2,Transit,2016
+4741,886.588,2,Transit,2016
+4742,420.817,1,Transit,2016
+4743,598.313,1,Transit,2016
+4744,1712.12,1,Transit,2016
+4745,2340.58,1,Transit,2016
+4746,570.727,1,Transit,2016
+4747,1285.59,1,Transit,2016
+4748,1162.91,1,Transit,2016
+4749,540.134,1,Transit,2016
+4750,2334.93,2,Transit,2016
+4751,2334.93,2,Transit,2023
+4752,1519.25,1,Transit,2016
+4753,484.891,1,Transit,2016
+4754,1246.43,1,Transit,2016
+4755,628.257,3,Transit,2010
+4756,628.257,3,Transit,2010
+4757,628.257,3,Transit,2010
+4758,848.254,8,Transit,2017
+4759,487.525,1,Transit,2016
+4760,253.867,1,Transit,2016
+4761,1165.34,1,Transit,2016
+4762,1369.24,2,Transit,2016
+4763,1369.24,2,Transit,2016
+4764,978.125,1,Transit,2016
+4765,529.268,1,Transit,2016
+4766,757.791,1,Transit,2016
+4767,352.0,1,Transit,2016
+4768,290.843,1,Transit,2016
+4769,309.596,1,Transit,2016
+4770,1294.69,1,Transit,2013
+4771,400.289,1,Transit,2016
+4772,556.168,1,Transit,2016
+4773,2004.72,1,Transit,2016
+4774,991.618,2,Transit,2016
+4775,991.618,2,Transit,2021
+4776,753.723,1,Transit,2016
+4777,849.036,1,Transit,2016
+4778,830.712,1,Transit,2016
+4779,3460.51,1,Transit,2016
+4780,1025.03,1,Transit,2016
+4781,1119.87,1,Transit,2016
+4782,477.992,3,Transit,2013
+4783,477.992,3,Transit,2013
+4784,477.992,3,Transit,2015
+4785,1001.68,2,Transit,2016
+4786,1001.68,2,Transit,2016
+4787,934.49,1,Transit,2016
+4788,536.323,1,Transit,2016
+4789,1000.28,1,Transit,2016
+4790,1053.04,1,Transit,2016
+4791,611.115,1,Transit,2016
+4792,921.361,1,Transit,2016
+4793,831.685,1,Transit,2016
+4794,508.809,1,Transit,2016
+4795,1311.23,1,Transit,2016
+4796,95.9115,2,Transit,2014
+4798,848.396,1,Transit,2016
+4799,490.0,1,Transit,2016
+4800,465.612,1,Transit,2016
+4801,1017.2,1,Transit,2016
+4802,608.738,1,Transit,2016
+4803,471.782,1,Transit,2016
+4804,823.399,1,Transit,2016
+4805,1571.46,2,Transit,2016
+4806,1571.46,2,Transit,2016
+4807,1182.05,1,Transit,2016
+4808,2093.62,1,Transit,2016
+4809,191.904,2,Transit,2014
+4810,191.904,2,Radial Velocity,2014
+4811,1260.78,1,Transit,2016
+4812,1088.36,1,Transit,2016
+4813,216.354,1,Transit,2016
+4814,2300.53,1,Transit,2016
+4815,1349.43,1,Transit,2016
+4816,1651.25,1,Transit,2016
+4817,1137.29,1,Transit,2016
+4818,1730.78,1,Transit,2016
+4819,868.017,1,Transit,2016
+4820,486.105,2,Transit,2016
+4821,486.105,2,Transit,2023
+4822,445.656,1,Transit,2014
+4823,2161.6,1,Transit,2016
+4824,382.509,1,Transit,2016
+4825,1304.25,1,Transit,2016
+4826,258.893,2,Transit,2016
+4827,258.893,2,Transit,2016
+4828,215.814,1,Transit,2016
+4829,550.383,1,Transit,2016
+4830,544.939,1,Transit,2016
+4831,824.688,1,Transit,2016
+4832,449.773,1,Transit,2016
+4833,807.729,1,Transit,2016
+4834,122.881,1,Transit,2014
+4835,284.916,1,Transit,2016
+4836,574.314,1,Transit,2016
+4837,411.486,1,Transit,2016
+4838,771.494,2,Transit,2016
+4839,771.494,2,Transit,2024
+4840,454.626,1,Transit,2016
+4841,582.828,1,Transit,2016
+4842,1027.8,1,Transit,2016
+4843,568.546,2,Transit,2016
+4844,568.546,2,Transit,2016
+4845,290.324,3,Transit,2016
+4846,290.324,3,Transit,2016
+4847,390.354,2,Transit,2016
+4848,390.354,2,Transit,2016
+4849,400.907,2,Transit,2014
+4851,331.545,1,Transit,2016
+4852,338.522,1,Transit,2016
+4853,1198.03,1,Transit,2016
+4854,328.52,1,Transit,2016
+4855,134.311,2,Transit,2016
+4856,426.088,2,Transit,2016
+4857,426.088,2,Transit,2023
+4858,1012.41,1,Transit,2016
+4859,568.751,1,Transit,2016
+4860,682.522,1,Transit,2016
+4861,576.503,1,Transit,2016
+4862,350.315,1,Transit,2014
+4863,961.468,1,Transit,2016
+4864,878.082,1,Transit,2016
+4865,801.479,1,Transit,2016
+4866,714.437,1,Transit,2016
+4867,460.188,1,Transit,2016
+4868,679.361,1,Transit,2016
+4869,548.364,1,Transit,2016
+4870,914.126,1,Transit,2016
+4871,304.889,1,Transit,2016
+4872,491.978,1,Transit,2016
+4873,208.369,1,Transit,2014
+4874,802.163,2,Transit,2016
+4875,802.163,2,Transit,2016
+4876,389.561,1,Transit,2016
+4877,259.639,1,Transit,2016
+4878,324.423,1,Transit,2016
+4879,188.158,1,Transit,2016
+4880,609.638,1,Transit,2016
+4881,1216.58,1,Transit,2016
+4882,467.568,1,Transit,2016
+4883,986.364,1,Transit,2016
+4884,545.063,1,Transit,2016
+4885,25.1496,1,Transit,2020
+4886,10.2295,1,Radial Velocity,2023
+4887,10.6194,5,Transit,2019
+4888,10.6194,5,Transit,2019
+4889,10.6194,5,Transit,2019
+4890,10.6194,5,Radial Velocity,2021
+4891,10.6194,5,Radial Velocity,2025
+4892,14.9861,2,Transit,2017
+4893,14.9861,2,Transit,2018
+4894,18.2276,1,Transit,2021
+4895,19.8782,3,Transit,2021
+4896,19.8782,3,Transit,2021
+4897,19.8782,3,Transit,2024
+4898,29.8424,1,Transit,2020
+4899,35.6917,4,Transit,2026
+4900,35.6917,4,Transit,2026
+4901,35.6917,4,Transit,2026
+4902,35.6917,4,Transit,2026
+4903,15.7606,1,Radial Velocity,2023
+4904,14.8846,1,Transit,2019
+4905,12.4814,1,Transit,2023
+4906,33.928,1,Imaging,2006
+4907,52.616,1,Transit,2020
+4908,26.4927,3,Transit,2019
+4909,26.4927,3,Transit,2019
+4910,26.4927,3,Transit,2023
+4911,32.4298,2,Transit,2022
+4912,32.4298,2,Transit,2022
+4913,17.6297,1,Radial Velocity,2019
+4914,6.86929,2,Transit,2019
+4915,6.86929,2,Transit,2022
+4916,21.9814,2,Transit,2020
+4917,21.9814,2,Transit,2020
+4918,80.4373,1,Transit,2020
+4922,773.409,1,Transit,2007
+4924,182.273,1,Transit,2017
+4925,170.696,1,Transit,2020
+4926,1000.0,1,Microlensing,2008
+4927,6890.0,1,Microlensing,2008
+4928,7700.0,1,Microlensing,2009
+4929,3300.0,1,Microlensing,2013
+4930,3040.0,1,Microlensing,2011
+4931,7050.0,1,Microlensing,2010
+4932,5690.0,1,Microlensing,2010
+4933,2800.0,1,Microlensing,2012
+4934,3500.0,1,Microlensing,2018
+4935,810.0,1,Microlensing,2013
+4936,6430.0,1,Microlensing,2015
+4937,2300.0,1,Microlensing,2012
+4938,7380.0,1,Microlensing,2016
+4939,7200.0,1,Microlensing,2014
+4940,4400.0,1,Microlensing,2018
+4941,7720.0,1,Microlensing,2012
+4942,7560.0,1,Microlensing,2013
+4943,5300.0,1,Microlensing,2017
+4944,7210.0,1,Microlensing,2017
+4945,6720.0,1,Microlensing,2014
+4946,850.0,1,Microlensing,2016
+4947,7100.0,1,Microlensing,2018
+4948,6500.0,1,Microlensing,2017
+4949,6800.0,1,Microlensing,2018
+4950,6930.0,1,Microlensing,2024
+4951,2700.0,1,Microlensing,2022
+4952,7900.0,1,Microlensing,2022
+4953,7490.0,1,Microlensing,2023
+4954,1840.0,1,Microlensing,2025
+4955,4250.0,1,Microlensing,2025
+4956,2000.0,1,Microlensing,2023
+4957,6530.0,1,Microlensing,2024
+4958,5100.0,1,Microlensing,2012
+4959,7120.0,1,Microlensing,2019
+4962,852.793,1,Radial Velocity,2024
+4963,821.918,1,Radial Velocity,2017
+4964,872.92,1,Radial Velocity,2014
+4965,914.221,1,Radial Velocity,2014
+4966,830.822,1,Radial Velocity,2016
+4967,218.121,1,Transit,2017
+4968,324.69865036,1,Transit,2020
+4969,190.422,1,Transit,2020
+4970,446.442,1,Transit,2020
+4971,647.595,1,Transit,2021
+4972,322.148,1,Transit,2021
+4973,786.485,1,Transit,2021
+4974,898.168,1,Transit,2021
+4975,1040.28,1,Transit,2021
+4976,1096.19,1,Transit,2021
+4977,356.391,1,Transit,2018
+4978,382.898,1,Transit,2022
+4979,592.891,1,Transit,2022
+4980,1074.95,1,Transit,2022
+4981,683.062,1,Transit,2022
+4982,521.233,1,Transit,2022
+4983,1093.69,1,Transit,2024
+4984,942.122,1,Transit,2024
+4985,743.972,1,Transit,2018
+4986,238.377,1,Transit,2024
+4987,497.376,1,Transit,2025
+4988,837.457,1,Transit,2025
+4989,437.855,1,Transit,2024
+4990,120.475,1,Transit,2025
+4991,183.078,1,Transit,2025
+4992,280.555,1,Transit,2019
+4993,306.779,1,Transit,2019
+4994,308.262,1,Transit,2019
+4995,428.976,1,Transit,2019
+4996,609.128,1,Transit,2019
+4997,515.818,2,Eclipse Timing Variations,2010
+4998,515.818,2,Eclipse Timing Variations,2010
+4999,820.877,1,Eclipse Timing Variations,2019
+5000,544.024,2,Eclipse Timing Variations,2011
+5001,544.024,2,Eclipse Timing Variations,2019
+5002,5800.0,1,Microlensing,2004
+5003,3200.0,1,Microlensing,2005
+5004,4100.0,1,Microlensing,2006
+5005,6600.0,1,Microlensing,2005
+5006,1510.0,2,Microlensing,2008
+5007,1510.0,2,Microlensing,2008
+5008,4000.0,1,Microlensing,2020
+5009,2760.0,1,Microlensing,2016
+5010,5900.0,1,Microlensing,2009
+5011,8100.0,1,Microlensing,2014
+5012,6800.0,1,Microlensing,2014
+5013,6100.0,1,Microlensing,2018
+5014,2570.0,1,Microlensing,2012
+5015,4380.0,1,Microlensing,2015
+5016,4019.0,2,Microlensing,2012
+5017,4019.0,2,Microlensing,2012
+5018,1760.0,1,Microlensing,2013
+5019,4970.0,1,Microlensing,2013
+5020,1300.0,1,Microlensing,2015
+5021,6700.0,1,Microlensing,2016
+5022,6320.0,1,Microlensing,2020
+5023,2600.0,1,Microlensing,2016
+5024,3040.0,1,Microlensing,2014
+5025,3900.0,1,Microlensing,2017
+5026,911.0,1,Microlensing,2014
+5027,3220.0,1,Microlensing,2019
+5028,6300.0,1,Microlensing,2017
+5029,6900.0,1,Microlensing,2018
+5030,3500.0,1,Microlensing,2015
+5031,3680.0,1,Microlensing,2024
+5032,7730.0,1,Microlensing,2022
+5033,2670.0,1,Microlensing,2016
+5034,6400.0,2,Microlensing,2018
+5035,6400.0,2,Microlensing,2018
+5036,7056.0,1,Microlensing,2016
+5037,8200.0,1,Microlensing,2016
+5038,1200.0,1,Microlensing,2016
+5039,3300.0,1,Microlensing,2016
+5040,3300.0,1,Microlensing,2025
+5041,4230.0,1,Microlensing,2019
+5042,6700.0,1,Microlensing,2019
+5043,7070.0,1,Microlensing,2020
+5044,4300.0,1,Microlensing,2025
+5045,6500.0,1,Microlensing,2017
+5046,3410.0,1,Microlensing,2017
+5047,3730.0,1,Microlensing,2019
+5048,8120.0,1,Microlensing,2022
+5049,6770.0,1,Microlensing,2017
+5050,3910.0,1,Microlensing,2017
+5052,3080.0,1,Microlensing,2018
+5053,5910.0,1,Microlensing,2024
+5054,6480.0,1,Microlensing,2024
+5055,4705.0,1,Microlensing,2018
+5056,7860.0,1,Microlensing,2024
+5057,5915.0,1,Microlensing,2018
+5058,5200.0,1,Microlensing,2020
+5059,7530.0,1,Microlensing,2024
+5060,5800.0,1,Microlensing,2018
+5061,3950.0,1,Microlensing,2020
+5062,6630.0,1,Microlensing,2024
+5063,5670.0,1,Microlensing,2020
+5064,7250.0,1,Microlensing,2021
+5066,6030.0,1,Microlensing,2024
+5067,7690.0,1,Microlensing,2024
+5068,3930.0,1,Microlensing,2020
+5069,860.0,1,Microlensing,2018
+5070,7490.0,1,Microlensing,2018
+5071,7290.0,1,Microlensing,2022
+5072,6400.0,1,Microlensing,2023
+5073,6540.0,1,Microlensing,2022
+5074,7700.0,1,Microlensing,2022
+5075,5600.0,1,Microlensing,2022
+5076,7000.0,1,Microlensing,2022
+5077,773.0,1,Microlensing,2020
+5078,7060.0,1,Microlensing,2021
+5079,5650.0,1,Microlensing,2019
+5080,7580.0,1,Microlensing,2020
+5081,3200.0,1,Microlensing,2019
+5082,4050.0,1,Microlensing,2022
+5083,6620.0,1,Microlensing,2022
+5084,6500.0,1,Microlensing,2021
+5085,6500.0,1,Microlensing,2022
+5086,7100.0,2,Microlensing,2019
+5087,7100.0,2,Microlensing,2019
+5088,5760.0,1,Microlensing,2022
+5089,5700.0,1,Microlensing,2022
+5090,7400.0,1,Microlensing,2021
+5091,1550.0,1,Microlensing,2022
+5092,2510.0,1,Microlensing,2020
+5093,5370.0,1,Microlensing,2022
+5094,6220.0,1,Microlensing,2021
+5095,7880.0,1,Microlensing,2022
+5096,7600.0,1,Microlensing,2020
+5097,6370.0,1,Microlensing,2023
+5098,5830.0,1,Microlensing,2021
+5099,6980.0,1,Microlensing,2021
+5100,5830.0,1,Microlensing,2022
+5101,4400.0,2,Microlensing,2022
+5102,4400.0,2,Microlensing,2022
+5103,5630.0,1,Microlensing,2023
+5104,3630.0,1,Microlensing,2021
+5105,980.0,1,Microlensing,2021
+5106,6800.0,1,Microlensing,2021
+5107,6070.0,1,Microlensing,2023
+5108,5900.0,1,Microlensing,2022
+5109,5600.0,1,Microlensing,2022
+5110,5120.0,1,Microlensing,2024
+5111,1344.97,1,Transit,2004
+5112,1068.33,1,Transit,2004
+5113,566.459,1,Transit,2004
+5114,2012.62,1,Transit,2004
+5115,2501.75,1,Transit,2007
+5116,1515.26,1,Transit,2007
+5117,282.83913869,1,Transit,2002
+5118,1627.63,1,Transit,2008
+5119,136.16559197,1,Imaging,2006
+5120,113.064,2,Imaging,2018
+5121,113.064,2,Imaging,2019
+5122,1033.16,1,Transit,2012
+5123,343.863,1,Transit,2013
+5124,747.959,1,Transit,2013
+5125,504.93312058,1,Pulsar Timing,2017
+5126,600.0,3,Pulsar Timing,1994
+5127,600.0,3,Pulsar Timing,1992
+5128,600.0,3,Pulsar Timing,1992
+5131,230.0,1,Pulsar Timing,2017
+5132,47.0648,1,Imaging,2023
+5133,180.64,1,Radial Velocity,2012
+5134,182.714,2,Radial Velocity,2012
+5135,182.714,2,Radial Velocity,2016
+5136,1.30119,2,Radial Velocity,2016
+5137,1.30119,2,Radial Velocity,2025
+5138,185.615,1,Transit,2010
+5139,559.068,1,Transit,2019
+5140,181.374,1,Transit,2011
+5141,735.601,1,Transit,2017
+5142,329.036,1,Transit,2017
+5143,367.658,1,Transit,2017
+5144,100.848,1,Transit,2017
+5145,705.981,1,Transit,2019
+5146,281.498,1,Transit,2019
+5147,213.771,1,Transit,2019
+5148,136.65,1,Imaging,2013
+5149,143.59,1,Imaging,2013
+5150,21.1916,1,Eclipse Timing Variations,2012
+5151,3.37454,1,Radial Velocity,2017
+5152,46.4488,1,Transit,2025
+5153,11.5094,1,Imaging,2010
+5154,11.2103,1,Radial Velocity,2022
+5156,112.31721584,1,Imaging,2010
+5157,8500.0,1,Transit,2006
+5158,8500.0,1,Transit,2006
+5159,121.402,1,Radial Velocity,2017
+5160,505.0,1,Microlensing,2018
+5161,189.875,2,Transit,2024
+5162,189.875,2,Radial Velocity,2024
+5163,250.956,1,Transit,2021
+5164,306.063,1,Transit,2020
+5165,324.448,1,Transit,2024
+5166,505.703,1,Transit,2021
+5167,285.584,2,Transit,2023
+5168,285.584,2,Transit,2023
+5169,555.546,1,Transit,2024
+5170,93.7345,1,Transit,2024
+5171,217.011,2,Transit,2025
+5172,217.011,2,Transit,2025
+5173,90.5369,1,Transit,2024
+5174,253.385,1,Transit,2024
+5175,122.386,1,Transit,2025
+5176,52.62,1,Transit,2025
+5177,129.804,2,Transit,2023
+5178,129.804,2,Radial Velocity,2023
+5179,88.4343,1,Transit,2021
+5180,82.1733,2,Transit,2021
+5181,82.1733,2,Radial Velocity,2021
+5182,68.0726,2,Transit,2022
+5183,68.0726,2,Transit,2022
+5184,61.4592,1,Transit,2022
+5185,25.559,1,Transit,2026
+5186,281.314,1,Transit,2022
+5187,167.598,3,Transit,2025
+5188,167.598,3,Radial Velocity,2025
+5189,167.598,3,Radial Velocity,2025
+5190,58.2609,2,Transit,2020
+5191,58.2609,2,Transit,2020
+5192,114.048,1,Transit,2024
+5193,84.5362,6,Transit,2022
+5194,84.5362,6,Transit,2022
+5195,84.5362,6,Transit,2022
+5196,84.5362,6,Transit,2022
+5197,84.5362,6,Transit,2022
+5198,84.5362,6,Transit,2022
+5199,132.353,1,Transit,2024
+5200,94.6375,1,Transit,2024
+5201,72.0238,1,Transit,2024
+5202,302.819,1,Transit,2022
+5203,58.5946,1,Transit,2024
+5204,149.667,1,Transit,2023
+5205,248.427,1,Transit,2024
+5206,37.8871,1,Transit,2021
+5207,64.9943,4,Radial Velocity,2025
+5208,64.9943,4,Radial Velocity,2025
+5209,64.9943,4,Radial Velocity,2025
+5210,64.9943,4,Transit,2021
+5211,62.118,1,Transit,2020
+5212,138.411,1,Transit,2023
+5213,37.3312,2,Transit,2024
+5214,37.3312,2,Transit,2024
+5215,100.641,1,Transit,2022
+5216,143.138,1,Transit,2021
+5217,27.6227,1,Transit,2021
+5218,64.5978,5,Transit,2021
+5219,39.6345,1,Transit,2020
+5220,70.7145,2,Transit,2022
+5221,70.7145,2,Transit,2022
+5222,43.1865,1,Transit,2026
+5223,102.551,1,Transit,2024
+5224,169.422,4,Transit,2022
+5225,169.422,4,Transit,2022
+5226,169.422,4,Transit,2022
+5227,169.422,4,Transit,2022
+5228,168.735,1,Transit,2024
+5229,139.49,1,Transit,2024
+5230,111.059,3,Transit,2019
+5231,111.059,3,Transit,2019
+5232,111.059,3,Transit,2020
+5233,118.106,1,Transit,2021
+5234,73.5977,3,Transit,2021
+5235,73.5977,3,Transit,2021
+5236,73.5977,3,Transit,2022
+5237,36.0118,3,Transit,2020
+5238,36.0118,3,Transit,2020
+5239,36.0118,3,Transit Timing Variations,2025
+5240,109.557,1,Transit,2022
+5241,172.138,1,Transit,2024
+5242,137.572,2,Transit,2022
+5243,137.572,2,Radial Velocity,2022
+5244,177.118,1,Transit,2024
+5245,75.5759,1,Transit,2021
+5246,107.055,1,Transit,2024
+5247,68.4727,1,Transit,2024
+5248,114.865,2,Transit,2022
+5249,114.865,2,Radial Velocity,2022
+5250,332.648,2,Transit,2024
+5251,332.648,2,Radial Velocity,2024
+5252,388.227,1,Transit,2024
+5253,323.265,1,Transit,2021
+5254,319.036,1,Transit,2021
+5255,90.8693,1,Transit,2024
+5256,163.678,1,Transit,2020
+5257,200.492,1,Transit,2021
+5258,399.017,2,Transit,2020
+5259,399.017,2,Radial Velocity,2023
+5260,115.45,2,Transit,2025
+5261,115.45,2,Transit,2025
+5262,147.476,2,Transit,2024
+5263,147.476,2,Transit,2024
+5264,146.858,2,Transit,2024
+5265,146.858,2,Radial Velocity,2024
+5266,42.4061,1,Transit,2023
+5267,139.484,2,Transit,2023
+5268,139.484,2,Transit Timing Variations,2024
+5269,72.7512,2,Radial Velocity,2024
+5270,72.7512,2,Transit,2024
+5271,32.4778,1,Transit,2022
+5272,55.0135,1,Transit,2023
+5273,201.918,1,Transit,2023
+5274,155.141,2,Transit,2022
+5275,155.141,2,Radial Velocity,2025
+5276,148.925,1,Transit,2021
+5277,103.297,1,Transit,2024
+5278,110.513,2,Transit,2025
+5279,110.513,2,Transit,2025
+5280,230.306,1,Transit,2024
+5281,41.1659,1,Transit,2022
+5282,85.8034,1,Transit,2024
+5283,125.463,1,Transit,2021
+5284,73.3345,1,Transit,2024
+5285,22.4467,2,Transit,2024
+5286,22.4467,2,Transit,2024
+5287,91.9362,1,Transit,2024
+5288,30.5212,1,Transit,2022
+5289,78.7415,2,Transit,2025
+5290,78.7415,2,Transit,2025
+5291,37.4418,1,Transit,2024
+5292,24.7399,2,Transit,2022
+5293,24.7399,2,Transit,2022
+5294,51.9503,2,Transit,2023
+5295,51.9503,2,Transit,2023
+5296,121.84,2,Transit,2024
+5297,121.84,2,Radial Velocity,2025
+5298,152.892,1,Transit,2021
+5299,336.267,1,Transit,2019
+5300,247.054,1,Transit,2022
+5301,225.888,1,Transit,2021
+5302,355.683,1,Transit,2020
+5303,336.608,1,Transit,2021
+5304,411.719,1,Transit,2019
+5305,66.0929,1,Transit,2024
+5306,35.2736,2,Transit,2021
+5308,69.835,1,Transit,2025
+5309,122.494,1,Transit,2024
+5310,111.276,2,Radial Velocity,2023
+5311,111.276,2,Transit,2024
+5312,168.067,2,Transit,2022
+5313,168.067,2,Transit,2022
+5314,37.2209,1,Transit,2023
+5315,51.1884,1,Transit,2024
+5316,37.6153,1,Transit,2021
+5317,407.84,1,Transit,2020
+5318,111.445,1,Transit,2024
+5319,30.7947,1,Transit,2022
+5320,124.68,2,Transit,2023
+5321,124.68,2,Radial Velocity,2023
+5322,45.1309,1,Transit,2022
+5323,64.9172,1,Transit,2022
+5324,81.2271,1,Transit,2022
+5325,104.158,1,Transit,2024
+5326,342.831,1,Transit,2019
+5327,100.727,1,Transit,2024
+5328,60.798,1,Transit,2020
+5329,88.9482,2,Transit,2023
+5330,88.9482,2,Radial Velocity,2023
+5331,70.9819,1,Transit,2024
+5332,72.8871,1,Transit,2024
+5333,41.2758,1,Transit,2025
+5334,114.39,1,Transit,2024
+5335,99.5561,3,Transit,2021
+5336,99.5561,3,Transit,2021
+5337,99.5561,3,Transit,2021
+5338,113.335,1,Transit,2024
+5339,226.671,1,Transit,2024
+5340,96.6215,1,Transit,2024
+5341,40.0654,1,Transit,2022
+5342,157.597,1,Transit,2024
+5343,97.7562,1,Transit,2024
+5344,53.974,2,Transit,2021
+5345,149.234,1,Transit,2024
+5346,44.647,1,Transit,2024
+5347,79.7665,1,Transit,2024
+5348,62.699,6,Transit,2021
+5349,62.699,6,Transit,2021
+5350,62.699,6,Transit,2021
+5351,62.699,6,Transit,2021
+5352,62.699,6,Transit,2021
+5353,62.699,6,Transit,2021
+5354,95.2649,2,Transit,2024
+5355,95.2649,2,Transit,2024
+5356,229.067,1,Transit,2021
+5357,155.791,1,Transit,2024
+5358,113.181,2,Transit,2024
+5359,113.181,2,Transit,2024
+5360,62.1274,1,Transit,2024
+5361,30.6796,1,Transit,2023
+5362,119.24,2,Transit,2025
+5363,119.24,2,Transit,2025
+5364,55.5211,1,Transit,2024
+5365,42.5775,1,Transit,2021
+5366,96.2338,1,Transit,2023
+5367,128.23,1,Transit,2023
+5368,248.504,1,Transit,2022
+5369,71.6456,1,Transit,2024
+5370,59.4314,1,Transit,2024
+5371,191.649,2,Transit,2024
+5372,191.649,2,Transit,2024
+5373,223.465,1,Transit,2021
+5374,47.2496,1,Transit,2025
+5375,165.105,1,Transit,2023
+5376,176.833,1,Transit,2024
+5377,224.385,1,Transit,2023
+5378,45.864,1,Transit,2022
+5379,115.369,1,Transit,2024
+5380,79.6682,1,Transit,2024
+5381,128.438,1,Transit,2020
+5382,415.135,1,Transit,2023
+5383,23.7262,1,Transit,2023
+5384,102.27,2,Transit,2023
+5385,102.27,2,Transit Timing Variations,2023
+5386,515.603,1,Transit,2024
+5387,175.713,2,Transit,2023
+5388,175.713,2,Transit,2023
+5389,328.475,1,Transit,2025
+5390,113.825,2,Transit,2021
+5391,113.825,2,Transit Timing Variations,2025
+5392,109.19,1,Transit,2023
+5393,47.3444,2,Transit,2023
+5394,47.3444,2,Transit Timing Variations,2025
+5395,27.9956,1,Transit,2023
+5396,198.007,1,Transit,2024
+5397,335.985,1,Transit,2022
+5398,276.105,1,Transit,2025
+5399,289.668,1,Transit,2022
+5400,116.567,1,Transit,2022
+5401,47.7465,1,Transit,2022
+5402,52.9328,1,Transit,2024
+5403,41.9091,4,Transit,2021
+5404,41.9091,4,Transit,2021
+5405,41.9091,4,Transit,2021
+5406,41.9091,4,Transit,2025
+5407,62.3446,1,Transit,2022
+5408,114.549,1,Transit,2023
+5409,126.46,1,Transit,2024
+5410,82.7982,2,Radial Velocity,2025
+5411,82.7982,2,Transit,2025
+5412,50.0248,1,Transit,2026
+5413,41.9176,2,Transit,2023
+5414,41.9176,2,Transit,2023
+5415,48.4809,2,Transit,2023
+5416,48.4809,2,Transit,2023
+5417,236.705,1,Transit,2024
+5418,262.041,1,Transit,2021
+5419,32.1755,1,Transit,2024
+5420,36.578,1,Transit,2024
+5421,75.1973,1,Transit,2026
+5422,22.6202,2,Transit,2023
+5423,22.6202,2,Transit,2023
+5424,33.3631,1,Transit,2022
+5425,77.682,3,Transit,2023
+5426,77.682,3,Radial Velocity,2025
+5427,77.682,3,Radial Velocity,2025
+5428,224.731,1,Transit,2023
+5429,303.006,1,Transit,2023
+5430,296.46,1,Transit,2023
+5431,198.473,1,Transit,2022
+5432,177.945,2,Transit,2019
+5433,177.945,2,Transit,2019
+5434,351.487,1,Transit,2025
+5435,116.685,1,Transit,2022
+5436,788.317,1,Transit,2022
+5437,337.064,1,Transit,2022
+5438,19.5711,1,Transit,2023
+5439,259.947,1,Transit,2022
+5440,90.7402,1,Transit,2021
+5441,235.933,2,Transit,2021
+5442,235.933,2,Transit Timing Variations,2021
+5443,373.345,1,Transit,2022
+5444,70.2932,1,Transit,2024
+5445,355.59,1,Transit,2022
+5446,57.7911,1,Transit,2021
+5447,101.251,1,Transit,2022
+5448,51.6004,1,Transit,2024
+5449,22.55,3,Transit,2025
+5450,22.55,3,Transit,2025
+5451,22.55,3,Transit,2025
+5452,48.876,1,Transit,2024
+5453,42.409,1,Transit,2021
+5454,126.279,2,Transit,2024
+5455,126.279,2,Radial Velocity,2024
+5456,59.861,2,Transit,2025
+5457,59.861,2,Transit,2025
+5458,231.782,1,Transit,2025
+5459,536.046,1,Transit,2022
+5460,313.996,1,Transit,2023
+5461,81.6541,2,Transit,2025
+5462,81.6541,2,Transit,2025
+5463,437.484,1,Transit,2025
+5464,219.614,1,Transit,2023
+5465,210.915,1,Transit,2024
+5466,38.0749,1,Transit,2020
+5467,508.686,1,Transit,2023
+5468,134.655,1,Transit,2024
+5469,211.247,1,Transit,2024
+5470,80.5407,2,Transit,2024
+5471,80.5407,2,Radial Velocity,2024
+5472,434.92,1,Transit,2025
+5473,191.51,1,Transit,2024
+5474,55.419,1,Transit,2021
+5475,92.4366,1,Transit,2025
+5476,59.5362,1,Transit,2022
+5477,557.733,1,Transit,2023
+5478,435.174,1,Transit,2024
+5479,327.927,1,Transit,2022
+5480,28.5147,1,Transit,2022
+5481,22.0337,1,Transit,2023
+5482,23.9258,1,Transit,2023
+5483,48.582,1,Transit,2022
+5484,148.987,1,Transit,2024
+5485,156.786,1,Transit,2025
+5486,112.958,2,Transit,2024
+5487,112.958,2,Radial Velocity,2024
+5488,36.6113,1,Transit,2023
+5489,397.953,1,Transit,2024
+5490,285.289,1,Transit,2023
+5491,275.265,1,Transit,2023
+5492,99.523,1,Transit,2021
+5493,438.842,1,Transit,2023
+5494,395.398,2,Transit,2023
+5495,395.398,2,Transit,2023
+5496,296.271,1,Transit,2024
+5497,184.986,2,Transit,2024
+5498,184.986,2,Radial Velocity,2024
+5499,107.118,1,Transit,2022
+5500,504.775,1,Transit,2022
+5501,76.9028,1,Transit,2021
+5502,361.857,1,Transit,2022
+5503,379.253,1,Transit,2024
+5504,566.189,1,Transit,2023
+5505,373.675,1,Transit,2023
+5506,200.273,1,Transit,2023
+5507,20.1852,1,Transit,2024
+5508,114.495,2,Transit,2021
+5509,114.495,2,Transit,2021
+5510,43.932,1,Transit,2023
+5511,344.045,1,Transit,2023
+5512,393.443,1,Transit,2022
+5513,57.0225,1,Transit,2021
+5514,22.4793,3,Transit,2019
+5515,22.4793,3,Transit,2019
+5516,22.4793,3,Transit,2019
+5517,597.873,1,Transit,2024
+5518,588.368,1,Transit,2025
+5519,78.4525,1,Transit,2024
+5520,64.6692,1,Transit,2022
+5521,350.343,1,Transit,2023
+5522,494.818,1,Transit,2023
+5523,312.674,1,Transit,2023
+5524,82.7013,1,Transit,2025
+5525,460.995,1,Transit,2023
+5526,59.2293,2,Transit,2024
+5527,59.2293,2,Transit,2024
+5528,225.744,1,Transit,2025
+5529,413.673,1,Transit,2025
+5530,163.996,1,Transit,2025
+5532,527.789,1,Transit,2024
+5533,563.149,1,Transit,2025
+5534,195.795,1,Transit,2025
+5535,542.026,1,Transit,2025
+5536,389.916,1,Transit,2023
+5537,485.219,1,Transit,2024
+5538,113.048,1,Transit,2023
+5539,221.673,1,Transit,2025
+5540,567.678,1,Transit,2025
+5541,72.811,1,Transit,2023
+5542,300.141,1,Transit,2024
+5543,200.5,1,Transit,2025
+5544,284.388,1,Transit,2024
+5545,222.852,1,Transit,2023
+5546,285.895,1,Transit,2024
+5547,352.269,1,Transit,2025
+5548,217.193,1,Transit,2022
+5549,78.7577,1,Transit,2024
+5550,366.987,1,Transit,2021
+5551,277.899,1,Transit,2023
+5552,597.774,1,Transit,2025
+5553,420.123,1,Transit,2025
+5554,154.715,1,Transit,2025
+5555,96.7224,1,Transit,2025
+5556,645.294,1,Transit,2025
+5558,197.906,1,Transit,2024
+5559,226.63,1,Transit,2025
+5560,130.091,1,Transit,2022
+5561,404.211,1,Transit,2025
+5562,396.378,1,Transit,2023
+5563,176.436,1,Transit,2022
+5564,112.71,1,Transit,2022
+5565,396.213,3,Transit,2026
+5566,396.213,3,Radial Velocity,2026
+5567,396.213,3,Radial Velocity,2026
+5568,181.139,1,Transit,2022
+5569,79.7634,1,Transit,2023
+5570,421.745,1,Transit,2023
+5571,558.141,1,Transit,2023
+5572,311.705,1,Transit,2025
+5573,314.443,1,Transit,2025
+5574,249.02,1,Transit,2026
+5575,493.77,1,Transit,2025
+5576,43.1448,1,Transit,2022
+5577,417.365,1,Transit,2024
+5578,465.992,1,Transit,2023
+5579,604.591,1,Transit,2024
+5580,516.087,1,Transit,2023
+5581,486.721,1,Transit,2025
+5582,108.883,1,Transit,2023
+5583,177.504,4,Transit,2023
+5584,177.504,4,Transit,2023
+5585,177.504,4,Transit,2023
+5586,177.504,4,Radial Velocity,2023
+5587,31.0597,2,Transit,2024
+5588,31.0597,2,Transit,2024
+5589,301.676,1,Transit,2023
+5590,62.7792,3,Transit,2022
+5591,62.7792,3,Transit,2022
+5592,319.632,1,Transit,2023
+5593,334.993,1,Transit,2022
+5594,205.387,1,Transit,2023
+5595,423.84,1,Transit,2024
+5596,240.737,1,Transit,2025
+5597,69.3649,1,Transit,2023
+5598,189.011,1,Transit,2023
+5599,74.7969,2,Transit,2020
+5600,74.7969,2,Transit,2020
+5601,346.881,1,Transit,2025
+5602,108.932,1,Transit,2023
+5603,32.5686,3,Transit,2021
+5604,32.5686,3,Radial Velocity,2021
+5605,32.5686,3,Transit,2021
+5606,717.128,1,Transit,2022
+5607,22.5455,2,Transit,2024
+5608,22.5455,2,Transit,2026
+5609,61.5204,2,Transit,2023
+5610,61.5204,2,Transit,2023
+5611,43.9662,1,Transit,2025
+5612,455.82,1,Transit,2023
+5613,645.158,1,Transit,2024
+5614,261.834,1,Transit,2023
+5615,30.0346,1,Transit,2024
+5616,57.3973,1,Transit,2023
+5617,56.0739,1,Transit,2024
+5618,173.117,1,Transit,2023
+5619,121.139,1,Transit,2025
+5620,80.6532,1,Transit,2022
+5621,479.145,1,Transit,2025
+5622,132.214,2,Transit,2026
+5623,132.214,2,Transit,2024
+5624,342.605,3,Transit,2024
+5625,342.605,3,Transit,2024
+5626,342.605,3,Transit Timing Variations,2024
+5627,178.26,1,Transit,2025
+5628,123.739,3,Transit,2020
+5629,123.739,3,Transit,2020
+5630,123.739,3,Transit,2020
+5631,193.499,1,Transit,2024
+5632,18.1037,1,Transit,2024
+5633,28.384,1,Transit,2026
+5634,215.986,1,Transit,2023
+5635,31.6354,1,Transit,2024
+5636,339.605,2,Transit,2023
+5637,339.605,2,Transit Timing Variations,2024
+5638,383.846,1,Transit,2023
+5639,216.056,2,Transit,2023
+5640,216.056,2,Transit,2023
+5641,63.0637,1,Transit,2024
+5642,225.643,1,Transit,2023
+5643,95.2016,1,Transit,2024
+5644,168.248,1,Transit,2024
+5645,86.3501,1,Transit,2023
+5646,154.749,1,Transit,2025
+5647,68.192,3,Transit,2021
+5648,130.46,1,Transit,2023
+5649,563.068,1,Transit,2025
+5650,492.888,1,Transit,2025
+5651,328.802,1,Transit,2023
+5652,543.008,1,Transit,2025
+5653,54.5306,1,Transit,2024
+5654,179.366,1,Transit,2020
+5655,80.1423,1,Transit,2023
+5656,299.89,1,Transit,2024
+5657,345.659,1,Transit,2025
+5658,213.073,1,Transit,2025
+5659,329.304,1,Transit,2024
+5660,47.3924,4,Transit,2022
+5661,47.3924,4,Radial Velocity,2022
+5662,47.3924,4,Radial Velocity,2022
+5663,47.3924,4,Radial Velocity,2022
+5664,207.891,1,Transit,2024
+5665,203.352,1,Transit,2026
+5666,204.429,1,Transit,2025
+5667,82.857,1,Transit,2024
+5668,43.1406,1,Transit,2024
+5669,130.919,1,Transit,2025
+5670,392.259,1,Transit,2024
+5671,67.3975,1,Transit,2025
+5672,160.414,2,Transit,2023
+5673,160.414,2,Transit,2023
+5675,390.484,1,Transit,2022
+5676,197.243,1,Transit,2022
+5677,480.155,1,Transit,2025
+5678,115.557,1,Transit,2021
+5679,86.4493,1,Transit,2023
+5680,60.9425,1,Transit,2025
+5681,302.086,1,Transit,2025
+5682,377.483,1,Transit,2024
+5683,609.388,1,Transit,2024
+5684,290.646,1,Transit,2022
+5685,377.054,1,Transit,2025
+5686,337.095,1,Transit,2026
+5687,162.229,1,Transit,2023
+5688,148.762,1,Transit,2021
+5689,162.51,1,Transit,2025
+5690,629.161,1,Transit,2024
+5691,61.171,1,Transit,2024
+5692,135.047,1,Transit,2021
+5693,476.899,1,Transit,2025
+5694,532.629,1,Transit,2025
+5695,138.367,1,Transit,2023
+5696,188.336,1,Transit,2026
+5697,277.419,1,Transit,2025
+5698,394.486,1,Transit,2025
+5699,18.5226,1,Transit,2024
+5700,130.855,2,Transit,2022
+5701,130.855,2,Transit,2023
+5702,14.0022,1,Transit,2020
+5703,346.141,1,Transit,2026
+5704,41.1166,2,Transit,2022
+5705,41.1166,2,Radial Velocity,2023
+5706,45.0907,2,Transit,2025
+5707,45.0907,2,Transit,2025
+5708,348.849,1,Transit,2022
+5709,186.562,1,Transit,2025
+5710,402.63,1,Transit,2021
+5711,233.266,1,Transit,2021
+5712,597.026,1,Transit,2025
+5713,85.799,4,Transit,2020
+5714,85.799,4,Transit,2020
+5715,85.799,4,Transit,2020
+5716,85.799,4,Transit,2020
+5717,390.415,1,Transit,2024
+5718,306.144,1,Transit,2024
+5719,199.581,1,Transit,2020
+5720,165.393,1,Transit,2023
+5721,226.318,1,Transit,2024
+5722,89.637,1,Transit,2023
+5723,40.8668,1,Transit,2024
+5724,39.4122,1,Transit,2025
+5725,35.8256,1,Transit,2024
+5726,108.848,1,Transit,2024
+5727,54.7045,1,Transit,2025
+5728,32.5102,1,Transit,2026
+5729,92.3604,1,Transit,2025
+5730,192.475,1,Transit,2025
+5731,97.614,2,Transit,2026
+5732,97.614,2,Transit,2026
+5733,20.4581,4,Radial Velocity,2026
+5734,20.4581,4,Transit,2016
+5735,20.4581,4,Radial Velocity,2026
+5736,20.4581,4,Radial Velocity,2026
+5737,156.53,1,Transit,2025
+5738,27.8123,2,Transit,2024
+5739,27.8123,2,Transit,2025
+5740,42.9052,1,Transit,2025
+5741,84.0126,1,Transit,2023
+5742,80.7542,1,Transit,2025
+5743,416.104,1,Transit,2025
+5744,199.724,1,Transit,2026
+5745,114.035,1,Transit,2026
+5746,75.7664,1,Transit,2025
+5747,32.0266,1,Transit,2024
+5748,23.1008,1,Transit,2024
+5749,364.715,1,Transit,2024
+5750,603.119,1,Transit,2024
+5751,117.992,1,Transit,2024
+5752,179.147,1,Transit,2025
+5753,72.4731,2,Transit,2025
+5754,72.4731,2,Radial Velocity,2025
+5755,79.407,2,Transit,2024
+5756,79.407,2,Transit,2024
+5757,31.4566,1,Transit,2024
+5758,151.738,2,Transit,2025
+5759,151.738,2,Transit,2025
+5760,220.882,1,Transit,2024
+5761,360.408,1,Transit,2023
+5762,33.0231,1,Transit,2022
+5763,123.297,1,Transit,2023
+5764,133.122,1,Transit,2025
+5765,20.3167,1,Transit,2024
+5766,178.68,1,Transit,2021
+5767,152.219,1,Transit,2025
+5768,20.5488,1,Transit,2025
+5769,139.042,1,Transit,2025
+5770,171.319,1,Transit,2024
+5771,341.997,1,Transit,2021
+5772,634.712,1,Transit,2025
+5773,386.879,1,Transit,2025
+5774,38.6057,1,Transit,2025
+5775,57.7553,1,Transit,2024
+5776,320.527,1,Transit,2025
+5777,64.2308,3,Transit,2024
+5778,64.2308,3,Transit,2024
+5779,64.2308,3,Transit,2024
+5780,212.128,1,Transit,2024
+5781,142.867,1,Transit,2023
+5782,312.903,1,Transit,2026
+5783,282.536,2,Transit,2025
+5784,282.536,2,Radial Velocity,2025
+5785,18.8873,1,Transit,2026
+5786,66.9071,1,Transit,2023
+5787,46.0851,1,Transit,2021
+5788,141.812,1,Transit,2020
+5789,83.1548,1,Transit,2021
+5790,73.8131,1,Transit,2025
+5791,31.1265,4,Transit,2020
+5792,31.1265,4,Transit,2020
+5793,31.1265,4,Transit,2020
+5794,31.1265,4,Transit,2023
+5795,184.12,1,Transit,2026
+5796,439.52,1,Transit,2025
+5797,58.6212,3,Transit,2022
+5798,58.6212,3,Transit,2022
+5799,58.6212,3,Transit,2022
+5800,126.126,1,Transit,2025
+5801,42.4048,1,Transit,2023
+5802,35.4153,1,Transit,2025
+5803,75.2092,1,Transit,2023
+5804,66.7902,1,Transit,2026
+5805,249.006,3,Transit,2025
+5806,249.006,3,Transit,2025
+5807,249.006,3,Transit,2025
+5808,86.1759,2,Transit,2025
+5809,86.1759,2,Radial Velocity,2025
+5810,60.3418,1,Transit,2024
+5811,98.4458,1,Transit,2024
+5812,95.1274,2,Transit,2020
+5813,95.1274,2,Transit,2020
+5814,25.2788,2,Transit,2024
+5815,25.2788,2,Radial Velocity,2025
+5816,27.1701,2,Transit,2020
+5817,27.1701,2,Transit,2020
+5818,161.743,1,Transit,2023
+5819,52.5122,1,Transit,2024
+5820,64.5997,1,Transit,2023
+5821,263.145,1,Transit,2020
+5822,59.7117,2,Transit,2024
+5823,59.7117,2,Transit,2024
+5824,63.9262,1,Transit,2020
+5825,41.7148,1,Transit,2022
+5826,27.5024,2,Transit,2023
+5827,27.5024,2,Transit,2021
+5828,142.488,1,Transit,2020
+5829,225.734,1,Transit,2020
+5830,250.489,1,Transit,2023
+5831,68.0473,1,Transit,2024
+5832,60.6679,2,Transit,2025
+5833,60.6679,2,Transit,2024
+5834,340.543,1,Transit,2020
+5835,46.0891,2,Transit,2023
+5836,46.0891,2,Transit,2023
+5837,158.649,1,Transit,2020
+5838,312.529,1,Transit,2024
+5839,175.748,1,Transit,2023
+5840,26.1072,1,Transit,2025
+5841,65.1769,1,Transit,2023
+5842,152.601,2,Transit,2020
+5843,152.601,2,Transit,2020
+5844,238.768,1,Transit,2020
+5845,77.2554,2,Transit,2022
+5846,77.2554,2,Radial Velocity,2022
+5847,12.42988881,7,Transit,2016
+5848,12.42988881,7,Transit,2016
+5849,12.42988881,7,Transit,2016
+5850,12.42988881,7,Transit,2017
+5851,12.42988881,7,Transit,2017
+5852,12.42988881,7,Transit,2017
+5853,12.42988881,7,Transit,2017
+5854,613.422,1,Radial Velocity,2021
+5855,672.41,2,Radial Velocity,2014
+5856,672.41,2,Radial Velocity,2014
+5857,15.4744,1,Radial Velocity,2022
+5858,490.61,1,Radial Velocity,2018
+5859,477.516,1,Radial Velocity,2016
+5860,464.128,1,Radial Velocity,2017
+5861,94.6177,2,Imaging,2020
+5862,94.6177,2,Imaging,2020
+5863,3.83078,3,Radial Velocity,2019
+5864,3.83078,3,Radial Velocity,2019
+5865,3.83078,3,Radial Velocity,2024
+5866,159.658,1,Transit,2004
+5867,215.32,1,Transit,2006
+5868,231.337,1,Transit,2007
+5869,515.98,1,Transit,2007
+5870,360.313,1,Transit,2011
+5871,52.5829,1,Imaging,2024
+5872,39.9089,1,Imaging,2024
+5873,6300.0,1,Microlensing,2018
+5874,144.019,1,Imaging,2008
+5875,140.635,1,Imaging,2019
+5876,137.901,1,Imaging,2019
+5879,1195.98,1,Pulsation Timing Variations,2007
+5880,108.199,4,Transit,2019
+5881,108.199,4,Transit,2019
+5882,108.199,4,Transit,2019
+5883,108.199,4,Transit,2019
+5885,130.111,1,Radial Velocity,2016
+5886,12.7,1,Imaging,2015
+5887,393.072,1,Transit,2007
+5888,140.998,1,Transit,2008
+5889,364.411,1,Transit,2014
+5890,201.224,1,Transit,2014
+5891,535.689,1,Transit,2025
+5892,375.647,1,Transit,2014
+5893,185.932,1,Transit,2014
+5894,169.272,1,Transit,2017
+5895,352.181,1,Transit,2014
+5896,64.7414,2,Transit,2017
+5897,64.7414,2,Radial Velocity,2020
+5898,258.777,1,Transit,2020
+5899,124.73,1,Transit,2008
+5900,274.96,1,Transit,2021
+5901,435.156,1,Transit,2016
+5902,523.337,1,Transit,2016
+5903,559.243,1,Transit,2025
+5904,157.963,1,Transit,2014
+5905,376.658,1,Transit,2016
+5906,302.448,1,Transit,2016
+5907,427.246,1,Transit,2008
+5908,381.174,1,Transit,2016
+5909,269.898,1,Transit,2016
+5910,197.996,1,Transit,2016
+5911,448.637,1,Transit,2016
+5912,216.526,2,Transit,2016
+5913,216.526,2,Transit Timing Variations,2019
+5914,159.507,1,Transit,2016
+5915,301.462,1,Transit,2016
+5916,227.537,1,Transit,2009
+5917,172.256,1,Transit,2016
+5918,200.075,1,Transit,2016
+5919,122.91,3,Transit,2016
+5920,122.91,3,Transit,2022
+5921,122.91,3,Radial Velocity,2024
+5922,559.084,1,Transit,2016
+5923,298.214,1,Transit,2015
+5924,275.587,1,Transit,2016
+5925,414.234,1,Transit,2016
+5926,212.472,1,Transit,2016
+5927,161.997,1,Transit,2008
+5928,117.598,1,Transit,2016
+5929,516.543,1,Transit,2016
+5930,730.933,1,Transit,2016
+5931,355.513,1,Transit,2018
+5932,91.299,1,Transit,2018
+5933,436.098,1,Transit,2018
+5934,246.353,2,Transit,2020
+5935,246.353,2,Radial Velocity,2020
+5936,211.73,1,Transit,2025
+5937,282.091,1,Transit,2009
+5938,527.995,1,Transit,2020
+5939,453.099,1,Transit,2017
+5940,610.176,1,Transit,2017
+5941,215.501,1,Transit,2025
+5942,399.63,1,Transit,2025
+5943,122.066,1,Transit,2017
+5944,334.037,1,Transit,2016
+5945,524.993,1,Transit,2018
+5946,715.383,1,Transit,2018
+5947,194.134,1,Transit,2009
+5948,288.326,1,Transit,2018
+5949,343.08,1,Transit,2018
+5950,310.841,1,Transit,2018
+5951,261.386,1,Transit,2018
+5952,327.506,1,Transit,2018
+5953,602.236,1,Transit,2018
+5954,114.173,1,Transit,2019
+5955,423.552,1,Transit,2017
+5956,303.941,1,Transit,2018
+5957,627.066,1,Transit,2019
+5958,405.908,1,Transit,2009
+5959,305.603,1,Transit,2018
+5960,757.84,1,Transit,2019
+5961,538.11,1,Transit,2018
+5962,232.98,1,Transit,2018
+5963,410.149,1,Transit,2018
+5964,539.36,1,Transit,2019
+5965,568.42,1,Transit,2020
+5966,176.818,1,Transit,2019
+5967,427.678,1,Transit,2019
+5968,123.483,2,Transit,2009
+5969,123.483,2,Transit Timing Variations,2019
+5970,253.985,1,Transit,2019
+5971,437.495,1,Transit,2019
+5972,327.602,1,Transit,2019
+5973,325.377,1,Transit,2019
+5974,663.231,1,Transit,2019
+5975,279.35,1,Transit,2019
+5976,278.514,1,Transit,2020
+5977,371.414,1,Transit,2020
+5978,675.281,1,Transit,2025
+5979,99.731,1,Transit,2020
+5980,268.325,1,Transit,2009
+5981,542.251,1,Transit,2019
+5982,508.885,1,Transit,2019
+5983,362.087,1,Transit,2023
+5984,476.831,1,Transit,2025
+5985,484.852,1,Transit,2025
+5986,483.675,1,Transit,2025
+5987,153.242,1,Transit,2007
+5988,211.877,1,Transit,2015
+5989,258.426,1,Transit,2010
+5990,317.652,1,Transit,2010
+5991,207.49,1,Transit,2010
+5992,322.114,1,Transit,2010
+5993,211.416,1,Transit,2010
+5994,252.759,1,Transit,2010
+5995,348.494,1,Transit,2014
+5996,87.5953,1,Transit,2010
+5997,231.161,1,Transit,2007
+5998,383.829,1,Transit,2010
+5999,275.994,1,Transit,2010
+6000,121.944,1,Transit,2010
+6001,132.096,1,Transit,2010
+6002,202.218,1,Transit,2011
+6003,386.346,1,Transit,2011
+6004,392.791,1,Transit,2010
+6005,136.24,1,Transit,2010
+6006,213.982,1,Transit,2011
+6007,267.206,1,Transit,2007
+6008,163.371,2,Transit,2012
+6009,163.371,2,Radial Velocity,2015
+6010,177.291,1,Transit,2012
+6011,86.7467,1,Transit,2011
+6012,364.512,1,Transit,2011
+6013,211.196,1,Transit,2011
+6014,375.31,1,Transit,2011
+6015,264.78,4,Transit,2012
+6017,264.78,4,Transit,2015
+6018,264.78,4,Transit,2015
+6019,454.144,1,Transit,2011
+6020,194.553,1,Transit,2012
+6021,309.137,1,Transit,2008
+6022,184.848,1,Transit,2011
+6023,174.818,1,Transit,2012
+6024,201.338,2,Transit,2017
+6026,251.303,1,Transit,2012
+6027,297.462,1,Transit,2012
+6028,321.084,1,Transit,2012
+6029,398.276,1,Transit,2012
+6030,290.404,1,Transit,2012
+6031,115.936,1,Transit,2012
+6032,197.119,1,Transit,2009
+6033,431.052,1,Transit,2012
+6034,488.66,1,Transit,2012
+6035,175.631,1,Transit,2012
+6036,290.684,1,Transit,2012
+6037,369.926,1,Transit,2012
+6038,273.703,1,Transit,2013
+6039,500.258,1,Transit,2012
+6040,189.469,1,Transit,2012
+6041,226.399,1,Transit,2014
+6042,49.9605,1,Transit,2014
+6043,162.303,1,Transit,2008
+6044,222.355,1,Transit,2014
+6045,362.715,1,Transit,2012
+6046,434.754,1,Transit,2012
+6047,316.678,1,Transit,2014
+6048,149.216,1,Transit,2015
+6049,294.001,1,Transit,2013
+6050,194.459,1,Transit,2016
+6051,105.166,1,Transit,2012
+6052,754.258,1,Transit,2012
+6053,246.69,1,Transit,2012
+6054,89.9606,2,Transit,2010
+6055,89.9606,2,Radial Velocity,2013
+6056,49.7876,1,Transit,2012
+6057,398.505,1,Transit,2017
+6058,275.664,1,Transit,2015
+6059,271.103,1,Transit,2015
+6060,100.588,2,Transit,2014
+6061,100.588,2,Transit,2023
+6062,141.887,1,Transit,2016
+6063,298.392,1,Transit,2016
+6064,523.756,1,Transit,2014
+6065,290.946,1,Transit,2015
+6066,466.433,1,Transit,2016
+6067,149.942,1,Transit,2017
+6068,575.889,1,Transit,2016
+6069,370.284,1,Transit,2016
+6070,211.211,2,Transit,2014
+6071,208.696,2,Radial Velocity,2014
+6072,137.544,1,Transit,2014
+6073,352.464,1,Transit,2014
+6074,151.068,1,Transit,2014
+6075,281.742,1,Transit,2014
+6076,158.66,1,Transit,2014
+6077,19.2444,1,Imaging,2011
+6078,24.7359,1,Transit,2020
+6080,10.1,1,Imaging,2012
+6081,230.007,2,Imaging,2025
+6082,230.007,2,Imaging,2025
+6083,134.907,1,Imaging,2025
+6084,2346.01,1,Transit,2012
+6085,1030.76834437,1,Transit,2014
+6086,305.3,1,Transit,2020
+6087,565.541,1,Transit,2020
+6088,4.30592,3,Radial Velocity,2015
+6089,4.30592,3,Radial Velocity,2015
+6090,4.30592,3,Radial Velocity,2015
+6091,9.58341,1,Radial Velocity,2023
+6092,28.5321,1,Transit,2024
+6093,44.526,1,Transit,2018
+6094,163.553,1,Transit,2006
+6095,154.273,3,Transit,2007
+6096,151.398,3,Radial Velocity,2014
+6097,151.398,3,Radial Velocity,2014
+6098,213.053,1,Transit,2007
+6099,272.655,1,Transit,2010
+6100,276.211,1,Transit,2008
+6101,235.479,1,Transit,2016
+6102,234.149,1,Transit,2019
+6103,3.71207,3,Radial Velocity,2017
+6104,3.71207,3,Radial Velocity,2017
+6105,3.71207,3,Radial Velocity,2017
+6106,186.69,1,Transit,2025
+6107,201.827,1,Transit,2025
+6108,20.21019,1,Radial Velocity,2010
+6109,20.4332,1,Radial Velocity,2015
+6110,98.0935,1,Imaging,2021
+6111,89.0472,1,Radial Velocity,2014
+6112,19.7442,2,Imaging,2008
+6113,19.7442,2,Radial Velocity,2019
+6114,38.77472,1,Radial Velocity,2014
+6115,69.8683,1,Radial Velocity,2012
+6116,3.2026,1,Radial Velocity,2000
+6117,3.63857,1,Radial Velocity,2019
+6118,47.52852,1,Radial Velocity,2006
+6119,14.1024,1,Radial Velocity,2003
+6120,47.4017,2,Radial Velocity,2018
+6121,47.4017,2,Radial Velocity,2018
+6122,41.3107,1,Radial Velocity,2021
+6123,39.8883,1,Radial Velocity,2009
+6124,31.32832,2,Radial Velocity,2002
+6125,31.32832,2,Radial Velocity,2022
+6126,50.0177,1,Imaging,2012
+6127,30.0651,1,Radial Velocity,2007
+6128,32.6081,1,Radial Velocity,2014
+6130,21.1999,1,Radial Velocity,2016
+6131,46.2107,2,Radial Velocity,2012
+6132,46.2107,2,Radial Velocity,2012
+6133,76.7556,1,Radial Velocity,2013
+6134,84.7883,1,Radial Velocity,2012
+6135,54.9149,1,Radial Velocity,2012
+6136,18.2702,3,Transit,2018
+6137,18.2702,3,Radial Velocity,2022
+6138,22.7188,1,Radial Velocity,2015
+6139,17.4671,4,Radial Velocity,1997
+6140,17.4671,4,Radial Velocity,2016
+6141,17.4671,4,Radial Velocity,2023
+6142,17.4671,4,Radial Velocity,2023
+6143,15.6521,1,Radial Velocity,1996
+6144,3.60304,4,Radial Velocity,2017
+6145,3.60304,4,Radial Velocity,2017
+6146,3.60304,4,Radial Velocity,2017
+6147,3.60304,4,Radial Velocity,2017
+6148,112.537,1,Radial Velocity,2013
+6149,13.4054,3,Radial Velocity,1996
+6150,13.4054,3,Radial Velocity,1999
+6151,13.4054,3,Radial Velocity,1999
+6152,52.5973,1,Radial Velocity,2021
+6153,56.1858,1,Radial Velocity,2007
