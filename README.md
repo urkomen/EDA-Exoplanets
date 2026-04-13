@@ -190,8 +190,8 @@ El análisis busca:
 
 1. **Clonar el repositorio**:
    ```bash
-   git clone https://github.com/urkomen/proyectos.git
-   cd proyectos/The_Bridge/2-EDA/src
+   git clone https://github.com/urkomen/EDA-Exoplanets.git
+   cd EDA-Exoplanets/src
    ```
 
 2. **Instalar dependencias**:
